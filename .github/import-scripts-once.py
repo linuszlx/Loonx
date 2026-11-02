@@ -11,7 +11,9 @@ def safe_path(p):
  q=pathlib.Path(p);assert not q.is_absolute() and '..' not in q.parts;return root/q
 def get(entry):
  path=safe_path(entry['path'])
- if args.local:b=(pathlib.Path(args.local)/pathlib.Path(entry['path']).relative_to('Script')).read_bytes()
+ override=data.parent/'import-overrides'/entry['source_sha256']
+ if override.exists():b=override.read_bytes()
+ elif args.local:b=(pathlib.Path(args.local)/pathlib.Path(entry['path']).relative_to('Script')).read_bytes()
  else:
   with tempfile.TemporaryDirectory() as tmp:
    dest=pathlib.Path(tmp)/'body'
@@ -28,7 +30,12 @@ def get(entry):
    if count:text=text.replace(url,replacement);changes.append({'url':url,'replacement':replacement,'count':count})
  output=text.encode('utf-8');path.parent.mkdir(parents=True,exist_ok=True);path.write_bytes(output)
  return {**entry,'mirror_url':mapping[entry['url']],'bytes':len(output),'sha256':sha(output),'dependency_replacements':changes}
-with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:script_rows=list(pool.map(get,plan['files']))
+def checked_get(entry):
+ try:return get(entry)
+ except Exception as exc:
+  print('IMPORT_ERROR '+json.dumps({'url':entry['url'],'error':str(exc)}),flush=True);return None
+with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:script_rows=list(pool.map(checked_get,plan['files']))
+assert all(script_rows),'Some snapshots could not be fetched; no commit was created'
 script_rows.sort(key=lambda x:x['url'])
 script_pattern=re.compile(r'''(\bscript\(\s*["'])(https?://[^"']+)(["'])|(\bscript-path\s*=\s*)(https?://[^\s,]+)''')
 plugin_rows=[];changed=0;replaced=0;remaining={}
