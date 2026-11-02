@@ -1,0 +1,3001 @@
+{
+  "last_updated": "2026-11-01 21:29",
+  "plugins": [
+    {
+      "name": "1.1.1.1 with WARP",
+      "desc": "WARP检测面板与节点提取，点击下方主页链接前往配置1.1.1.1的BoxJs配置。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/1.1.1.1-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "VirgilClyne",
+          "url": "https://github.com/VirgilClyne",
+          "avatar": "https://github.com/VirgilClyne.png"
+        },
+        {
+          "name": "I-am-R-E",
+          "url": "https://github.com/I-am-R-E",
+          "avatar": "https://github.com/I-am-R-E.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/1.1.1.1.lpx",
+      "filename": "1.1.1.1.lpx"
+    },
+    {
+      "name": "123云盘",
+      "desc": "过滤123云盘应用端及网页端广告，解除网页端流量1G下载限制（请单文件下载，不要文件夹或多文件下载）。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/123Pan-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/123Pan.lpx",
+      "filename": "123Pan.lpx"
+    },
+    {
+      "name": "爱回收",
+      "desc": "过滤爱回收广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AiHuiShou.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/AiHuiShou.lpx",
+      "filename": "AiHuiShou.lpx"
+    },
+    {
+      "name": "阿里云盘",
+      "desc": "过滤阿里云盘广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alipan-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Alipan.lpx",
+      "filename": "Alipan.lpx"
+    },
+    {
+      "name": "高德地图",
+      "desc": "过滤高德地图广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Amap.png",
+      "date": "2026-10-20 15:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "kokoryh",
+          "url": "https://github.com/kokoryh",
+          "avatar": "https://github.com/kokoryh.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Amap.lpx",
+      "filename": "Amap.lpx"
+    },
+    {
+      "name": "DNS防污染",
+      "desc": "指定可靠DNS解析，防止被污染或劫持",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Anti-DNS-Leaks.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Anti-DNS-Leaks.lpx",
+      "filename": "Anti-DNS-Leaks.lpx"
+    },
+    {
+      "name": "AppRaven",
+      "desc": "AppRaven解锁会员",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppRaven.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "Yu9191",
+          "url": "https://github.com/Yu9191",
+          "avatar": "https://github.com/Yu9191.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/AppRaven.lpx",
+      "filename": "AppRaven.lpx"
+    },
+    {
+      "name": "AppStore Monitor",
+      "desc": "定时监控App Store内App的更新状态。\\n可输入多个AppID，可自定义查询区域顺序（不填则为默认顺序），均以逗号分隔。\\n可填入Bark Key使用Bark推送通知，若不填则默认使用Loon推送通知。\\n可填入Bark Group分组名称，默认为空值，无分组。\\n可选择Bark推送通知音效，默认值为system，使用系统默认提醒音效。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppStore-02.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强",
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/AppStoreMonitor.lpx",
+      "filename": "AppStoreMonitor.lpx"
+    },
+    {
+      "name": "AppleOS Monitor",
+      "desc": "定时监控Apple系统的版本更新。\\n可自定义选择需要监控的设备系统。\\n可输入多个OS版本，不填则默认所有OS版本，以逗号分隔。\\n可选择版本类型，默认为all即所有版本。\\n可填入Bark Group分组名称，默认为空值，无分组。\\n可填入Bark Key使用Bark推送通知，不填则默认使用Loon推送通知。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iBetame.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强",
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/AppleOSMonitor.lpx",
+      "filename": "AppleOSMonitor.lpx"
+    },
+    {
+      "name": "阿基米德",
+      "desc": "过滤阿基米德广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ArchimedesFM.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "mist-whisper",
+          "url": "https://github.com/mist-whisper",
+          "avatar": "https://github.com/mist-whisper.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ArchimedesFM.lpx",
+      "filename": "ArchimedesFM.lpx"
+    },
+    {
+      "name": "百度地图",
+      "desc": "过滤百度地图广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduMap.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BaiduMap.lpx",
+      "filename": "BaiduMap.lpx"
+    },
+    {
+      "name": "百度网盘",
+      "desc": "过滤百度网盘广告，解锁部分SVIP功能。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduNetDisk.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        },
+        {
+          "name": "chxm1023",
+          "url": "https://github.com/chxm1023",
+          "avatar": "https://github.com/chxm1023.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BaiduNetDisk.lpx",
+      "filename": "BaiduNetDisk.lpx"
+    },
+    {
+      "name": "百度贴吧",
+      "desc": "过滤百度贴吧广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduTieba.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "app2smile",
+          "url": "https://github.com/app2smile",
+          "avatar": "https://github.com/app2smile.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BaiduTieba.lpx",
+      "filename": "BaiduTieba.lpx"
+    },
+    {
+      "name": "百度文库",
+      "desc": "过滤百度文库广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduWenku.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BaiduWenku.lpx",
+      "filename": "BaiduWenku.lpx"
+    },
+    {
+      "name": "银行App",
+      "desc": "过滤部分银行应用广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/CNY.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Bank.lpx",
+      "filename": "Bank.lpx"
+    },
+    {
+      "name": "哔哩哔哩",
+      "desc": "过滤哔哩哔哩广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BilibiliPink.png",
+      "date": "2026-11-01 21:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "kokoryh",
+          "url": "https://github.com/kokoryh",
+          "avatar": "https://github.com/kokoryh.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Bilibili.lpx",
+      "filename": "Bilibili.lpx"
+    },
+    {
+      "name": "哔哩哔哩VIP",
+      "desc": "哔哩哔哩大会员",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BilibiliBlue.png",
+      "date": "2026-10-05 00:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Bilibili_VIP.lpx",
+      "filename": "Bilibili_VIP.lpx"
+    },
+    {
+      "name": "广告拦截合集",
+      "desc": "针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装拦截广告才会生效！",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/ShieldReject.png",
+      "date": "2026-10-31 00:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        },
+        {
+          "name": "zirawell",
+          "url": "https://github.com/zirawell",
+          "avatar": "https://github.com/zirawell.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BlockAds.lpx",
+      "filename": "BlockAds.lpx"
+    },
+    {
+      "name": "波点音乐",
+      "desc": "过滤波点音乐广告，解锁会员功能。\\n使用前请在BoxJS中添加订阅https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json并同意相关免责声明，或添加持久化数据「KUWO_AGREE 我同意」。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BodianMusic.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "mist-whisper",
+          "url": "https://github.com/mist-whisper",
+          "avatar": "https://github.com/mist-whisper.png"
+        },
+        {
+          "name": "GieGie777",
+          "url": "https://t.me/GieGie777",
+          "avatar": ""
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BodianMusic.lpx",
+      "filename": "BodianMusic.lpx"
+    },
+    {
+      "name": "BoxJs",
+      "desc": "Data manager，使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BoxJs.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "chavyleung",
+          "url": "https://github.com/chavyleung",
+          "avatar": "https://github.com/chavyleung.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/BoxJs.lpx",
+      "filename": "BoxJs.lpx"
+    },
+    {
+      "name": "CMS Adblocker",
+      "desc": "过滤CMS资源插入式广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CMSPlayer.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "Yswag",
+          "url": "https://github.com/Yswag",
+          "avatar": "https://github.com/Yswag.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CMS_Adblock.lpx",
+      "filename": "CMS_Adblock.lpx"
+    },
+    {
+      "name": "菜鸟",
+      "desc": "过滤菜鸟广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CaiNiao.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "githubdulong",
+          "url": "https://github.com/githubdulong",
+          "avatar": "https://github.com/githubdulong.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CaiNiao.lpx",
+      "filename": "CaiNiao.lpx"
+    },
+    {
+      "name": "财新",
+      "desc": "过滤财新广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CaiXin.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CaiXin.lpx",
+      "filename": "CaiXin.lpx"
+    },
+    {
+      "name": "超格教育",
+      "desc": "过滤超格教育广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChaoGeJiaoYu.png",
+      "date": "2026-10-05 15:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ChaoGeJiaoYu.lpx",
+      "filename": "ChaoGeJiaoYu.lpx"
+    },
+    {
+      "name": "车来了",
+      "desc": "过滤车来了广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CheLaiLe.png",
+      "date": "2026-10-14 11:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "CaoXiaoMann",
+          "url": "https://github.com/CaoXiaoMann",
+          "avatar": "https://github.com/CaoXiaoMann.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CheLaiLe.lpx",
+      "filename": "CheLaiLe.lpx"
+    },
+    {
+      "name": "中国广电",
+      "desc": "过滤中国广电广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChinaBroadnet.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ChinaBroadnet.lpx",
+      "filename": "ChinaBroadnet.lpx"
+    },
+    {
+      "name": "中国移动",
+      "desc": "过滤中国移动广告，可自定义。\\n支持Scripting中国移动小组件（https://www.imarkr.com/api/github/download/MaYIHEI/patch/scripting/cmcc.zip），使用前需获取Cookie，获取成功后可关闭Cookie脚本。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChinaMobile.png",
+      "date": "2026-10-27 17:00",
+      "tags": [
+        "去广告",
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "ccyykk666",
+          "url": "https://github.com/ccyykk666",
+          "avatar": "https://github.com/ccyykk666.png"
+        },
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        },
+        {
+          "name": "MaYIHEI",
+          "url": "https://github.com/MaYIHEI",
+          "avatar": "https://github.com/MaYIHEI.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ChinaMobile.lpx",
+      "filename": "ChinaMobile.lpx"
+    },
+    {
+      "name": "中国联通",
+      "desc": "过滤中国联通广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ChinaUnicom.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "mist-whisper",
+          "url": "https://github.com/mist-whisper",
+          "avatar": "https://github.com/mist-whisper.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ChinaUnicom.lpx",
+      "filename": "ChinaUnicom.lpx"
+    },
+    {
+      "name": "彩云天气Pro",
+      "desc": "过滤彩云天气广告，解锁SVIP功能。\\nApp版本低于7.20.2。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ColorfulCloudsWeatherPro.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ColorfulCloudsWeatherPro.lpx",
+      "filename": "ColorfulCloudsWeatherPro.lpx"
+    },
+    {
+      "name": "Cookie & Task",
+      "desc": "定时每日签到任务，按需开启相应功能即可。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Notifyman.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "FoKit",
+          "url": "https://github.com/FoKit",
+          "avatar": "https://github.com/FoKit.png"
+        },
+        {
+          "name": "GoodHolidays",
+          "url": "https://github.com/GoodHolidays",
+          "avatar": "https://github.com/GoodHolidays.png"
+        },
+        {
+          "name": "ClydeTime",
+          "url": "https://github.com/ClydeTime",
+          "avatar": "https://github.com/ClydeTime.png"
+        },
+        {
+          "name": "MaYIHEI",
+          "url": "https://github.com/MaYIHEI",
+          "avatar": "https://github.com/MaYIHEI.png"
+        },
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CookieTask.lpx",
+      "filename": "CookieTask.lpx"
+    },
+    {
+      "name": "酷安",
+      "desc": "过滤酷安广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CoolApk.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "VenenoSix24",
+          "url": "https://github.com/VenenoSix24",
+          "avatar": "https://github.com/VenenoSix24.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CoolApk.lpx",
+      "filename": "CoolApk.lpx"
+    },
+    {
+      "name": "小宇宙",
+      "desc": "过滤小宇宙广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/CosmosFM.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "mist-whisper",
+          "url": "https://github.com/mist-whisper",
+          "avatar": "https://github.com/mist-whisper.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/CosmosFM.lpx",
+      "filename": "CosmosFM.lpx"
+    },
+    {
+      "name": "大麦",
+      "desc": "过滤大麦广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DaMai.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/DaMai.lpx",
+      "filename": "DaMai.lpx"
+    },
+    {
+      "name": "得物",
+      "desc": "过滤得物广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DeWu.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/DeWu.lpx",
+      "filename": "DeWu.lpx"
+    },
+    {
+      "name": "滴滴",
+      "desc": "过滤滴滴广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DiDi.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/DiDi.lpx",
+      "filename": "DiDi.lpx"
+    },
+    {
+      "name": "叮咚买菜",
+      "desc": "过滤叮咚买菜广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DingDongMaiCai.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "mist-whisper",
+          "url": "https://github.com/mist-whisper",
+          "avatar": "https://github.com/mist-whisper.png"
+        },
+        {
+          "name": "zirawell",
+          "url": "https://github.com/zirawell",
+          "avatar": "https://github.com/zirawell.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/DingDongMaiCai.lpx",
+      "filename": "DingDongMaiCai.lpx"
+    },
+    {
+      "name": "豆瓣",
+      "desc": "过滤豆瓣广告，仅去除开屏广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/DouBan.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/DouBan.lpx",
+      "filename": "DouBan.lpx"
+    },
+    {
+      "name": "香港抖音",
+      "desc": "过滤香港抖音广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TikTok-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Douyin_HK.lpx",
+      "filename": "Douyin_HK.lpx"
+    },
+    {
+      "name": "萤石云视频",
+      "desc": "过滤萤石云视频广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Ezviz.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Ezviz.lpx",
+      "filename": "Ezviz.lpx"
+    },
+    {
+      "name": "帆书",
+      "desc": "过滤帆书（樊登读书）广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FanShu.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "Yuheng0101",
+          "url": "https://github.com/Yuheng0101",
+          "avatar": "https://github.com/Yuheng0101.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/FanShu.lpx",
+      "filename": "FanShu.lpx"
+    },
+    {
+      "name": "粉笔",
+      "desc": "过滤粉笔广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/FenBi.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/FenBi.lpx",
+      "filename": "FenBi.lpx"
+    },
+    {
+      "name": "Forward",
+      "desc": "解锁Forward Pro，适用于1.3.13及以下版本。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Forward.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "Yu9191",
+          "url": "https://github.com/Yu9191",
+          "avatar": "https://github.com/Yu9191.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Forward.lpx",
+      "filename": "Forward.lpx"
+    },
+    {
+      "name": "盒马",
+      "desc": "过滤盒马广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Freshippo.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Freshippo.lpx",
+      "filename": "Freshippo.lpx"
+    },
+    {
+      "name": "GLaDOS",
+      "desc": "GLaDOS每日签到。访问网页登录账号，进入账户页面后，手动刷新一次网页自动获取保存Cookie。Cookie存在有效期，失效后需重新获取。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/GLaDOS-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "curtinp118",
+          "url": "https://github.com/curtinp118",
+          "avatar": "https://github.com/curtinp118.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/GLaDOS.lpx",
+      "filename": "GLaDOS.lpx"
+    },
+    {
+      "name": "GitHub",
+      "desc": "解决GitHub 429请求频繁问题",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/GitHub-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Yuheng0101",
+          "url": "https://github.com/Yuheng0101",
+          "avatar": "https://github.com/Yuheng0101.png"
+        },
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/GitHub.lpx",
+      "filename": "GitHub.lpx"
+    },
+    {
+      "name": "闲鱼",
+      "desc": "过滤闲鱼广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Goofish.png",
+      "date": "2026-10-20 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Goofish.lpx",
+      "filename": "Goofish.lpx"
+    },
+    {
+      "name": "Google",
+      "desc": "将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Google.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Google.lpx",
+      "filename": "Google.lpx"
+    },
+    {
+      "name": "王者营地",
+      "desc": "过滤王者营地广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HOK_GameHelper.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/HOK_GameHelper.lpx",
+      "filename": "HOK_GameHelper.lpx"
+    },
+    {
+      "name": "虎扑",
+      "desc": "过滤虎扑广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HUPU-01.png",
+      "date": "2026-10-29 19:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/HUPU.lpx",
+      "filename": "HUPU.lpx"
+    },
+    {
+      "name": "喜马拉雅",
+      "desc": "过滤喜马拉雅广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/HimalayaFM.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/HimalayaFM.lpx",
+      "filename": "HimalayaFM.lpx"
+    },
+    {
+      "name": "IPA Manager",
+      "desc": "下载IPA文件实现降级应用安装、已购下架应用安装。\\n本插件依赖Scripting App且需解锁Pro权限。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iAppStore-03.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "githubdulong",
+          "url": "https://github.com/githubdulong",
+          "avatar": "https://github.com/githubdulong.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/IPAManager.lpx",
+      "filename": "IPAManager.lpx"
+    },
+    {
+      "name": "IPPure",
+      "desc": "通过IPPure接口检测IP质量。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IPPure.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/IPPure.lpx",
+      "filename": "IPPure.lpx"
+    },
+    {
+      "name": "爱奇艺",
+      "desc": "悦享品质 [悦享广告]",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IQIYI.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/IQIYI.lpx",
+      "filename": "IQIYI.lpx"
+    },
+    {
+      "name": "爱奇艺体育",
+      "desc": "过滤爱奇艺体育广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IQIYI_Ssports.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "mist-whisper",
+          "url": "https://github.com/mist-whisper",
+          "avatar": "https://github.com/mist-whisper.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/IQIYI_Ssports.lpx",
+      "filename": "IQIYI_Ssports.lpx"
+    },
+    {
+      "name": "IT之家",
+      "desc": "过滤IT之家广告，自定义移除置顶和轮播图，自定义移除项需在插件配置。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/IThome.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/IThome.lpx",
+      "filename": "IThome.lpx"
+    },
+    {
+      "name": "京东",
+      "desc": "1.过滤京东广告；2.历史比价信息，任选其一即可。（首次使用请先打开【慢慢买App-我的】，提示【获取ck成功🎉】即可正常比价。）\\n此插件仅支持京东标准模式。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/JingDong.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "Maasea",
+          "url": "https://github.com/Maasea",
+          "avatar": "https://github.com/Maasea.png"
+        },
+        {
+          "name": "MuTu",
+          "url": "https://github.com/githubdulong",
+          "avatar": "https://github.com/githubdulong.png"
+        },
+        {
+          "name": "苍井灰灰",
+          "url": "https://github.com/wf021325",
+          "avatar": "https://github.com/wf021325.png"
+        },
+        {
+          "name": "mw418",
+          "url": "https://github.com/mw418",
+          "avatar": "https://github.com/mw418.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/JingDong.lpx",
+      "filename": "JingDong.lpx"
+    },
+    {
+      "name": "京东外卖",
+      "desc": "过滤京东外卖广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/JingdongWaimai.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/JingdongWaimai.lpx",
+      "filename": "JingdongWaimai.lpx"
+    },
+    {
+      "name": "金山文档",
+      "desc": "过滤金山文档广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KDocs.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/KDocs.lpx",
+      "filename": "KDocs.lpx"
+    },
+    {
+      "name": "Keep",
+      "desc": "过滤Keep广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Keep.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Keep.lpx",
+      "filename": "Keep.lpx"
+    },
+    {
+      "name": "酷我音乐",
+      "desc": "过滤酷我音乐广告，解锁会员功能。\\n使用前请在BoxJS中添加订阅https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json并同意相关免责声明，或添加持久化数据「KUWO_AGREE 我同意」。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/KuwoMusic.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "Yuheng0101",
+          "url": "https://github.com/Yuheng0101",
+          "avatar": "https://github.com/Yuheng0101.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/KuwoMusic.lpx",
+      "filename": "KuwoMusic.lpx"
+    },
+    {
+      "name": "快手",
+      "desc": "过滤快手广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Kwai.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Kwai.lpx",
+      "filename": "Kwai.lpx"
+    },
+    {
+      "name": "掌上英雄联盟",
+      "desc": "过滤掌上英雄联盟广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LOL_Bible.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/LOL_Bible.lpx",
+      "filename": "LOL_Bible.lpx"
+    },
+    {
+      "name": "Listenify",
+      "desc": "从网易云音乐获取歌词与艺人封面",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Listenify.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Yswag",
+          "url": "https://github.com/Yswag",
+          "avatar": "https://github.com/Yswag.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Listenify.lpx",
+      "filename": "Listenify.lpx"
+    },
+    {
+      "name": "Loon Gallery",
+      "desc": "Loon插件仓库，一键安装。使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Loon.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Peng-YM",
+          "url": "https://github.com/Peng-YM",
+          "avatar": "https://github.com/Peng-YM.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/LoonGallery.lpx",
+      "filename": "LoonGallery.lpx"
+    },
+    {
+      "name": "本机开发服务回环",
+      "desc": "将发往目标IP的流量导入TUN并重定向回本机，用于本地开发调试。目标服务需已在本机监听。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Loon-Loopback.png",
+      "date": "2026-10-10 20:00",
+      "tags": [
+        "开发工具"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Loopback.lpx",
+      "filename": "Loopback.lpx"
+    },
+    {
+      "name": "瑞幸咖啡",
+      "desc": "过滤瑞幸咖啡广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/LuckinCoffee.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "Sliverkiss",
+          "url": "https://github.com/Sliverkiss",
+          "avatar": "https://github.com/Sliverkiss.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/LuckinCoffee.lpx",
+      "filename": "LuckinCoffee.lpx"
+    },
+    {
+      "name": "马蜂窝",
+      "desc": "过滤马蜂窝广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MaFengWo.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MaFengWo.lpx",
+      "filename": "MaFengWo.lpx"
+    },
+    {
+      "name": "埋堆堆",
+      "desc": "过滤埋堆堆广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MaiDuiDui.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MaiDuiDui.lpx",
+      "filename": "MaiDuiDui.lpx"
+    },
+    {
+      "name": "芒果TV",
+      "desc": "天生青春 [天生广告]",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MangoTV.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "WeiGiegie",
+          "url": "https://github.com/WeiGiegie",
+          "avatar": "https://github.com/WeiGiegie.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MangoTV.lpx",
+      "filename": "MangoTV.lpx"
+    },
+    {
+      "name": "美柚",
+      "desc": "过滤美柚广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MeetYou.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MeetYou.lpx",
+      "filename": "MeetYou.lpx"
+    },
+    {
+      "name": "美团",
+      "desc": "过滤美团广告，需卸载重装。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MeiTuan.png",
+      "date": "2026-10-25 21:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MeiTuan.lpx",
+      "filename": "MeiTuan.lpx"
+    },
+    {
+      "name": "咪咕视频",
+      "desc": "过滤咪咕视频广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MiguVideo.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MiguVideo.lpx",
+      "filename": "MiguVideo.lpx"
+    },
+    {
+      "name": "MyBlockAds",
+      "desc": "Walalala自用去广告合集",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/MyBlockAds.png",
+      "date": "2026-10-08 10:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/MyBlockAds.lpx",
+      "filename": "MyBlockAds.lpx"
+    },
+    {
+      "name": "网易云音乐",
+      "desc": "网易云音乐全面净化，可自定义界面样式。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NeteaseMusic.png",
+      "date": "2026-10-16 22:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "Keywos",
+          "url": "https://github.com/Keywos",
+          "avatar": "https://github.com/Keywos.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/NeteaseMusic.lpx",
+      "filename": "NeteaseMusic.lpx"
+    },
+    {
+      "name": "网络信息 𝕏",
+      "desc": "长按节点进行网络信息查询；支持网络变化时进行查询通知；提供 https://net-lsp-x.com 数据接口；详细参数设置见频道说明：https://t.me/zhetengsha",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Network.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Keywos",
+          "url": "https://github.com/Keywos",
+          "avatar": "https://github.com/Keywos.png"
+        },
+        {
+          "name": "xream",
+          "url": "https://github.com/xream",
+          "avatar": "https://github.com/xream.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Netisp-x.lpx",
+      "filename": "Netisp-x.lpx"
+    },
+    {
+      "name": "NodeSeek & DeepFlood",
+      "desc": "NodeSeek、DeepFlood每日签到。\\n登录账号进入个人页面以获取Cookie，成功后关闭Cookie脚本。\\n支持设置签到鸡腿奖励模式，默认为固定5个鸡腿。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/NodeSeek.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/NodeSeek.lpx",
+      "filename": "NodeSeek.lpx"
+    },
+    {
+      "name": "节点检测工具 𝕂",
+      "desc": "节点网速测试、节点解锁状况、节点风险查询、节点入口落地查询",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Netisp.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "KOP-XIAO",
+          "url": "https://github.com/KOP-XIAO",
+          "avatar": "https://github.com/KOP-XIAO.png"
+        },
+        {
+          "name": "xream",
+          "url": "https://github.com/xream",
+          "avatar": "https://github.com/xream.png"
+        },
+        {
+          "name": "Keywos",
+          "url": "https://github.com/Keywos",
+          "avatar": "https://github.com/Keywos.png"
+        },
+        {
+          "name": "dcpengx",
+          "url": "https://github.com/dcpengx",
+          "avatar": "https://github.com/dcpengx.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/NodeTools.lpx",
+      "filename": "NodeTools.lpx"
+    },
+    {
+      "name": "PandaTV",
+      "desc": "绕过PandaTV直播源防盗检测，恢复正常播放。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/PandaTV-02.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/PandaTV.lpx",
+      "filename": "PandaTV.lpx"
+    },
+    {
+      "name": "拼多多",
+      "desc": "过滤拼多多广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/PinDuoDuo.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        },
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/PinDuoDuo.lpx",
+      "filename": "PinDuoDuo.lpx"
+    },
+    {
+      "name": "QQ",
+      "desc": "QQ链接解锁，解除QQ内访问非白名单之外的地址提示停止访问该页面的限制，并移除跟踪参数。使用前需要清除QQ的缓存数据。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QQ.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/QQ.lpx",
+      "filename": "QQ.lpx"
+    },
+    {
+      "name": "QQ音乐",
+      "desc": "过滤QQ音乐广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QQMusic.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/QQMusic.lpx",
+      "filename": "QQMusic.lpx"
+    },
+    {
+      "name": "和风天气",
+      "desc": "过滤和风天气广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QWeather.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/QWeather.lpx",
+      "filename": "QWeather.lpx"
+    },
+    {
+      "name": "夸克",
+      "desc": "过滤夸克广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkBrowser.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/QuarkBrowser.lpx",
+      "filename": "QuarkBrowser.lpx"
+    },
+    {
+      "name": "夸克扫描王",
+      "desc": "过滤夸克扫描王广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QuarkScanKing.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/QuarkScanKing.lpx",
+      "filename": "QuarkScanKing.lpx"
+    },
+    {
+      "name": "铁路12306",
+      "desc": "过滤铁路12306广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Railway12306.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "kokoryh",
+          "url": "https://github.com/kokoryh",
+          "avatar": "https://github.com/kokoryh.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Railway12306.lpx",
+      "filename": "Railway12306.lpx"
+    },
+    {
+      "name": "小红书",
+      "desc": "过滤小红书广告，去除水印",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RedNote.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        },
+        {
+          "name": "meichiny",
+          "url": "https://github.com/meichiny",
+          "avatar": "https://github.com/meichiny.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/RedNote.lpx",
+      "filename": "RedNote.lpx"
+    },
+    {
+      "name": "Reddit",
+      "desc": "过滤应用内推广，阻止NSFW提示。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Reddit.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "xream",
+          "url": "https://github.com/xream",
+          "avatar": "https://github.com/xream.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Reddit.lpx",
+      "filename": "Reddit.lpx"
+    },
+    {
+      "name": "Redirect",
+      "desc": "针对部分网站进行重定向",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Web_302.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "blackmatrix7",
+          "url": "https://github.com/blackmatrix7",
+          "avatar": "https://github.com/blackmatrix7.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Redirect.lpx",
+      "filename": "Redirect.lpx"
+    },
+    {
+      "name": "RevenueCat",
+      "desc": "RevenueCat系列解锁合集，在设置中选择需要使用的原作者脚本以使用此插件。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RevenueCat.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "chxm1023",
+          "url": "https://github.com/chxm1023",
+          "avatar": "https://github.com/chxm1023.png"
+        },
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        },
+        {
+          "name": "Guding88",
+          "url": "https://github.com/Guding88",
+          "avatar": "https://github.com/Guding88.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/RevenueCat.lpx",
+      "filename": "RevenueCat.lpx"
+    },
+    {
+      "name": "RevenueCat",
+      "desc": "支持解锁RevenueCat、Superwall和Adapty（Adapty需卸载重装后生效）。\\n遇到解锁后报错或闪退的 App，可在插件设置中填入名称跳过；默认「-」表示全部 App 解锁。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/RevenueCat.png",
+      "date": "2026-10-06 17:00",
+      "tags": [
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "ios151",
+          "url": "https://github.com/ios151",
+          "avatar": "https://github.com/ios151.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/RevenueCat_baby.lpx",
+      "filename": "RevenueCat_baby.lpx"
+    },
+    {
+      "name": "顺丰速运",
+      "desc": "过滤顺丰速运广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SF-Express.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/SF-Express.lpx",
+      "filename": "SF-Express.lpx"
+    },
+    {
+      "name": "Script Hub",
+      "desc": "重写 & 规则集转换，使用前请在本插件的详情页面为[PROXY]项分配代理策略。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Script-Hub-Dark.png",
+      "date": "2026-10-02 21:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "xream",
+          "url": "https://github.com/xream",
+          "avatar": "https://github.com/xream.png"
+        },
+        {
+          "name": "Keywos",
+          "url": "https://github.com/Keywos",
+          "avatar": "https://github.com/Keywos.png"
+        },
+        {
+          "name": "CKYB",
+          "url": "https://github.com/CKYB",
+          "avatar": "https://github.com/CKYB.png"
+        },
+        {
+          "name": "小白脸",
+          "url": "https://github.com/%E5%B0%8F%E7%99%BD%E8%84%B8",
+          "avatar": "https://github.com/%E5%B0%8F%E7%99%BD%E8%84%B8.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Script-Hub.lpx",
+      "filename": "Script-Hub.lpx"
+    },
+    {
+      "name": "Skip Proxy and Real-IP Lists",
+      "desc": "跳过部分应用的代理检测",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/SkipProxy.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "mieqq",
+          "url": "https://github.com/mieqq",
+          "avatar": "https://github.com/mieqq.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/SkipProxy.lpx",
+      "filename": "SkipProxy.lpx"
+    },
+    {
+      "name": "汽水音乐",
+      "desc": "过滤汽水音乐广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/SodaMusic.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/SodaMusic.lpx",
+      "filename": "SodaMusic.lpx"
+    },
+    {
+      "name": "Soul",
+      "desc": "Soul全面净化",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Soul.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Soul.lpx",
+      "filename": "Soul.lpx"
+    },
+    {
+      "name": "SourceCode",
+      "desc": "支持浏览器内查看非公开插件源码，支持将插件转换为其他代理客户端所支持的格式。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/SourceCodeSandbox.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/SourceCode.lpx",
+      "filename": "SourceCode.lpx"
+    },
+    {
+      "name": "Spotify",
+      "desc": "过滤Spotify广告，修改插件自定义配置项需要重新登陆方可生效。适用于9.1.14及以下版本。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Spotify.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "001ProMax",
+          "url": "https://github.com/001ProMax",
+          "avatar": "https://github.com/001ProMax.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Spotify.lpx",
+      "filename": "Spotify.lpx"
+    },
+    {
+      "name": "Spotify",
+      "desc": "移除Spotify广告并解锁部分高级功能。音质无法设置为“极高（Very High）”。设置中Protobuf脚本只能启用其中一个，不能同时启用。启用插件后，请重新登录以应用完整配置。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Spotify.png",
+      "date": "2026-10-20 19:00",
+      "tags": [
+        "去广告",
+        "会员解锁"
+      ],
+      "authors": [
+        {
+          "name": "devchristian1337",
+          "url": "https://github.com/devchristian1337",
+          "avatar": "https://github.com/devchristian1337.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Spotify_CN.lpx",
+      "filename": "Spotify_CN.lpx"
+    },
+    {
+      "name": "墨鱼去开屏2.0",
+      "desc": "去除开屏广告，部分APP要清除缓存或者重新安装拦截广告才会生效!",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/AdReject.png",
+      "date": "2026-10-22 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/StartUpAds.lpx",
+      "filename": "StartUpAds.lpx"
+    },
+    {
+      "name": "流媒体解锁测试",
+      "desc": "设置不同流媒体规则所经策略组，访问服务检测网页（https://streaming.test），点击所需要测试的流媒体卡片，等待测试结果即可。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Conflux.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "huskydsb",
+          "url": "https://github.com/huskydsb",
+          "avatar": "https://github.com/huskydsb.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/StreamingMedia.lpx",
+      "filename": "StreamingMedia.lpx"
+    },
+    {
+      "name": "Sub-Store",
+      "desc": "高级订阅管理工具。使用前请在本插件的详情页面为[PROXY]项分配代理策略。定时任务默认为每天23点55分，可在插件设置中自定义。定时任务指定时将订阅/文件上传到私有Gist。在前端，叫做'同步'或'同步配置'。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Sub-Store.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Peng-YM",
+          "url": "https://github.com/Peng-YM",
+          "avatar": "https://github.com/Peng-YM.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Sub-Store.lpx",
+      "filename": "Sub-Store.lpx"
+    },
+    {
+      "name": "淘宝",
+      "desc": "过滤淘宝广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TaoBao.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "ishowshu",
+          "url": "https://github.com/ishowshu",
+          "avatar": "https://github.com/ishowshu.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TaoBao.lpx",
+      "filename": "TaoBao.lpx"
+    },
+    {
+      "name": "淘票票",
+      "desc": "过滤淘票票广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TaoPiaoPiao.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TaoPiaoPiao.lpx",
+      "filename": "TaoPiaoPiao.lpx"
+    },
+    {
+      "name": "飞猪旅行",
+      "desc": "过滤飞猪旅行广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TaobaoTravel.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TaobaoTravel.lpx",
+      "filename": "TaobaoTravel.lpx"
+    },
+    {
+      "name": "Telegram",
+      "desc": "Telegram外部链接跳转，可选目标客户端为Telegram、Swiftgram、Nagram、Turrit、iMe、Nicegram、Lingogram，默认选择Telegram跳转至官方客户端。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Telegram-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Telegram.lpx",
+      "filename": "Telegram.lpx"
+    },
+    {
+      "name": "腾讯文档",
+      "desc": "过滤腾讯文档广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentDocs.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TencentDocs.lpx",
+      "filename": "TencentDocs.lpx"
+    },
+    {
+      "name": "腾讯视频",
+      "desc": "不负好时光 [不负好广告]",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TencentVideo.png",
+      "date": "2026-11-01 21:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TencentVideo.lpx",
+      "filename": "TencentVideo.lpx"
+    },
+    {
+      "name": "TestFlight",
+      "desc": "解除TestFlight区域限制，以解决安装或更新TestFlight内App时, 提示“APP不可用”问题。\\niOS/iPadOS/tvOS 26已禁止TestFlight MitM，请禁用此插件。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TestFlight-03.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "NobyDa",
+          "url": "https://github.com/NobyDa",
+          "avatar": "https://github.com/NobyDa.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TestFlight.lpx",
+      "filename": "TestFlight.lpx"
+    },
+    {
+      "name": "TestFlight Monitor",
+      "desc": "1.自动监控TestFlight，手动填写应用APP_ID，一旦有空余名额会自动通知，点击通知即可跳转加入；\\n2.自动加入TestFlight，需先获取账号令牌[添加主机名testflight.apple.com]，一旦有空余名额会自动加入。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/TestFlight-04.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强",
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        },
+        {
+          "name": "DecoAri",
+          "url": "https://github.com/DecoAri",
+          "avatar": "https://github.com/DecoAri.png"
+        },
+        {
+          "name": "xream",
+          "url": "https://github.com/xream",
+          "avatar": "https://github.com/xream.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/TestFlightMonitor.lpx",
+      "filename": "TestFlightMonitor.lpx"
+    },
+    {
+      "name": "迅雷",
+      "desc": "过滤迅雷广告，解锁部分会员功能。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ThunderCloudDisk.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "Marol62926",
+          "url": "https://github.com/Marol62926",
+          "avatar": "https://github.com/Marol62926.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ThunderCloudDisk.lpx",
+      "filename": "ThunderCloudDisk.lpx"
+    },
+    {
+      "name": "UAPI热榜聚合",
+      "desc": "基于UAPI热榜接口定时推送多平台热榜数据。\\n可选填UAPI Token，使用个人密钥将消耗积分。\\n可设置热榜平台，建议避免配置过多以减少请求频率。\\n可设置榜单条数，默认5条，最大10条。\\n支持平台：哔哩哔哩 bilibili、A站 acfun、微博热搜 weibo、知乎热榜 zhihu、知乎日报 zhihu-daily、抖音 douyin、小红书 xiaohongshu、快手 kuaishou、豆瓣电影 douban-movie、豆瓣小组 douban-group、百度贴吧 tieba、虎扑 hupu、NGA论坛 ngabbs、V2EX v2ex、吾爱破解 52pojie、全球主机交流 hostloc、酷安 coolapk、百度热搜 baidu、澎湃新闻 thepaper、今日头条 toutiao、腾讯新闻 qq-news、新浪热搜 sina、新浪新闻 sina-news、网易新闻 netease-news、虎嗅 huxiu、爱范儿 ifanr、少数派 sspai、IT之家 ithome、IT之家喜加一 ithome-xijiayi、掘金 juejin、简书 jianshu、果壳 guokr、36氪 36kr、51CTO 51cto、CSDN csdn、NodeSeek nodeseek、HelloGitHub hellogithub、英雄联盟 lol、原神 genshin、崩坏3 honkai、星穹铁道 starrail、网易云音乐热歌榜 netease-music、QQ音乐热歌榜 qq-music、微信读书 weread、天气预警 weatheralarm、地震速报 earthquake、历史上的今天 history",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/FlameFill.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "定时任务"
+      ],
+      "authors": [
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/UAPI_HotBoard.lpx",
+      "filename": "UAPI_HotBoard.lpx"
+    },
+    {
+      "name": "航旅纵横",
+      "desc": "过滤航旅纵横广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Umetrip.png",
+      "date": "2026-10-05 15:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Umetrip.lpx",
+      "filename": "Umetrip.lpx"
+    },
+    {
+      "name": "V2EX",
+      "desc": "过滤V2EX社区广告；V2EX每日签到，访问V2EX个人主页自动获取保存Cookie。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/V2EX-03.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        },
+        {
+          "name": "curtinp118",
+          "url": "https://github.com/curtinp118",
+          "avatar": "https://github.com/curtinp118.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/V2EX.lpx",
+      "filename": "V2EX.lpx"
+    },
+    {
+      "name": "VVebo",
+      "desc": "修复用户主页时间线问题，需禁用[微博]插件和[微博轻享版]插件，以避免本插件不生效。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/VVebo.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "suiyuran",
+          "url": "https://github.com/suiyuran",
+          "avatar": "https://github.com/suiyuran.png"
+        },
+        {
+          "name": "androidcn",
+          "url": "https://github.com/androidcn",
+          "avatar": "https://github.com/androidcn.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/VVebo.lpx",
+      "filename": "VVebo.lpx"
+    },
+    {
+      "name": "看理想",
+      "desc": "过滤看理想部分广告，解锁会员广告及无限畅听，暂不支持数字图书馆。\\n视频解析：进入视频课程详情页，点击右上角分享并复制链接，在浏览器中打开，进入播放面板后点击任意一集即可自动解析。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Vistopia.png",
+      "date": "2026-10-27 23:00",
+      "tags": [
+        "去广告",
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "ios151",
+          "url": "https://github.com/ios151",
+          "avatar": "https://github.com/ios151.png"
+        },
+        {
+          "name": "Aioneas",
+          "url": "https://github.com/Aioneas",
+          "avatar": "https://github.com/Aioneas.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/Vistopia.lpx",
+      "filename": "Vistopia.lpx"
+    },
+    {
+      "name": "微信",
+      "desc": "微信公众号、小程序去广告以及微信外部链接解锁",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WeChat.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "zZPiglet",
+          "url": "https://github.com/zZPiglet",
+          "avatar": "https://github.com/zZPiglet.png"
+        },
+        {
+          "name": "blackmatrix7",
+          "url": "https://github.com/blackmatrix7",
+          "avatar": "https://github.com/blackmatrix7.png"
+        },
+        {
+          "name": "zirawell",
+          "url": "https://github.com/zirawell",
+          "avatar": "https://github.com/zirawell.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/WeChat.lpx",
+      "filename": "WeChat.lpx"
+    },
+    {
+      "name": "WebPage",
+      "desc": "过滤部分网页广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Alook.png",
+      "date": "2026-10-31 22:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "kokoryh",
+          "url": "https://github.com/kokoryh",
+          "avatar": "https://github.com/kokoryh.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/WebPage.lpx",
+      "filename": "WebPage.lpx"
+    },
+    {
+      "name": "微博",
+      "desc": "微博全面净化",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WeiBo.png",
+      "date": "2026-10-19 15:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        },
+        {
+          "name": "zmqcherish",
+          "url": "https://github.com/zmqcherish",
+          "avatar": "https://github.com/zmqcherish.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/WeiBo.lpx",
+      "filename": "WeiBo.lpx"
+    },
+    {
+      "name": "微博轻享版",
+      "desc": "过滤微博轻享版广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WeiBo_Intl.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "Keywos",
+          "url": "https://github.com/Keywos",
+          "avatar": "https://github.com/Keywos.png"
+        },
+        {
+          "name": "kokoryh",
+          "url": "https://github.com/kokoryh",
+          "avatar": "https://github.com/kokoryh.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/WeiBo_Intl.lpx",
+      "filename": "WeiBo_Intl.lpx"
+    },
+    {
+      "name": "微博",
+      "desc": "微博增强",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WeiBo.png",
+      "date": "2026-10-19 20:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/WeiBo_ddgksf2013.lpx",
+      "filename": "WeiBo_ddgksf2013.lpx"
+    },
+    {
+      "name": "微店",
+      "desc": "过滤微店广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/WeiDian.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/WeiDian.lpx",
+      "filename": "WeiDian.lpx"
+    },
+    {
+      "name": "XPTV",
+      "desc": "伪CMS源，安装此插件后在XPTV内添加订阅地址：https://ykusu.ykusu/getJSON/cmsbeta.json",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XPTV.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Yswag",
+          "url": "https://github.com/Yswag",
+          "avatar": "https://github.com/Yswag.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/XPTV.lpx",
+      "filename": "XPTV.lpx"
+    },
+    {
+      "name": "X（Twitter）",
+      "desc": "过滤网页版X（Twitter）广告，支持自定义标签。\\n所有标签：政治, 股票, 商业, 科学, AI, 加密, 新闻, 金融, 软件, 体育, 科技, 艺术, 电影与电视, 游戏, 橄榄球, 动漫, 旅行, 美食, 棒球, 篮球, 美妆, 拳击, 足球, 职业, 汽车, 宠物, 名人, 音乐, 乡村音乐, 舞蹈, 恋爱, 设计, 教育, 电音, 创业公司, 电子竞技, 家庭, 时尚, 流行音乐, 高尔夫, 韩流音乐, 表情包, 健康, 摔跤, 赛车, 摩托车, 自然, 曲棍球, 奥运会, 照片, 播客, 房地产, 机器人, 摇滚, 橄榄球, 购物, 冰雪运动, 太空, 网球, 首页, 板球, F1, 骑行, J-Pop, 音乐会, 嘻哈, 爵士乐, 犯罪, 选举, 生物技术, 心理健康, 数字艺术",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/X-01.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "fmz200",
+          "url": "https://github.com/fmz200",
+          "avatar": "https://github.com/fmz200.png"
+        },
+        {
+          "name": "sooyaaabo",
+          "url": "https://github.com/sooyaaabo",
+          "avatar": "https://github.com/sooyaaabo.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/X_Web.lpx",
+      "filename": "X_Web.lpx"
+    },
+    {
+      "name": "小蚕惠生活",
+      "desc": "过滤小蚕惠生活广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XiaoCan.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "Sliverkiss",
+          "url": "https://github.com/Sliverkiss",
+          "avatar": "https://github.com/Sliverkiss.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/XiaoCan.lpx",
+      "filename": "XiaoCan.lpx"
+    },
+    {
+      "name": "小黑盒",
+      "desc": "过滤小黑盒广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XiaoHeiHe.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/XiaoHeiHe.lpx",
+      "filename": "XiaoHeiHe.lpx"
+    },
+    {
+      "name": "小象超市",
+      "desc": "过滤小象超市广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XiaoxiangSupermarket.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/XiaoxiangSupermarket.lpx",
+      "filename": "XiaoxiangSupermarket.lpx"
+    },
+    {
+      "name": "雪球",
+      "desc": "过滤雪球广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XueQiu.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        },
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/XueQiu.lpx",
+      "filename": "XueQiu.lpx"
+    },
+    {
+      "name": "YouTube (Music)",
+      "desc": "过滤YouTube (Music)广告，增加画中画、字幕翻译、歌词翻译功能，支持后台播放。需要启用QUIC回退保护。不支持tvOS设备。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/YouTube.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告",
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "Maasea",
+          "url": "https://github.com/Maasea",
+          "avatar": "https://github.com/Maasea.png"
+        },
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/YouTube.lpx",
+      "filename": "YouTube.lpx"
+    },
+    {
+      "name": "YouTube",
+      "desc": "移除YouTube应用广告、启用后台播放，并翻译现有字幕轨道（目标语言为zh-CN或en-US；没有字幕的视频无法翻译）。默认仅记录媒体响应头；完整采样可能增加延迟。\\n该插件基于devchristian1337的YouTube插件汉化。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/YouTube.png",
+      "date": "2026-10-10 16:00",
+      "tags": [
+        "去广告",
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "devchristian1337",
+          "url": "https://github.com/devchristian1337",
+          "avatar": "https://github.com/devchristian1337.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/YouTube_CN.lpx",
+      "filename": "YouTube_CN.lpx"
+    },
+    {
+      "name": "优酷视频",
+      "desc": "为好内容 全力以赴 [为好广告 全力以赴]",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/YoukuVideo.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/YoukuVideo.lpx",
+      "filename": "YoukuVideo.lpx"
+    },
+    {
+      "name": "知乎",
+      "desc": "过滤知乎广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ZhiHu.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "RuCu6",
+          "url": "https://github.com/RuCu6",
+          "avatar": "https://github.com/RuCu6.png"
+        },
+        {
+          "name": "blackmatrix7",
+          "url": "https://github.com/blackmatrix7",
+          "avatar": "https://github.com/blackmatrix7.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/ZhiHu.lpx",
+      "filename": "ZhiHu.lpx"
+    },
+    {
+      "name": "iRingo:WeatherKit",
+      "desc": "1.解锁全部天气功能；2.替换空气质量数据；3.添加下一小时降水数据；4.添加天气数据。\\n仅支持iOS 18 & macOS 15 & watchOS 11及以上版本。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/AppleWeather.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "功能增强"
+      ],
+      "authors": [
+        {
+          "name": "VirgilClyne",
+          "url": "https://github.com/VirgilClyne",
+          "avatar": "https://github.com/VirgilClyne.png"
+        },
+        {
+          "name": "WordlessEcho",
+          "url": "https://github.com/WordlessEcho",
+          "avatar": "https://github.com/WordlessEcho.png"
+        },
+        {
+          "name": "001ProMax",
+          "url": "https://github.com/001ProMax",
+          "avatar": "https://github.com/001ProMax.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/iRingo_WeatherKit.lpx",
+      "filename": "iRingo_WeatherKit.lpx"
+    },
+    {
+      "name": "iTunes",
+      "desc": "iTunes系列解锁合集，在设置中选择需要使用的原作者脚本以使用此插件。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iTunes.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "chxm1023",
+          "url": "https://github.com/chxm1023",
+          "avatar": "https://github.com/chxm1023.png"
+        },
+        {
+          "name": "ddgksf2013",
+          "url": "https://github.com/ddgksf2013",
+          "avatar": "https://github.com/ddgksf2013.png"
+        },
+        {
+          "name": "Guding88",
+          "url": "https://github.com/Guding88",
+          "avatar": "https://github.com/Guding88.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/iTunes.lpx",
+      "filename": "iTunes.lpx"
+    },
+    {
+      "name": "iTunes",
+      "desc": "自动查询App内购产品，并解锁最高价套餐的订阅凭证；可在插件设置中关闭。",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iTunes.png",
+      "date": "2026-10-06 17:00",
+      "tags": [
+        "解锁会员"
+      ],
+      "authors": [
+        {
+          "name": "ios151",
+          "url": "https://github.com/ios151",
+          "avatar": "https://github.com/ios151.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/iTunes_baby.lpx",
+      "filename": "iTunes_baby.lpx"
+    },
+    {
+      "name": "米游社",
+      "desc": "过滤米游社广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/miHoYoBBS.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/miHoYoBBS.lpx",
+      "filename": "miHoYoBBS.lpx"
+    },
+    {
+      "name": "什么值得买",
+      "desc": "过滤什么值得买广告",
+      "icon": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/ZhiDeMai.png",
+      "date": "2026-10-02 12:00",
+      "tags": [
+        "去广告"
+      ],
+      "authors": [
+        {
+          "name": "ZenmoFeiShi",
+          "url": "https://github.com/ZenmoFeiShi",
+          "avatar": "https://github.com/ZenmoFeiShi.png"
+        },
+        {
+          "name": "可莉🅥",
+          "url": "https://github.com/luestr/ProxyResource/blob/main/README.md",
+          "avatar": "https://github.com/luestr.png"
+        }
+      ],
+      "url": "https://loon.103516.xyz/Plugin/smzdm.lpx",
+      "filename": "smzdm.lpx"
+    }
+  ]
+}

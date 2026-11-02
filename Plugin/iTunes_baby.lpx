@@ -1,0 +1,24 @@
+#!name = iTunes
+#!desc = 自动查询App内购产品，并解锁最高价套餐的订阅凭证；可在插件设置中关闭。
+#!openUrl = 
+#!author = ios151[https://github.com/ios151]
+#!tag = 解锁会员
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/iTunes.png
+#!date = 2026-10-06 17:00
+
+# https://reven.jsforbaby.workers.dev/reven/iTunes.lpx
+
+[Argument]
+Enabled = input, "true", tag = 启用解锁, desc = 是否启用会员解锁。true：拦截请求并注入凭证；false：不处理，直接放行。
+Expires = input, "2099-09-09", tag = 订阅到期日期, desc = 设置订阅到期日期，格式为YYYY-MM-DD。默认为2099-09-09。
+Country = input, "HK", tag = App Store国家/地区, desc = 用于查询内购产品的App Store国家/地区代码，填写两位大写ISO 3166-1代码。建议填写下载该App的App Store地区。默认HK兼容性较好；国区独占或限定促销App需填写CN，否则产品未在该地区上架可能导致解锁失败。
+
+[Script]
+request if ${url} ~= /^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt/i then script("https://reven.jsforbaby.workers.dev/reven/loon-itunes.js", {${Enabled}, ${Expires}, ${Country}}) with tag="[iTunes]Crack Relay", requires_body=true
+
+[MitM]
+hostname = buy.itunes.apple.com

@@ -1,0 +1,37 @@
+#!name = 咪咕视频
+#!desc = 过滤咪咕视频广告
+#!openUrl = https://apps.apple.com/app/id787130974
+#!author = ddgksf2013[https://github.com/ddgksf2013]
+#!tag = 去广告, 解锁会员
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MiguVideo.png
+#!date = 2026-10-02 12:00
+
+# 2026-02-14 V1.0.3
+# https://ddgksf2013.top/rewrite/MiGuVideoAds.conf
+# 2026-05-14
+# https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip_share.snippet
+
+[Rewrite]
+request if ${url} ~= /^https:\/\/.*miguvideo\.com\/request\/sdk/i then reject(200)
+
+request if ${url} ~= /^https:\/\/.*miguvideo\.com\/deliver\/site\/batchMatch\/mergeSpot\/miguvideo/i then reject(200)
+
+response if ${url} ~= /^https:\/\/.*miguvideo\.com\/recommend-dynamic\/dataSource\/v\d\/recommend/i then response.json.jq(".body.data=[]")
+
+response if ${url} ~= /^https:\/\/.*migu\.cn\/search\/hotword/i then response.json.jq(".body={}")
+
+[Script]
+request if ${url} ~= /^https?:\/\/(play|play-pre|v|v[0-9]?-sc|vmesh|app-sc|vms-sc|display(-sc)?|common-sc|program-sc|d[0-9]-sc|fs-sc|fsdv-sc|mp-user|recommend-dy|chat|chat-wx|public-deliver[0-9]?|public-operbiz[0-9]?|public-img)\.miguvideo\.com\/.+/i then script("https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip.js") with tag="[咪咕视频]会员Crack", requires_body=false
+
+request if ${url} ~= /^https?:\/\/(passport|uem|push|jadeite|jadeiteapp|hound|feedback|rcsdk)\.migu\.cn\/.+/i then script("https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip.js") with tag="[咪咕视频]会员Crack", requires_body=false
+
+response if ${url} ~= /^https:\/\/.*miguvideo\.com\/app-management\/v\d\/staticcache\/navigation-list\/miguvideo\/ios/i then script("https://ddgksf2013.top/scripts/migu.ads.js") with tag="[咪咕视频]移除广告", requires_body=true
+
+response if ${url} ~= /^https:\/\/.*miguvideo\.com\/display\/v\d\/static\/PERSONAL_CENTER/i then script("https://ddgksf2013.top/scripts/migu.ads.js") with tag="[咪咕视频]移除广告", requires_body=true
+
+[MitM]
+hostname = *.miguvideo.com, *.migu.cn

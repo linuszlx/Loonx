@@ -1,0 +1,20 @@
+#!name = 和风天气
+#!desc = 过滤和风天气广告
+#!openUrl = https://apps.apple.com/app/id1461458147
+#!author = ddgksf2013[https://github.com/ddgksf2013]
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/QWeather.png
+#!date = 2026-10-02 12:00
+
+# 2026-01-19 V1.0.1
+# https://ddgksf2013.top/rewrite/HeFengWeatherAds.conf
+
+[Rewrite]
+response if ${url} ~= /^https?:\/\/hfapp-service\.qweather\.net\/.*\/app\/ad\/list/i then response.json.jq(".data=[]")
+
+[MitM]
+hostname = hfapp-service.qweather.net

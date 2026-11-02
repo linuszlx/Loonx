@@ -1,0 +1,24 @@
+#!name = 小黑盒
+#!desc = 过滤小黑盒广告
+#!openUrl = https://apps.apple.com/app/id1244505010
+#!author = 可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/XiaoHeiHe.png
+#!date = 2026-10-02 12:00
+
+# 2026-10-02 13:57:49
+# https://kelee.one/Tool/Loon/Lpx/XiaoCan_remove_ads.lpx
+
+# 移除开屏广告、热点板块信息流广告
+
+[Rewrite]
+request if ${url} ~= /^https:\/\/api\.xiaoheihe\.cn\/account\/get_ads_info_v2/i then reject_dict(200)
+
+response if ${url} ~= /^https:\/\/api\.xiaoheihe\.cn\/bbs\/app\/feeds\/news/i then response.json.jq(".result.links |= map(if .content_type == 27 then del(.title, .ad_pm, .img_gif, .idea_id, .ad_report, .label, .source, .intranet_only, .ad_cm, .content_type, .PROTOCOL, .img, .ad_ratio) else . end)")
+
+[MitM]
+hostname = api.xiaoheihe.cn

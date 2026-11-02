@@ -1,0 +1,62 @@
+#!name= DNS防污染
+#!desc= 指定可靠DNS解析，防止被污染或劫持
+#!openUrl = 
+#!author = sooyaaabo[https://github.com/sooyaaabo]
+#!tag = 功能增强
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Other/Anti-DNS-Leaks.png
+#!date = 2026-10-02 12:00
+
+# https://8.134.152.191:13889/loonald
+
+[General]
+dns-server = 114.114.114.114
+
+[Host]
+dns.alidns.com = server:114.114.114.114
+*.alicdn.com = server:114.114.114.114
+aliyun.com = server:114.114.114.114
+*.aliyun.com = server:114.114.114.114
+taobao.com = server:223.6.6.6
+*.taobao.com = server:223.6.6.6
+tmall.com = server:223.6.6.6
+*.tmall.com = server:223.6.6.6
+
+jd.com = server:119.29.29.29
+*.jd.com = server:119.28.28.28
+
+*.qq.com = server:119.28.28.28
+*.tencent.com = server:119.28.28.28
+weixin.com = server:119.28.28.28
+*.weixin.com = server:119.28.28.28
+
+bilibili.com = server:119.29.29.29
+*.bilibili.com = server:119.29.29.29
+hdslb.com = server:119.29.29.29
+
+163.com = server:119.29.29.29
+*.163.com = server:119.29.29.29
+126.com = server:119.29.29.29
+*.126.com = server:119.29.29.29
+*.126.net = server:119.29.29.29
+*.127.net = server:119.29.29.29
+*.netease.com = server:119.29.29.29
+
+mi.com = server:119.29.29.29
+*.mi.com = server:119.29.29.29
+xiaomi.com = server:119.29.29.29
+*.xiaomi.com = server:119.29.29.29
+
+*.digital-nvme.com = server:https://8.138.94.132/dns-query
+*.redbookai.xyz = server:https://8.138.94.132/dns-query
+*.yunsmartdns.com = server:https://8.138.94.132/dns-query
+
+routerlogin.net = server:system
+_hotspot_.m2m = server:system
+router.asus.com = server:system
+hotspot.cslwifi.com = server:system
+amplifi.lan = server:system
+*.lan = server:system

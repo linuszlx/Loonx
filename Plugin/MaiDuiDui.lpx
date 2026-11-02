@@ -1,0 +1,40 @@
+#!name = 埋堆堆
+#!desc = 过滤埋堆堆广告
+#!openUrl = https://apps.apple.com/app/id1314769817
+#!author = ddgksf2013[https://github.com/ddgksf2013]
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/MaiDuiDui.png
+#!date = 2026-10-02 12:00
+
+# 2026-01-30 V1.0.2
+# https://ddgksf2013.top/rewrite/MaiDuiDuiAds.conf
+
+[Rule]
+DOMAIN, ubixioe.com, REJECT
+URL-REGEX, "^http:\/\/119\.29\.29\.90\/d", REJECT
+
+[Rewrite]
+# 我的页面推广
+response if ${url} ~= /^https?:\/\/mob\.mddcloud\.com\.cn\/api\/app\/getConfigList396\.action/i then response.json.jq(".data.appOprConfigs=[]")
+
+# 首页模块推广
+response if ${url} ~= /^https?:\/\/mob\.mddcloud\.com\.cn\/api\/module\/listTabModules\.action/i then response.json.jq(".data |= map(select(.moduleType!=16)) | .data |= map(if .moduleType==21 then .moduleData |= map(select(.redirectType == 2)) else . end)")
+
+# 精简底部Tab栏
+response if ${url} ~= /^https?:\/\/mob\.mddcloud\.com\.cn\/api\/layout\/info/i then response.json.jq(".data.layoutInfo.entranceList |= map(select(.name | IN(\"首页\", \"会员\")))")
+
+# 视频开头广告
+request if ${url} ~= /^https?:\/\/maiduidui.*sensorsdata\.cn\/api\/v\d\/sfo\/(user_)?popup_displays/i then reject(200)
+
+# 开屏广告
+request if ${url} ~= /^https?:\/\/mob\.mddcloud\.com\.cn\/adApi/i then reject(200)
+
+# 搜索填词
+response if ${url} ~= /^https?:\/\/mob\.mddcloud\.com\.cn\/api\/search\/hotKeyword\.action/i then response.json.jq(".data=[{\"isAppointRedirect\":0,\"iconImg\":\"\",\"category\":11,\"keyword\":\"搜索\",\"uuid\":\"\",\"seq\":1}]")
+
+[MitM]
+hostname = mob.mddcloud.com.cn, maiduidui.*.saas.sensorsdata.cn

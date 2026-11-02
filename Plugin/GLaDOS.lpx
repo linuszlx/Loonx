@@ -1,0 +1,33 @@
+#!name = GLaDOS
+#!desc = GLaDOS每日签到。访问网页登录账号，进入账户页面后，手动刷新一次网页自动获取保存Cookie。Cookie存在有效期，失效后需重新获取。
+#!openUrl = https://glados.cloud/
+#!author = curtinp118[https://github.com/curtinp118]
+#!tag = 定时任务
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Airport/GLaDOS-01.png
+#!date = 2026-10-02 12:00
+
+# 2026-05-31
+# https://raw.githubusercontent.com/curtinp118/Loon/main/plugins/glados.lpx
+
+[Argument]
+Cookie-GLaDOS = switch, true, false, tag = [GLaDOS]每日签到Cookie, desc = 获取[GLaDOS]每日签到Cookie
+Task-GLaDOS = switch, true, false, tag = [GLaDOS]每日签到Task, desc = 定时运行[GLaDOS]每日签到Task
+Cron-GLaDOS = input, "0 0 9 * * *", tag = [GLaDOS]定时参数Cron, desc = 输入Cron表达式来定时运行[GLaDOS]每日签到Task
+
+[Rule]
+DOMAIN-SUFFIX, glados.cloud, PROXY
+DOMAIN-SUFFIX, glados.network, PROXY
+DOMAIN-SUFFIX, glados.one, PROXY
+DOMAIN-SUFFIX, glados.space, PROXY
+DOMAIN-SUFFIX, glados.vip, PROXY
+
+[Script]
+request if ${url} ~= /^https:\/\/glados\.(?:cloud|network|one|space|vip)\/console\/account$/i then script("https://loon.103516.xyz/Script/GLaDOS/GLaDOS.checkin.js") with enable=${Cookie-GLaDOS}, tag="[GLaDOS]每日签到Cookie"
+cron ${Cron-GLaDOS} then script("https://loon.103516.xyz/Script/GLaDOS/GLaDOS.checkin.js") with enable=${Task-GLaDOS}, tag="[GLaDOS]每日签到Task"
+
+[MitM]
+hostname = glados.cloud, glados.network, glados.one, glados.space, glados.vip

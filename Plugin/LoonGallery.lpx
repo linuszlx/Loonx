@@ -1,0 +1,23 @@
+#!name = Loon Gallery
+#!desc = Loon插件仓库，一键安装。使用前请在本插件的详情页面为[PROXY]项分配代理策略。
+#!openUrl = https://🎈.com
+#!author = Peng-YM[https://github.com/Peng-YM]
+#!tag = 功能增强
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/Loon.png
+#!date = 2026-10-02 12:00
+
+# 2022-05-11
+# https://github.com/Peng-YM/Loon-Gallery/blob/master/loon-gallery.plugin
+
+[Rule]
+DOMAIN, loon-plugin.vercel.app, PROXY
+
+[Script]
+request if ${url} ~= /^https?:\/\/xn--ck8h\.com/i then script("https://raw.githubusercontent.com/Loon0x00/Loon-Gallery/master/backend/gallery.js") with tag="Loon插件仓库", timeout=120, requires_body=true
+
+[MitM]
+hostname = xn--ck8h.com

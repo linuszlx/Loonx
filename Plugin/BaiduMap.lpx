@@ -1,0 +1,48 @@
+#!name = 百度地图
+#!desc = 过滤百度地图广告
+#!openUrl = https://apps.apple.com/app/id452186370
+#!author = ddgksf2013[https://github.com/ddgksf2013]
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.5.2(1005)
+#!homepage = https://loonlab.103516.xyz/Plugin/
+#!icon = https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/App/BaiduMap.png
+#!date = 2026-10-02 12:00
+
+# 2025-12-28 V1.0.6
+# https://ddgksf2013.top/scripts/bdmap.ads.js
+
+[Rewrite]
+# 首页底部推荐
+response if ${url} ~= /^https?:\/\/.*map\.baidu\.com\/.*govui\/rich_content/i then response.json.jq(".data.posts.content=[]")
+
+# 搜索框下足记Tips
+# request if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui.*qt=rgc/i then reject(200)
+
+# 搜索推广
+request if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui.*qt=hw/i then reject(200)
+
+# 开屏广告|首页左上角广告
+request if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads/i then reject(200)
+
+# DNS处理
+response if ${url} ~= /^https?:\/\/httpdns\.baidubce\.com/i then response.json.jq(".data[\"newclient.map.baidu.com\"]={}")
+
+# 各种商业推广
+request if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/client\/crossmarketing/i then reject(200)
+
+# 我的页面地图动态
+request if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/client\/usersystem\/home\/dynamic/i then reject(200)
+
+# TIPS
+request if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/contributor-bus\/bounty\/tips/i then reject(200)
+
+# 我的页面
+response if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/usercenter\/mine\/page/i then response.json.jq("del(.data.sport_card, .data.gold, .data.gold_coin_card, .data.shop)")
+
+# 周边搜索填词
+response if ${url} ~= /^https?:\/\/newclient\.map\.baidu\.com\/living\/nearby\/hot-words\?/i then response.json.jq(".Result.data=[]")
+
+[MitM]
+hostname = 180.76.76.200, newclient.map.baidu.com, httpdns.baidubce.com, ugc.map.baidu.com
