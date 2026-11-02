@@ -25,13 +25,13 @@ response if ${url} ~= /^https:\/\/.*miguvideo\.com\/recommend-dynamic\/dataSourc
 response if ${url} ~= /^https:\/\/.*migu\.cn\/search\/hotword/i then response.json.jq(".body={}")
 
 [Script]
-request if ${url} ~= /^https?:\/\/(play|play-pre|v|v[0-9]?-sc|vmesh|app-sc|vms-sc|display(-sc)?|common-sc|program-sc|d[0-9]-sc|fs-sc|fsdv-sc|mp-user|recommend-dy|chat|chat-wx|public-deliver[0-9]?|public-operbiz[0-9]?|public-img)\.miguvideo\.com\/.+/i then script("https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip.js") with tag="[咪咕视频]会员Crack", requires_body=false
+request if ${url} ~= /^https?:\/\/(play|play-pre|v|v[0-9]?-sc|vmesh|app-sc|vms-sc|display(-sc)?|common-sc|program-sc|d[0-9]-sc|fs-sc|fsdv-sc|mp-user|recommend-dy|chat|chat-wx|public-deliver[0-9]?|public-operbiz[0-9]?|public-img)\.miguvideo\.com\/.+/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip.js") with tag="[咪咕视频]会员Crack", requires_body=false
 
-request if ${url} ~= /^https?:\/\/(passport|uem|push|jadeite|jadeiteapp|hound|feedback|rcsdk)\.migu\.cn\/.+/i then script("https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip.js") with tag="[咪咕视频]会员Crack", requires_body=false
+request if ${url} ~= /^https?:\/\/(passport|uem|push|jadeite|jadeiteapp|hound|feedback|rcsdk)\.migu\.cn\/.+/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ZenmoFeiShi/Qx/main/migu_vip.js") with tag="[咪咕视频]会员Crack", requires_body=false
 
-response if ${url} ~= /^https:\/\/.*miguvideo\.com\/app-management\/v\d\/staticcache\/navigation-list\/miguvideo\/ios/i then script("https://ddgksf2013.top/scripts/migu.ads.js") with tag="[咪咕视频]移除广告", requires_body=true
+response if ${url} ~= /^https:\/\/.*miguvideo\.com\/app-management\/v\d\/staticcache\/navigation-list\/miguvideo\/ios/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/ddgksf2013.top/scripts/migu.ads.js") with tag="[咪咕视频]移除广告", requires_body=true
 
-response if ${url} ~= /^https:\/\/.*miguvideo\.com\/display\/v\d\/static\/PERSONAL_CENTER/i then script("https://ddgksf2013.top/scripts/migu.ads.js") with tag="[咪咕视频]移除广告", requires_body=true
+response if ${url} ~= /^https:\/\/.*miguvideo\.com\/display\/v\d\/static\/PERSONAL_CENTER/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/ddgksf2013.top/scripts/migu.ads.js") with tag="[咪咕视频]移除广告", requires_body=true
 
 [MitM]
 hostname = *.miguvideo.com, *.migu.cn

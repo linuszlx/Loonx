@@ -44,21 +44,21 @@ request if ${url} ~= /^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=(?:
 
 [Script]
 # 京东
-response if ${url} ~= /^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=(?:deliverLayer|getTabHomeInfo|myOrderInfo|orderTrackBusiness|personinfoBusiness|start|welcomeHome)/i then script("https://rucu6.pages.dev/Scripts/jingdong.js") with tag="[京东]移除广告", requires_body=true
+response if ${url} ~= /^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=(?:deliverLayer|getTabHomeInfo|myOrderInfo|orderTrackBusiness|personinfoBusiness|start|welcomeHome)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/rucu6.pages.dev/Scripts/jingdong.js") with tag="[京东]移除广告", requires_body=true
 
 # 京东极速版
-response if ${url} ~= /^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising/i then script("https://loon.103516.xyz/Script/CommonScript/replace-body.js", "jdLiteAdvertisingVO -> sooyaaabo") with tag="[京东]移除京东极速版广告", requires_body=true
+response if ${url} ~= /^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/CommonScript/replace-body.js", "jdLiteAdvertisingVO -> sooyaaabo") with tag="[京东]移除京东极速版广告", requires_body=true
 
 # 京东比价
-request if ${url} ~= /^https?:\/\/apapia-sqk-weblogic\.manmanbuy\.com\/baoliao\/center\/menu$/i then script("https://raw.githubusercontent.com/mw418/Loon/main/script/jd_price.js") with enable=${Manmanbuy-Cookie}, tag="[京东比价]获取慢慢买Cookie", timeout=60, requires_body=true
+request if ${url} ~= /^https?:\/\/apapia-sqk-weblogic\.manmanbuy\.com\/baoliao\/center\/menu$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/mw418/Loon/main/script/jd_price.js") with enable=${Manmanbuy-Cookie}, tag="[京东比价]获取慢慢买Cookie", timeout=60, requires_body=true
 
-response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig)/i then script("https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js") with enable=${JDPrice-TitleEmbed}, tag="[京东比价]标题嵌入版", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js") with enable=${JDPrice-TitleEmbed}, tag="[京东比价]标题嵌入版", requires_body=true
 
-request if ${url} ~= /^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html/i then script("https://raw.githubusercontent.com/mw418/Loon/main/script/jd_price.js") with enable=${JDPrice-DetailNotify}, tag="[京东比价]详情通知版", timeout=60
+request if ${url} ~= /^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/mw418/Loon/main/script/jd_price.js") with enable=${JDPrice-DetailNotify}, tag="[京东比价]详情通知版", timeout=60
 
-response if ${url} ~= /^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html/i then script("https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js") with enable=${JDPrice-DetailEmbed-Table}, tag="[京东比价]详情嵌入版（表格图）", timeout=60, requires_body=true
+response if ${url} ~= /^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js") with enable=${JDPrice-DetailEmbed-Table}, tag="[京东比价]详情嵌入版（表格图）", timeout=60, requires_body=true
 
-response if ${url} ~= /^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html/i then script("https://loon.103516.xyz/Script/JingDong/JingDong.price.js") with enable=${JDPrice-DetailEmbed-Line}, tag="[京东比价]详情嵌入版（折线图）", timeout=60, requires_body=true
+response if ${url} ~= /^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/JingDong/JingDong.price.js") with enable=${JDPrice-DetailEmbed-Line}, tag="[京东比价]详情嵌入版（折线图）", timeout=60, requires_body=true
 
 [MitM]
 hostname = api.m.jd.com, in.m.jd.com, apapia-sqk-weblogic.manmanbuy.com, m.360buyimg.com

@@ -21,8 +21,9 @@
           "avatar": "https://github.com/I-am-R-E.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/1.1.1.1.lpx",
-      "filename": "1.1.1.1.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/1.1.1.1.lpx",
+      "filename": "1.1.1.1.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/1.1.1.1.lpx"
     },
     {
       "name": "123云盘",
@@ -45,8 +46,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/123Pan.lpx",
-      "filename": "123Pan.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/123Pan.lpx",
+      "filename": "123Pan.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/123Pan.lpx"
     },
     {
       "name": "爱回收",
@@ -63,8 +65,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/AiHuiShou.lpx",
-      "filename": "AiHuiShou.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/AiHuiShou.lpx",
+      "filename": "AiHuiShou.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/AiHuiShou.lpx"
     },
     {
       "name": "阿里云盘",
@@ -86,8 +89,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Alipan.lpx",
-      "filename": "Alipan.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Alipan.lpx",
+      "filename": "Alipan.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Alipan.lpx"
     },
     {
       "name": "高德地图",
@@ -119,8 +123,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Amap.lpx",
-      "filename": "Amap.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Amap.lpx",
+      "filename": "Amap.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Amap.lpx"
     },
     {
       "name": "DNS防污染",
@@ -137,8 +142,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Anti-DNS-Leaks.lpx",
-      "filename": "Anti-DNS-Leaks.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Anti-DNS-Leaks.lpx",
+      "filename": "Anti-DNS-Leaks.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Anti-DNS-Leaks.lpx"
     },
     {
       "name": "AppRaven",
@@ -155,8 +161,9 @@
           "avatar": "https://github.com/Yu9191.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/AppRaven.lpx",
-      "filename": "AppRaven.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/AppRaven.lpx",
+      "filename": "AppRaven.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/AppRaven.lpx"
     },
     {
       "name": "AppStore Monitor",
@@ -174,8 +181,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/AppStoreMonitor.lpx",
-      "filename": "AppStoreMonitor.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/AppStoreMonitor.lpx",
+      "filename": "AppStoreMonitor.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/AppStoreMonitor.lpx"
     },
     {
       "name": "AppleOS Monitor",
@@ -193,8 +201,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/AppleOSMonitor.lpx",
-      "filename": "AppleOSMonitor.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/AppleOSMonitor.lpx",
+      "filename": "AppleOSMonitor.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/AppleOSMonitor.lpx"
     },
     {
       "name": "阿基米德",
@@ -211,8 +220,9 @@
           "avatar": "https://github.com/mist-whisper.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ArchimedesFM.lpx",
-      "filename": "ArchimedesFM.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ArchimedesFM.lpx",
+      "filename": "ArchimedesFM.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ArchimedesFM.lpx"
     },
     {
       "name": "百度地图",
@@ -229,8 +239,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BaiduMap.lpx",
-      "filename": "BaiduMap.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BaiduMap.lpx",
+      "filename": "BaiduMap.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BaiduMap.lpx"
     },
     {
       "name": "百度网盘",
@@ -258,8 +269,9 @@
           "avatar": "https://github.com/chxm1023.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BaiduNetDisk.lpx",
-      "filename": "BaiduNetDisk.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BaiduNetDisk.lpx",
+      "filename": "BaiduNetDisk.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BaiduNetDisk.lpx"
     },
     {
       "name": "百度贴吧",
@@ -281,8 +293,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BaiduTieba.lpx",
-      "filename": "BaiduTieba.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BaiduTieba.lpx",
+      "filename": "BaiduTieba.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BaiduTieba.lpx"
     },
     {
       "name": "百度文库",
@@ -299,8 +312,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BaiduWenku.lpx",
-      "filename": "BaiduWenku.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BaiduWenku.lpx",
+      "filename": "BaiduWenku.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BaiduWenku.lpx"
     },
     {
       "name": "银行App",
@@ -322,8 +336,9 @@
           "avatar": "https://github.com/fmz200.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Bank.lpx",
-      "filename": "Bank.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Bank.lpx",
+      "filename": "Bank.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Bank.lpx"
     },
     {
       "name": "哔哩哔哩",
@@ -350,8 +365,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Bilibili.lpx",
-      "filename": "Bilibili.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Bilibili.lpx",
+      "filename": "Bilibili.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Bilibili.lpx"
     },
     {
       "name": "哔哩哔哩VIP",
@@ -368,8 +384,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Bilibili_VIP.lpx",
-      "filename": "Bilibili_VIP.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Bilibili_VIP.lpx",
+      "filename": "Bilibili_VIP.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Bilibili_VIP.lpx"
     },
     {
       "name": "广告拦截合集",
@@ -391,8 +408,9 @@
           "avatar": "https://github.com/zirawell.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BlockAds.lpx",
-      "filename": "BlockAds.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BlockAds.lpx",
+      "filename": "BlockAds.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BlockAds.lpx"
     },
     {
       "name": "波点音乐",
@@ -425,8 +443,9 @@
           "avatar": ""
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BodianMusic.lpx",
-      "filename": "BodianMusic.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BodianMusic.lpx",
+      "filename": "BodianMusic.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BodianMusic.lpx"
     },
     {
       "name": "BoxJs",
@@ -443,8 +462,9 @@
           "avatar": "https://github.com/chavyleung.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/BoxJs.lpx",
-      "filename": "BoxJs.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/BoxJs.lpx",
+      "filename": "BoxJs.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/BoxJs.lpx"
     },
     {
       "name": "CMS Adblocker",
@@ -461,8 +481,9 @@
           "avatar": "https://github.com/Yswag.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CMS_Adblock.lpx",
-      "filename": "CMS_Adblock.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CMS_Adblock.lpx",
+      "filename": "CMS_Adblock.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CMS_Adblock.lpx"
     },
     {
       "name": "菜鸟",
@@ -479,8 +500,9 @@
           "avatar": "https://github.com/githubdulong.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CaiNiao.lpx",
-      "filename": "CaiNiao.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CaiNiao.lpx",
+      "filename": "CaiNiao.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CaiNiao.lpx"
     },
     {
       "name": "财新",
@@ -497,8 +519,9 @@
           "avatar": "https://github.com/ZenmoFeiShi.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CaiXin.lpx",
-      "filename": "CaiXin.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CaiXin.lpx",
+      "filename": "CaiXin.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CaiXin.lpx"
     },
     {
       "name": "超格教育",
@@ -515,8 +538,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ChaoGeJiaoYu.lpx",
-      "filename": "ChaoGeJiaoYu.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ChaoGeJiaoYu.lpx",
+      "filename": "ChaoGeJiaoYu.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ChaoGeJiaoYu.lpx"
     },
     {
       "name": "车来了",
@@ -533,8 +557,9 @@
           "avatar": "https://github.com/CaoXiaoMann.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CheLaiLe.lpx",
-      "filename": "CheLaiLe.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CheLaiLe.lpx",
+      "filename": "CheLaiLe.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CheLaiLe.lpx"
     },
     {
       "name": "中国广电",
@@ -551,8 +576,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ChinaBroadnet.lpx",
-      "filename": "ChinaBroadnet.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ChinaBroadnet.lpx",
+      "filename": "ChinaBroadnet.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ChinaBroadnet.lpx"
     },
     {
       "name": "中国移动",
@@ -580,8 +606,9 @@
           "avatar": "https://github.com/MaYIHEI.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ChinaMobile.lpx",
-      "filename": "ChinaMobile.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ChinaMobile.lpx",
+      "filename": "ChinaMobile.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ChinaMobile.lpx"
     },
     {
       "name": "中国联通",
@@ -598,8 +625,9 @@
           "avatar": "https://github.com/mist-whisper.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ChinaUnicom.lpx",
-      "filename": "ChinaUnicom.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ChinaUnicom.lpx",
+      "filename": "ChinaUnicom.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ChinaUnicom.lpx"
     },
     {
       "name": "彩云天气Pro",
@@ -622,8 +650,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ColorfulCloudsWeatherPro.lpx",
-      "filename": "ColorfulCloudsWeatherPro.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ColorfulCloudsWeatherPro.lpx",
+      "filename": "ColorfulCloudsWeatherPro.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ColorfulCloudsWeatherPro.lpx"
     },
     {
       "name": "Cookie & Task",
@@ -660,8 +689,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CookieTask.lpx",
-      "filename": "CookieTask.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CookieTask.lpx",
+      "filename": "CookieTask.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CookieTask.lpx"
     },
     {
       "name": "酷安",
@@ -693,8 +723,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CoolApk.lpx",
-      "filename": "CoolApk.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CoolApk.lpx",
+      "filename": "CoolApk.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CoolApk.lpx"
     },
     {
       "name": "小宇宙",
@@ -711,8 +742,9 @@
           "avatar": "https://github.com/mist-whisper.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/CosmosFM.lpx",
-      "filename": "CosmosFM.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/CosmosFM.lpx",
+      "filename": "CosmosFM.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/CosmosFM.lpx"
     },
     {
       "name": "大麦",
@@ -729,8 +761,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/DaMai.lpx",
-      "filename": "DaMai.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/DaMai.lpx",
+      "filename": "DaMai.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/DaMai.lpx"
     },
     {
       "name": "得物",
@@ -747,8 +780,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/DeWu.lpx",
-      "filename": "DeWu.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/DeWu.lpx",
+      "filename": "DeWu.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/DeWu.lpx"
     },
     {
       "name": "滴滴",
@@ -780,8 +814,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/DiDi.lpx",
-      "filename": "DiDi.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/DiDi.lpx",
+      "filename": "DiDi.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/DiDi.lpx"
     },
     {
       "name": "叮咚买菜",
@@ -808,8 +843,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/DingDongMaiCai.lpx",
-      "filename": "DingDongMaiCai.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/DingDongMaiCai.lpx",
+      "filename": "DingDongMaiCai.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/DingDongMaiCai.lpx"
     },
     {
       "name": "豆瓣",
@@ -831,8 +867,9 @@
           "avatar": "https://github.com/fmz200.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/DouBan.lpx",
-      "filename": "DouBan.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/DouBan.lpx",
+      "filename": "DouBan.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/DouBan.lpx"
     },
     {
       "name": "香港抖音",
@@ -849,8 +886,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Douyin_HK.lpx",
-      "filename": "Douyin_HK.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Douyin_HK.lpx",
+      "filename": "Douyin_HK.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Douyin_HK.lpx"
     },
     {
       "name": "萤石云视频",
@@ -867,8 +905,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Ezviz.lpx",
-      "filename": "Ezviz.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Ezviz.lpx",
+      "filename": "Ezviz.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Ezviz.lpx"
     },
     {
       "name": "帆书",
@@ -885,8 +924,9 @@
           "avatar": "https://github.com/Yuheng0101.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/FanShu.lpx",
-      "filename": "FanShu.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/FanShu.lpx",
+      "filename": "FanShu.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/FanShu.lpx"
     },
     {
       "name": "粉笔",
@@ -908,8 +948,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/FenBi.lpx",
-      "filename": "FenBi.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/FenBi.lpx",
+      "filename": "FenBi.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/FenBi.lpx"
     },
     {
       "name": "Forward",
@@ -926,8 +967,9 @@
           "avatar": "https://github.com/Yu9191.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Forward.lpx",
-      "filename": "Forward.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Forward.lpx",
+      "filename": "Forward.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Forward.lpx"
     },
     {
       "name": "盒马",
@@ -944,8 +986,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Freshippo.lpx",
-      "filename": "Freshippo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Freshippo.lpx",
+      "filename": "Freshippo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Freshippo.lpx"
     },
     {
       "name": "GLaDOS",
@@ -962,8 +1005,9 @@
           "avatar": "https://github.com/curtinp118.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/GLaDOS.lpx",
-      "filename": "GLaDOS.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/GLaDOS.lpx",
+      "filename": "GLaDOS.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/GLaDOS.lpx"
     },
     {
       "name": "GitHub",
@@ -985,8 +1029,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/GitHub.lpx",
-      "filename": "GitHub.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/GitHub.lpx",
+      "filename": "GitHub.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/GitHub.lpx"
     },
     {
       "name": "闲鱼",
@@ -1018,8 +1063,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Goofish.lpx",
-      "filename": "Goofish.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Goofish.lpx",
+      "filename": "Goofish.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Goofish.lpx"
     },
     {
       "name": "Google",
@@ -1036,8 +1082,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Google.lpx",
-      "filename": "Google.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Google.lpx",
+      "filename": "Google.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Google.lpx"
     },
     {
       "name": "王者营地",
@@ -1054,8 +1101,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/HOK_GameHelper.lpx",
-      "filename": "HOK_GameHelper.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/HOK_GameHelper.lpx",
+      "filename": "HOK_GameHelper.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/HOK_GameHelper.lpx"
     },
     {
       "name": "虎扑",
@@ -1072,8 +1120,9 @@
           "avatar": "https://github.com/ishowshu.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/HUPU.lpx",
-      "filename": "HUPU.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/HUPU.lpx",
+      "filename": "HUPU.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/HUPU.lpx"
     },
     {
       "name": "喜马拉雅",
@@ -1090,8 +1139,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/HimalayaFM.lpx",
-      "filename": "HimalayaFM.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/HimalayaFM.lpx",
+      "filename": "HimalayaFM.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/HimalayaFM.lpx"
     },
     {
       "name": "IPA Manager",
@@ -1108,8 +1158,9 @@
           "avatar": "https://github.com/githubdulong.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/IPAManager.lpx",
-      "filename": "IPAManager.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/IPAManager.lpx",
+      "filename": "IPAManager.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/IPAManager.lpx"
     },
     {
       "name": "IPPure",
@@ -1126,8 +1177,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/IPPure.lpx",
-      "filename": "IPPure.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/IPPure.lpx",
+      "filename": "IPPure.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/IPPure.lpx"
     },
     {
       "name": "爱奇艺",
@@ -1149,8 +1201,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/IQIYI.lpx",
-      "filename": "IQIYI.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/IQIYI.lpx",
+      "filename": "IQIYI.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/IQIYI.lpx"
     },
     {
       "name": "爱奇艺体育",
@@ -1167,8 +1220,9 @@
           "avatar": "https://github.com/mist-whisper.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/IQIYI_Ssports.lpx",
-      "filename": "IQIYI_Ssports.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/IQIYI_Ssports.lpx",
+      "filename": "IQIYI_Ssports.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/IQIYI_Ssports.lpx"
     },
     {
       "name": "IT之家",
@@ -1185,8 +1239,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/IThome.lpx",
-      "filename": "IThome.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/IThome.lpx",
+      "filename": "IThome.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/IThome.lpx"
     },
     {
       "name": "京东",
@@ -1229,8 +1284,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/JingDong.lpx",
-      "filename": "JingDong.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/JingDong.lpx",
+      "filename": "JingDong.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/JingDong.lpx"
     },
     {
       "name": "京东外卖",
@@ -1247,8 +1303,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/JingdongWaimai.lpx",
-      "filename": "JingdongWaimai.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/JingdongWaimai.lpx",
+      "filename": "JingdongWaimai.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/JingdongWaimai.lpx"
     },
     {
       "name": "金山文档",
@@ -1265,8 +1322,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/KDocs.lpx",
-      "filename": "KDocs.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/KDocs.lpx",
+      "filename": "KDocs.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/KDocs.lpx"
     },
     {
       "name": "Keep",
@@ -1293,8 +1351,9 @@
           "avatar": "https://github.com/ishowshu.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Keep.lpx",
-      "filename": "Keep.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Keep.lpx",
+      "filename": "Keep.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Keep.lpx"
     },
     {
       "name": "酷我音乐",
@@ -1317,8 +1376,9 @@
           "avatar": "https://github.com/Yuheng0101.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/KuwoMusic.lpx",
-      "filename": "KuwoMusic.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/KuwoMusic.lpx",
+      "filename": "KuwoMusic.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/KuwoMusic.lpx"
     },
     {
       "name": "快手",
@@ -1335,8 +1395,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Kwai.lpx",
-      "filename": "Kwai.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Kwai.lpx",
+      "filename": "Kwai.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Kwai.lpx"
     },
     {
       "name": "掌上英雄联盟",
@@ -1353,8 +1414,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/LOL_Bible.lpx",
-      "filename": "LOL_Bible.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/LOL_Bible.lpx",
+      "filename": "LOL_Bible.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/LOL_Bible.lpx"
     },
     {
       "name": "Listenify",
@@ -1371,8 +1433,9 @@
           "avatar": "https://github.com/Yswag.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Listenify.lpx",
-      "filename": "Listenify.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Listenify.lpx",
+      "filename": "Listenify.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Listenify.lpx"
     },
     {
       "name": "Loon Gallery",
@@ -1389,8 +1452,9 @@
           "avatar": "https://github.com/Peng-YM.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/LoonGallery.lpx",
-      "filename": "LoonGallery.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/LoonGallery.lpx",
+      "filename": "LoonGallery.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/LoonGallery.lpx"
     },
     {
       "name": "本机开发服务回环",
@@ -1407,8 +1471,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Loopback.lpx",
-      "filename": "Loopback.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Loopback.lpx",
+      "filename": "Loopback.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Loopback.lpx"
     },
     {
       "name": "瑞幸咖啡",
@@ -1430,8 +1495,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/LuckinCoffee.lpx",
-      "filename": "LuckinCoffee.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/LuckinCoffee.lpx",
+      "filename": "LuckinCoffee.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/LuckinCoffee.lpx"
     },
     {
       "name": "马蜂窝",
@@ -1448,8 +1514,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MaFengWo.lpx",
-      "filename": "MaFengWo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MaFengWo.lpx",
+      "filename": "MaFengWo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MaFengWo.lpx"
     },
     {
       "name": "埋堆堆",
@@ -1466,8 +1533,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MaiDuiDui.lpx",
-      "filename": "MaiDuiDui.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MaiDuiDui.lpx",
+      "filename": "MaiDuiDui.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MaiDuiDui.lpx"
     },
     {
       "name": "芒果TV",
@@ -1495,8 +1563,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MangoTV.lpx",
-      "filename": "MangoTV.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MangoTV.lpx",
+      "filename": "MangoTV.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MangoTV.lpx"
     },
     {
       "name": "美柚",
@@ -1518,8 +1587,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MeetYou.lpx",
-      "filename": "MeetYou.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MeetYou.lpx",
+      "filename": "MeetYou.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MeetYou.lpx"
     },
     {
       "name": "美团",
@@ -1536,8 +1606,9 @@
           "avatar": "https://github.com/ZenmoFeiShi.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MeiTuan.lpx",
-      "filename": "MeiTuan.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MeiTuan.lpx",
+      "filename": "MeiTuan.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MeiTuan.lpx"
     },
     {
       "name": "咪咕视频",
@@ -1555,8 +1626,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MiguVideo.lpx",
-      "filename": "MiguVideo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MiguVideo.lpx",
+      "filename": "MiguVideo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MiguVideo.lpx"
     },
     {
       "name": "MyBlockAds",
@@ -1573,8 +1645,9 @@
           "avatar": "https://github.com/RuCu6.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/MyBlockAds.lpx",
-      "filename": "MyBlockAds.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/MyBlockAds.lpx",
+      "filename": "MyBlockAds.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/MyBlockAds.lpx"
     },
     {
       "name": "网易云音乐",
@@ -1602,8 +1675,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/NeteaseMusic.lpx",
-      "filename": "NeteaseMusic.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/NeteaseMusic.lpx",
+      "filename": "NeteaseMusic.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/NeteaseMusic.lpx"
     },
     {
       "name": "网络信息 𝕏",
@@ -1625,8 +1699,9 @@
           "avatar": "https://github.com/xream.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Netisp-x.lpx",
-      "filename": "Netisp-x.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Netisp-x.lpx",
+      "filename": "Netisp-x.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Netisp-x.lpx"
     },
     {
       "name": "NodeSeek & DeepFlood",
@@ -1643,8 +1718,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/NodeSeek.lpx",
-      "filename": "NodeSeek.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/NodeSeek.lpx",
+      "filename": "NodeSeek.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/NodeSeek.lpx"
     },
     {
       "name": "节点检测工具 𝕂",
@@ -1681,8 +1757,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/NodeTools.lpx",
-      "filename": "NodeTools.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/NodeTools.lpx",
+      "filename": "NodeTools.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/NodeTools.lpx"
     },
     {
       "name": "PandaTV",
@@ -1699,8 +1776,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/PandaTV.lpx",
-      "filename": "PandaTV.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/PandaTV.lpx",
+      "filename": "PandaTV.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/PandaTV.lpx"
     },
     {
       "name": "拼多多",
@@ -1737,8 +1815,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/PinDuoDuo.lpx",
-      "filename": "PinDuoDuo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/PinDuoDuo.lpx",
+      "filename": "PinDuoDuo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/PinDuoDuo.lpx"
     },
     {
       "name": "QQ",
@@ -1755,8 +1834,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/QQ.lpx",
-      "filename": "QQ.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/QQ.lpx",
+      "filename": "QQ.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/QQ.lpx"
     },
     {
       "name": "QQ音乐",
@@ -1773,8 +1853,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/QQMusic.lpx",
-      "filename": "QQMusic.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/QQMusic.lpx",
+      "filename": "QQMusic.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/QQMusic.lpx"
     },
     {
       "name": "和风天气",
@@ -1791,8 +1872,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/QWeather.lpx",
-      "filename": "QWeather.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/QWeather.lpx",
+      "filename": "QWeather.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/QWeather.lpx"
     },
     {
       "name": "夸克",
@@ -1809,8 +1891,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/QuarkBrowser.lpx",
-      "filename": "QuarkBrowser.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/QuarkBrowser.lpx",
+      "filename": "QuarkBrowser.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/QuarkBrowser.lpx"
     },
     {
       "name": "夸克扫描王",
@@ -1827,8 +1910,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/QuarkScanKing.lpx",
-      "filename": "QuarkScanKing.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/QuarkScanKing.lpx",
+      "filename": "QuarkScanKing.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/QuarkScanKing.lpx"
     },
     {
       "name": "铁路12306",
@@ -1850,8 +1934,9 @@
           "avatar": "https://github.com/kokoryh.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Railway12306.lpx",
-      "filename": "Railway12306.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Railway12306.lpx",
+      "filename": "Railway12306.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Railway12306.lpx"
     },
     {
       "name": "小红书",
@@ -1883,8 +1968,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/RedNote.lpx",
-      "filename": "RedNote.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/RedNote.lpx",
+      "filename": "RedNote.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/RedNote.lpx"
     },
     {
       "name": "Reddit",
@@ -1906,8 +1992,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Reddit.lpx",
-      "filename": "Reddit.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Reddit.lpx",
+      "filename": "Reddit.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Reddit.lpx"
     },
     {
       "name": "Redirect",
@@ -1924,8 +2011,9 @@
           "avatar": "https://github.com/blackmatrix7.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Redirect.lpx",
-      "filename": "Redirect.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Redirect.lpx",
+      "filename": "Redirect.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Redirect.lpx"
     },
     {
       "name": "RevenueCat",
@@ -1952,8 +2040,9 @@
           "avatar": "https://github.com/Guding88.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/RevenueCat.lpx",
-      "filename": "RevenueCat.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/RevenueCat.lpx",
+      "filename": "RevenueCat.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/RevenueCat.lpx"
     },
     {
       "name": "RevenueCat",
@@ -1970,8 +2059,9 @@
           "avatar": "https://github.com/ios151.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/RevenueCat_baby.lpx",
-      "filename": "RevenueCat_baby.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/RevenueCat_baby.lpx",
+      "filename": "RevenueCat_baby.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/RevenueCat_baby.lpx"
     },
     {
       "name": "顺丰速运",
@@ -1988,8 +2078,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/SF-Express.lpx",
-      "filename": "SF-Express.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/SF-Express.lpx",
+      "filename": "SF-Express.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/SF-Express.lpx"
     },
     {
       "name": "Script Hub",
@@ -2021,8 +2112,9 @@
           "avatar": "https://github.com/%E5%B0%8F%E7%99%BD%E8%84%B8.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Script-Hub.lpx",
-      "filename": "Script-Hub.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Script-Hub.lpx",
+      "filename": "Script-Hub.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Script-Hub.lpx"
     },
     {
       "name": "Skip Proxy and Real-IP Lists",
@@ -2039,8 +2131,9 @@
           "avatar": "https://github.com/mieqq.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/SkipProxy.lpx",
-      "filename": "SkipProxy.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/SkipProxy.lpx",
+      "filename": "SkipProxy.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/SkipProxy.lpx"
     },
     {
       "name": "汽水音乐",
@@ -2057,8 +2150,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/SodaMusic.lpx",
-      "filename": "SodaMusic.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/SodaMusic.lpx",
+      "filename": "SodaMusic.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/SodaMusic.lpx"
     },
     {
       "name": "Soul",
@@ -2090,8 +2184,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Soul.lpx",
-      "filename": "Soul.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Soul.lpx",
+      "filename": "Soul.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Soul.lpx"
     },
     {
       "name": "SourceCode",
@@ -2108,8 +2203,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/SourceCode.lpx",
-      "filename": "SourceCode.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/SourceCode.lpx",
+      "filename": "SourceCode.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/SourceCode.lpx"
     },
     {
       "name": "Spotify",
@@ -2131,8 +2227,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Spotify.lpx",
-      "filename": "Spotify.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Spotify.lpx",
+      "filename": "Spotify.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Spotify.lpx"
     },
     {
       "name": "Spotify",
@@ -2150,8 +2247,9 @@
           "avatar": "https://github.com/devchristian1337.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Spotify_CN.lpx",
-      "filename": "Spotify_CN.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Spotify_CN.lpx",
+      "filename": "Spotify_CN.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Spotify_CN.lpx"
     },
     {
       "name": "墨鱼去开屏2.0",
@@ -2168,8 +2266,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/StartUpAds.lpx",
-      "filename": "StartUpAds.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/StartUpAds.lpx",
+      "filename": "StartUpAds.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/StartUpAds.lpx"
     },
     {
       "name": "流媒体解锁测试",
@@ -2186,8 +2285,9 @@
           "avatar": "https://github.com/huskydsb.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/StreamingMedia.lpx",
-      "filename": "StreamingMedia.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/StreamingMedia.lpx",
+      "filename": "StreamingMedia.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/StreamingMedia.lpx"
     },
     {
       "name": "Sub-Store",
@@ -2204,8 +2304,9 @@
           "avatar": "https://github.com/Peng-YM.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Sub-Store.lpx",
-      "filename": "Sub-Store.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Sub-Store.lpx",
+      "filename": "Sub-Store.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Sub-Store.lpx"
     },
     {
       "name": "淘宝",
@@ -2232,8 +2333,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TaoBao.lpx",
-      "filename": "TaoBao.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TaoBao.lpx",
+      "filename": "TaoBao.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TaoBao.lpx"
     },
     {
       "name": "淘票票",
@@ -2250,8 +2352,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TaoPiaoPiao.lpx",
-      "filename": "TaoPiaoPiao.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TaoPiaoPiao.lpx",
+      "filename": "TaoPiaoPiao.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TaoPiaoPiao.lpx"
     },
     {
       "name": "飞猪旅行",
@@ -2268,8 +2371,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TaobaoTravel.lpx",
-      "filename": "TaobaoTravel.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TaobaoTravel.lpx",
+      "filename": "TaobaoTravel.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TaobaoTravel.lpx"
     },
     {
       "name": "Telegram",
@@ -2286,8 +2390,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Telegram.lpx",
-      "filename": "Telegram.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Telegram.lpx",
+      "filename": "Telegram.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Telegram.lpx"
     },
     {
       "name": "腾讯文档",
@@ -2304,8 +2409,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TencentDocs.lpx",
-      "filename": "TencentDocs.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TencentDocs.lpx",
+      "filename": "TencentDocs.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TencentDocs.lpx"
     },
     {
       "name": "腾讯视频",
@@ -2322,8 +2428,9 @@
           "avatar": "https://github.com/ZenmoFeiShi.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TencentVideo.lpx",
-      "filename": "TencentVideo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TencentVideo.lpx",
+      "filename": "TencentVideo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TencentVideo.lpx"
     },
     {
       "name": "TestFlight",
@@ -2345,8 +2452,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TestFlight.lpx",
-      "filename": "TestFlight.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TestFlight.lpx",
+      "filename": "TestFlight.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TestFlight.lpx"
     },
     {
       "name": "TestFlight Monitor",
@@ -2374,8 +2482,9 @@
           "avatar": "https://github.com/xream.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/TestFlightMonitor.lpx",
-      "filename": "TestFlightMonitor.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/TestFlightMonitor.lpx",
+      "filename": "TestFlightMonitor.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/TestFlightMonitor.lpx"
     },
     {
       "name": "迅雷",
@@ -2398,8 +2507,9 @@
           "avatar": "https://github.com/Marol62926.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ThunderCloudDisk.lpx",
-      "filename": "ThunderCloudDisk.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ThunderCloudDisk.lpx",
+      "filename": "ThunderCloudDisk.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ThunderCloudDisk.lpx"
     },
     {
       "name": "UAPI热榜聚合",
@@ -2416,8 +2526,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/UAPI_HotBoard.lpx",
-      "filename": "UAPI_HotBoard.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/UAPI_HotBoard.lpx",
+      "filename": "UAPI_HotBoard.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/UAPI_HotBoard.lpx"
     },
     {
       "name": "航旅纵横",
@@ -2434,8 +2545,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Umetrip.lpx",
-      "filename": "Umetrip.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Umetrip.lpx",
+      "filename": "Umetrip.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Umetrip.lpx"
     },
     {
       "name": "V2EX",
@@ -2457,8 +2569,9 @@
           "avatar": "https://github.com/curtinp118.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/V2EX.lpx",
-      "filename": "V2EX.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/V2EX.lpx",
+      "filename": "V2EX.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/V2EX.lpx"
     },
     {
       "name": "VVebo",
@@ -2480,8 +2593,9 @@
           "avatar": "https://github.com/androidcn.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/VVebo.lpx",
-      "filename": "VVebo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/VVebo.lpx",
+      "filename": "VVebo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/VVebo.lpx"
     },
     {
       "name": "看理想",
@@ -2504,8 +2618,9 @@
           "avatar": "https://github.com/Aioneas.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/Vistopia.lpx",
-      "filename": "Vistopia.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/Vistopia.lpx",
+      "filename": "Vistopia.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/Vistopia.lpx"
     },
     {
       "name": "微信",
@@ -2542,8 +2657,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/WeChat.lpx",
-      "filename": "WeChat.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/WeChat.lpx",
+      "filename": "WeChat.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/WeChat.lpx"
     },
     {
       "name": "WebPage",
@@ -2565,8 +2681,9 @@
           "avatar": "https://github.com/kokoryh.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/WebPage.lpx",
-      "filename": "WebPage.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/WebPage.lpx",
+      "filename": "WebPage.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/WebPage.lpx"
     },
     {
       "name": "微博",
@@ -2598,8 +2715,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/WeiBo.lpx",
-      "filename": "WeiBo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/WeiBo.lpx",
+      "filename": "WeiBo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/WeiBo.lpx"
     },
     {
       "name": "微博轻享版",
@@ -2626,8 +2744,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/WeiBo_Intl.lpx",
-      "filename": "WeiBo_Intl.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/WeiBo_Intl.lpx",
+      "filename": "WeiBo_Intl.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/WeiBo_Intl.lpx"
     },
     {
       "name": "微博",
@@ -2644,8 +2763,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/WeiBo_ddgksf2013.lpx",
-      "filename": "WeiBo_ddgksf2013.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/WeiBo_ddgksf2013.lpx",
+      "filename": "WeiBo_ddgksf2013.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/WeiBo_ddgksf2013.lpx"
     },
     {
       "name": "微店",
@@ -2662,8 +2782,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/WeiDian.lpx",
-      "filename": "WeiDian.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/WeiDian.lpx",
+      "filename": "WeiDian.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/WeiDian.lpx"
     },
     {
       "name": "XPTV",
@@ -2680,8 +2801,9 @@
           "avatar": "https://github.com/Yswag.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/XPTV.lpx",
-      "filename": "XPTV.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/XPTV.lpx",
+      "filename": "XPTV.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/XPTV.lpx"
     },
     {
       "name": "X（Twitter）",
@@ -2703,8 +2825,9 @@
           "avatar": "https://github.com/sooyaaabo.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/X_Web.lpx",
-      "filename": "X_Web.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/X_Web.lpx",
+      "filename": "X_Web.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/X_Web.lpx"
     },
     {
       "name": "小蚕惠生活",
@@ -2726,8 +2849,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/XiaoCan.lpx",
-      "filename": "XiaoCan.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/XiaoCan.lpx",
+      "filename": "XiaoCan.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/XiaoCan.lpx"
     },
     {
       "name": "小黑盒",
@@ -2744,8 +2868,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/XiaoHeiHe.lpx",
-      "filename": "XiaoHeiHe.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/XiaoHeiHe.lpx",
+      "filename": "XiaoHeiHe.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/XiaoHeiHe.lpx"
     },
     {
       "name": "小象超市",
@@ -2762,8 +2887,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/XiaoxiangSupermarket.lpx",
-      "filename": "XiaoxiangSupermarket.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/XiaoxiangSupermarket.lpx",
+      "filename": "XiaoxiangSupermarket.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/XiaoxiangSupermarket.lpx"
     },
     {
       "name": "雪球",
@@ -2785,8 +2911,9 @@
           "avatar": "https://github.com/ddgksf2013.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/XueQiu.lpx",
-      "filename": "XueQiu.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/XueQiu.lpx",
+      "filename": "XueQiu.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/XueQiu.lpx"
     },
     {
       "name": "YouTube (Music)",
@@ -2809,8 +2936,9 @@
           "avatar": "https://github.com/RuCu6.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/YouTube.lpx",
-      "filename": "YouTube.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/YouTube.lpx",
+      "filename": "YouTube.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/YouTube.lpx"
     },
     {
       "name": "YouTube",
@@ -2828,8 +2956,9 @@
           "avatar": "https://github.com/devchristian1337.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/YouTube_CN.lpx",
-      "filename": "YouTube_CN.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/YouTube_CN.lpx",
+      "filename": "YouTube_CN.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/YouTube_CN.lpx"
     },
     {
       "name": "优酷视频",
@@ -2851,8 +2980,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/YoukuVideo.lpx",
-      "filename": "YoukuVideo.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/YoukuVideo.lpx",
+      "filename": "YoukuVideo.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/YoukuVideo.lpx"
     },
     {
       "name": "知乎",
@@ -2879,8 +3009,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/ZhiHu.lpx",
-      "filename": "ZhiHu.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/ZhiHu.lpx",
+      "filename": "ZhiHu.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/ZhiHu.lpx"
     },
     {
       "name": "iRingo:WeatherKit",
@@ -2907,8 +3038,9 @@
           "avatar": "https://github.com/001ProMax.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/iRingo_WeatherKit.lpx",
-      "filename": "iRingo_WeatherKit.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/iRingo_WeatherKit.lpx",
+      "filename": "iRingo_WeatherKit.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/iRingo_WeatherKit.lpx"
     },
     {
       "name": "iTunes",
@@ -2935,8 +3067,9 @@
           "avatar": "https://github.com/Guding88.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/iTunes.lpx",
-      "filename": "iTunes.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/iTunes.lpx",
+      "filename": "iTunes.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/iTunes.lpx"
     },
     {
       "name": "iTunes",
@@ -2953,8 +3086,9 @@
           "avatar": "https://github.com/ios151.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/iTunes_baby.lpx",
-      "filename": "iTunes_baby.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/iTunes_baby.lpx",
+      "filename": "iTunes_baby.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/iTunes_baby.lpx"
     },
     {
       "name": "米游社",
@@ -2971,8 +3105,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/miHoYoBBS.lpx",
-      "filename": "miHoYoBBS.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/miHoYoBBS.lpx",
+      "filename": "miHoYoBBS.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/miHoYoBBS.lpx"
     },
     {
       "name": "什么值得买",
@@ -2994,8 +3129,9 @@
           "avatar": "https://github.com/luestr.png"
         }
       ],
-      "url": "https://loon.103516.xyz/Plugin/smzdm.lpx",
-      "filename": "smzdm.lpx"
+      "url": "https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/smzdm.lpx",
+      "filename": "smzdm.lpx",
+      "source_url": "https://loon.103516.xyz/Plugin/smzdm.lpx"
     }
   ]
 }

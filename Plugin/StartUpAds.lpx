@@ -1267,53 +1267,53 @@ request if ${url} ~= /^https?:\/\/misc\.eol\.cn\/js\/target\/move\/zskyApp\/Appq
 [Script]
 # ======= 0~9 ======= #
 # 555 DianYing
-response if ${url} ~= /^https?:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/api\/v\d\/movie\/index_recommend/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/555Ad.js") with tag="[墨鱼去开屏2.0]555 DianYing", requires_body=true
+response if ${url} ~= /^https?:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/api\/v\d\/movie\/index_recommend/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/555Ad.js") with tag="[墨鱼去开屏2.0]555 DianYing", requires_body=true
 
 # TieLu 12306
-response if ${url} ~= /^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/12306.js") with tag="[墨鱼去开屏2.0]TieLu 12306", requires_body=true
+response if ${url} ~= /^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/12306.js") with tag="[墨鱼去开屏2.0]TieLu 12306", requires_body=true
 
 # 123 YunPan
-response if ${url} ~= /^https?:\/\/www\.123pan\.com\/s\/[0-9a-zA-Z=_\/-]+\.html/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/123pan.js") with tag="[墨鱼去开屏2.0]123 YunPan", requires_body=true
+response if ${url} ~= /^https?:\/\/www\.123pan\.com\/s\/[0-9a-zA-Z=_\/-]+\.html/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/123pan.js") with tag="[墨鱼去开屏2.0]123 YunPan", requires_body=true
 
 # 369 ChuXing
-response if ${url} ~= /^https?:\/\/api\.369cx\.cn\/v\d\/Splash\/GetSplashAd/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/dict.js") with tag="[墨鱼去开屏2.0]369 ChuXing", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.369cx\.cn\/v\d\/Splash\/GetSplashAd/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/dict.js") with tag="[墨鱼去开屏2.0]369 ChuXing", requires_body=true
 
 # ======= A ======= #
 # Amdc
 # response if ${url} ~= /^http:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/amdc\/mobileDispatch/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/amdc.js") with tag="[墨鱼去开屏2.0]Amdc", requires_body=true
 
 # Ahhhhfs
-response if ${url} ~= /^https?:\/\/.*(xbwpys|ahhhhfs)\.com\/($|[0-9a-zA-Z_\/]+\/$)/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/ahfs.js") with tag="[墨鱼去开屏2.0]Ahhhhfs", requires_body=true
+response if ${url} ~= /^https?:\/\/.*(xbwpys|ahhhhfs)\.com\/($|[0-9a-zA-Z_\/]+\/$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/ahfs.js") with tag="[墨鱼去开屏2.0]Ahhhhfs", requires_body=true
 
 # ======= B ======= #
 # BaiDuDiTu
-response if ${url} ~= /^https:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads/i then script("https://raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js") with tag="[墨鱼去开屏2.0]BaiDuDiTu", requires_body=true
+response if ${url} ~= /^https:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js") with tag="[墨鱼去开屏2.0]BaiDuDiTu", requires_body=true
 
 # BaiShiTV
-response if ${url} ~= /^https?:\/\/bp-api\.bestv\.com\.cn\/cms\/api\/audit\/home\/getCommonMixData/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/baishitv.js") with tag="[墨鱼去开屏2.0]BaiShiTV", requires_body=true
+response if ${url} ~= /^https?:\/\/bp-api\.bestv\.com\.cn\/cms\/api\/audit\/home\/getCommonMixData/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/baishitv.js") with tag="[墨鱼去开屏2.0]BaiShiTV", requires_body=true
 
 # ======= C ======= #
 # CaiXin
-response if ${url} ~= /^https?:\/\/gg\.caixin\.com\/s\?z=caixin&op=1&c=3362/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/caixinads.js") with tag="[墨鱼去开屏2.0]CaiXin", requires_body=true
+response if ${url} ~= /^https?:\/\/gg\.caixin\.com\/s\?z=caixin&op=1&c=3362/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/caixinads.js") with tag="[墨鱼去开屏2.0]CaiXin", requires_body=true
 
 # Crunchyroll
-response if ${url} ~= /^https:\/\/beta-api\.crunchyroll\.com\/cms/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "offset_ms\":\\d+->offset_ms\":99999999999999") with tag="[墨鱼去开屏2.0]Crunchyroll", requires_body=true
+response if ${url} ~= /^https:\/\/beta-api\.crunchyroll\.com\/cms/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "offset_ms\":\\d+->offset_ms\":99999999999999") with tag="[墨鱼去开屏2.0]Crunchyroll", requires_body=true
 
 # ======= D ======= #
 # DongHuaFeng
 # response if ${url} ~= /^https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v\d\/(token|m3u8).php\?/i then script("https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutAnimeAds.js") with tag="[墨鱼去开屏2.0]DongHuaFeng", requires_body=true
 
 # DingDongMaiCai
-response if ${url} ~= /^https?:\/\/maicai\.api\.ddxq\.mobi\/advert\/getAd/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "rt_time\":\\d{2}->rt_time\":40") with tag="[墨鱼去开屏2.0]DingDongMaiCai", requires_body=true
+response if ${url} ~= /^https?:\/\/maicai\.api\.ddxq\.mobi\/advert\/getAd/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "rt_time\":\\d{2}->rt_time\":40") with tag="[墨鱼去开屏2.0]DingDongMaiCai", requires_body=true
 
 # ======= F ======= #
 # FeiKeChaGuan
-response if ${url} ~= /^https?:\/\/.*flyert.*\/api\/mobile\/index\.php\?version=\d&mobile=yes&module=basicdata&type=forumlist/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "adv->ddgksf2013") with tag="[墨鱼去开屏2.0]FeiKeChaGuan", requires_body=true
-response if ${url} ~= /^https?:\/\/.*flyert.*\/source\/plugin\/mobile\/mobile\.php\?module=threadpost&.+?&page=1/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/fly.js") with tag="[墨鱼去开屏2.0]FeiKeChaGuan", requires_body=true
+response if ${url} ~= /^https?:\/\/.*flyert.*\/api\/mobile\/index\.php\?version=\d&mobile=yes&module=basicdata&type=forumlist/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "adv->ddgksf2013") with tag="[墨鱼去开屏2.0]FeiKeChaGuan", requires_body=true
+response if ${url} ~= /^https?:\/\/.*flyert.*\/source\/plugin\/mobile\/mobile\.php\?module=threadpost&.+?&page=1/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/fly.js") with tag="[墨鱼去开屏2.0]FeiKeChaGuan", requires_body=true
 
 # ======= H ======= #
 # HangLüZongHeng
-response if ${url} ~= /^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/native$/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/hanglvzongheng.js") with tag="[墨鱼去开屏2.0]HangLüZongHeng", requires_body=true
+response if ${url} ~= /^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/native$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/hanglvzongheng.js") with tag="[墨鱼去开屏2.0]HangLüZongHeng", requires_body=true
 # response if ${url} ~= /^https?:\/\/114\.115\.217\.129\/gateway\/api\/umetrip\/native$/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/hanglvzongheng.js") with tag="[墨鱼去开屏2.0]HangLüZongHeng", requires_body=true
 
 # ======= I ======= #
@@ -1321,82 +1321,82 @@ response if ${url} ~= /^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/na
 # response if ${url} ~= /^https?:\/\/www\.i3zh\.com/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "cm-pop-up-banners->ddgksf2013") with tag="[墨鱼去开屏2.0]i3 ZongHeSheQu", requires_body=true
 
 # IQIYI
-response if ${url} ~= /^https?:\/\/.*cupid\.iqiyi\.com\/mixer\?/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/iqiyi_open_ads.js") with tag="[墨鱼去开屏2.0]IQIYI", requires_body=true
+response if ${url} ~= /^https?:\/\/.*cupid\.iqiyi\.com\/mixer\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/iqiyi_open_ads.js") with tag="[墨鱼去开屏2.0]IQIYI", requires_body=true
 
 # IT ZhiJia
-response if ${url} ~= /^https?:\/\/napi\.ithome\.com\/api\/news\/indexv\d\/iphone/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/ithome.js") with tag="[墨鱼去开屏2.0]IT ZhiJia", requires_body=true
+response if ${url} ~= /^https?:\/\/napi\.ithome\.com\/api\/news\/indexv\d\/iphone/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/ithome.js") with tag="[墨鱼去开屏2.0]IT ZhiJia", requires_body=true
 
 # ======= J ======= #
 # JingXiTeJia
-response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/api\?functionId=delivery_show/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/startup.js") with tag="[墨鱼去开屏2.0]JingXiTeJia", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/api\?functionId=delivery_show/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/startup.js") with tag="[墨鱼去开屏2.0]JingXiTeJia", requires_body=true
 
 # JingDong [Invalid]
-response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(hotWords|hotSearchTerms)/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/jd_json.js") with tag="[墨鱼去开屏2.0]JingDong", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(hotWords|hotSearchTerms)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/jd_json.js") with tag="[墨鱼去开屏2.0]JingDong", requires_body=true
 
 # JingDongLite
-response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "jdLiteAdvertisingVO->ddgksf2013") with tag="[墨鱼去开屏2.0]JingDongLite", requires_body=true
-response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_SmartPush/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "pushData->ddgksf2013") with tag="[墨鱼去开屏2.0]JingDongLite", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "jdLiteAdvertisingVO->ddgksf2013") with tag="[墨鱼去开屏2.0]JingDongLite", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_SmartPush/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "pushData->ddgksf2013") with tag="[墨鱼去开屏2.0]JingDongLite", requires_body=true
 
 # ======= K ======= #
 # KFC KenDeJi
-response if ${url} ~= /^https?:\/\/res.kfc.com.cn\/CRM\/kfcad\/apphome6\/apphome.*json/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "bootStrapAd->ddgksf2013") with tag="[墨鱼去开屏2.0]KFC KenDeJi", requires_body=true
+response if ${url} ~= /^https?:\/\/res.kfc.com.cn\/CRM\/kfcad\/apphome6\/apphome.*json/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "bootStrapAd->ddgksf2013") with tag="[墨鱼去开屏2.0]KFC KenDeJi", requires_body=true
 
 # KuAn
-response if ${url} ~= /^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList)/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/coolapk.js") with tag="[墨鱼去开屏2.0]KuAn", requires_body=true
-response if ${url} ~= /^https?:\/\/api.coolapk.com\/v6\/main\/init/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/coolapk.js") with tag="[墨鱼去开屏2.0]KuAn", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/coolapk.js") with tag="[墨鱼去开屏2.0]KuAn", requires_body=true
+response if ${url} ~= /^https?:\/\/api.coolapk.com\/v6\/main\/init/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/coolapk.js") with tag="[墨鱼去开屏2.0]KuAn", requires_body=true
 
 # KuaKe
-response if ${url} ~= /^https?:\/\/open-cms-api\.(uc|quark)\.cn\/open-cms/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/quark.js") with tag="[墨鱼去开屏2.0]KuaKe", requires_body=true
+response if ${url} ~= /^https?:\/\/open-cms-api\.(uc|quark)\.cn\/open-cms/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/quark.js") with tag="[墨鱼去开屏2.0]KuaKe", requires_body=true
 
 # ======= M ======= #
 # ManManMai
-response if ${url} ~= /^https?:\/\/apapia-sqk\.manmanbuy\.com\/index_json\.ashx/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "splashAD->ddgksf2013") with tag="[墨鱼去开屏2.0]ManManMai", requires_body=true
+response if ${url} ~= /^https?:\/\/apapia-sqk\.manmanbuy\.com\/index_json\.ashx/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "splashAD->ddgksf2013") with tag="[墨鱼去开屏2.0]ManManMai", requires_body=true
 
 # ======= N ======= #
 # NongYeYinHang
-response if ${url} ~= /^https?:\/\/mobilepaas\.abchina\.com\.cn:441\/mgw\.htm/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js") with tag="[墨鱼去开屏2.0]NongYeYinHang", requires_body=true
+response if ${url} ~= /^https?:\/\/mobilepaas\.abchina\.com\.cn:441\/mgw\.htm/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js") with tag="[墨鱼去开屏2.0]NongYeYinHang", requires_body=true
 
 # ======= O ======= #
 # Oclean Care
-response if ${url} ~= /^https?:\/\/careapi\.oclean\.com\/mall\/v\d\/User\/GetUserCenter/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "banner\"->ddgksf2013\"") with tag="[墨鱼去开屏2.0]Oclean Care", requires_body=true
+response if ${url} ~= /^https?:\/\/careapi\.oclean\.com\/mall\/v\d\/User\/GetUserCenter/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "banner\"->ddgksf2013\"") with tag="[墨鱼去开屏2.0]Oclean Care", requires_body=true
 
 # ======= P ======= #
 # PuPuChaoShi
-response if ${url} ~= /^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/banner\/v\d\?position/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pupumarket.js") with tag="[墨鱼去开屏2.0]PuPuChaoShi", requires_body=true
+response if ${url} ~= /^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/banner\/v\d\?position/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/pupumarket.js") with tag="[墨鱼去开屏2.0]PuPuChaoShi", requires_body=true
 
 # PingAnJianKangQuanQiuBan
-response if ${url} ~= /^https?:\/\/api\.jk\.cn\/m\.api/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js") with tag="[墨鱼去开屏2.0]PingAnJianKangQuanQiuBan", requires_body=false
+response if ${url} ~= /^https?:\/\/api\.jk\.cn\/m\.api/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js") with tag="[墨鱼去开屏2.0]PingAnJianKangQuanQiuBan", requires_body=false
 
 # PuPuChaoShi
-response if ${url} ~= /^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/advertisement\/v/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "launch_time_close\":\\d+->launch_time_close\":1660716799999") with tag="[墨鱼去开屏2.0]PuPuChaoShi", requires_body=true
+response if ${url} ~= /^https?:\/\/j1\.pupuapi\.com\/client\/marketing\/advertisement\/v/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "launch_time_close\":\\d+->launch_time_close\":1660716799999") with tag="[墨鱼去开屏2.0]PuPuChaoShi", requires_body=true
 
 # ======= Q ======= #
 # QiDianYueDu
-response if ${url} ~= /^https?:\/\/apps\.teamair\.cn\/app\/version/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/qidian.js") with tag="[墨鱼去开屏2.0]QiDianYueDu", requires_body=false
+response if ${url} ~= /^https?:\/\/apps\.teamair\.cn\/app\/version/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/qidian.js") with tag="[墨鱼去开屏2.0]QiDianYueDu", requires_body=false
 
 # ======= S ======= #
 # Spotify
-request if ${url} ~= /^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\//i then script("https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-json.js") with tag="[墨鱼去开屏2.0]Spotify-JSON", timeout=10
-response if ${url} ~= /^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$/i then script("https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js") with tag="[墨鱼去开屏2.0]Spotify-Proto", timeout=10, requires_body=true, binary_body_mode=true
+request if ${url} ~= /^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\//i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/app2smile/rules/master/js/spotify-json.js") with tag="[墨鱼去开屏2.0]Spotify-JSON", timeout=10
+response if ${url} ~= /^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js") with tag="[墨鱼去开屏2.0]Spotify-Proto", timeout=10, requires_body=true, binary_body_mode=true
 
 # ShunFeng
-response if ${url} ~= /^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/queryInfoFlow/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/shunfeng_json.js") with tag="[墨鱼去开屏2.0]ShunFeng", requires_body=true
+response if ${url} ~= /^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/queryInfoFlow/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/shunfeng_json.js") with tag="[墨鱼去开屏2.0]ShunFeng", requires_body=true
 
 # Stay
-response if ${url} ~= /^https?:\/\/api\.shenyin\.name\/stay-fork\/browse\/featured$/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/stay.js") with tag="[墨鱼去开屏2.0]Stay", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.shenyin\.name\/stay-fork\/browse\/featured$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/stay.js") with tag="[墨鱼去开屏2.0]Stay", requires_body=true
 
 # ShiHuo
-response if ${url} ~= /^https?:\/\/sh-gateway\.shihuo\.cn\/v\d\/services\/sh-adapi\/home\/screen/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "egin_time\":\"\\d{4}->egin_time\":\"2099") with tag="[墨鱼去开屏2.0]ShiHuo", requires_body=true
+response if ${url} ~= /^https?:\/\/sh-gateway\.shihuo\.cn\/v\d\/services\/sh-adapi\/home\/screen/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "egin_time\":\"\\d{4}->egin_time\":\"2099") with tag="[墨鱼去开屏2.0]ShiHuo", requires_body=true
 
 # ShenMeZhiDeMai
-response if ${url} ~= /^https?:\/\/.*zdmimg\.com\/cpm\/api\/v\d\/advert_distribution\/get_all_advertise/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/smzdm_json.js") with tag="[墨鱼去开屏2.0]ShenMeZhiDeMai", requires_body=true
+response if ${url} ~= /^https?:\/\/.*zdmimg\.com\/cpm\/api\/v\d\/advert_distribution\/get_all_advertise/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/smzdm_json.js") with tag="[墨鱼去开屏2.0]ShenMeZhiDeMai", requires_body=true
 
 # ShenZhouZuChe
-response if ${url} ~= /^https?:\/\/apiproxy\.zuche\.com\/resource\/cardes\/toufang\/marketing/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/dict.js") with tag="[墨鱼去开屏2.0]ShenZhouZuChe", requires_body=true
+response if ${url} ~= /^https?:\/\/apiproxy\.zuche\.com\/resource\/cardes\/toufang\/marketing/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/dict.js") with tag="[墨鱼去开屏2.0]ShenZhouZuChe", requires_body=true
 
 # ======= T ======= #
 # TianFuTong
-response if ${url} ~= /^https?:\/\/tft-app\.cdtft\.cn\/gateway-customer\/tftapp\/tft-ams\/api\/appAd/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "officialAdvertResultVo->ddgksf2013") with tag="[墨鱼去开屏2.0]TianFuTong", requires_body=true
+response if ${url} ~= /^https?:\/\/tft-app\.cdtft\.cn\/gateway-customer\/tftapp\/tft-ams\/api\/appAd/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "officialAdvertResultVo->ddgksf2013") with tag="[墨鱼去开屏2.0]TianFuTong", requires_body=true
 
 # ======= W ======= #
 # WeiXin 110
@@ -1410,17 +1410,17 @@ response if ${url} ~= /^https?:\/\/tft-app\.cdtft\.cn\/gateway-customer\/tftapp\
 
 # ======= X ======= #
 # XiaoTe
-response if ${url} ~= /^https?:\/\/lcen\.xiaote\.net\/api\/graphql/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "screenSplashAd->ddgksf2013") with tag="[墨鱼去开屏2.0]XiaoTe", requires_body=true
+response if ${url} ~= /^https?:\/\/lcen\.xiaote\.net\/api\/graphql/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "screenSplashAd->ddgksf2013") with tag="[墨鱼去开屏2.0]XiaoTe", requires_body=true
 
 # XiaoXiongBoFangQi
-response if ${url} ~= /^https?:\/\/apps\.workair\.cn\/app\/version/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "ads\"->ddgksf2013\"") with tag="[墨鱼去开屏2.0]XiaoXiongBoFangQi", requires_body=true
+response if ${url} ~= /^https?:\/\/apps\.workair\.cn\/app\/version/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "ads\"->ddgksf2013\"") with tag="[墨鱼去开屏2.0]XiaoXiongBoFangQi", requires_body=true
 
 # XiaoCanHuiShengHuo
-response if ${url} ~= /^https:\/\/gw\.xiaocantech\.com\/rpc/i then script("https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "\"vip_pop_up\":0->\"vip_pop_up\":2") with tag="[墨鱼去开屏2.0]XiaoCanHuiShengHuo", requires_body=true
+response if ${url} ~= /^https:\/\/gw\.xiaocantech\.com\/rpc/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/scripts/replace-body.js", "\"vip_pop_up\":0->\"vip_pop_up\":2") with tag="[墨鱼去开屏2.0]XiaoCanHuiShengHuo", requires_body=true
 
 # ======= Z ======= #
 # ZhiHu
-response if ${url} ~= /^https?:\/\/api\.zhihu\.com\/commercial_api.*launch_v2/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/zhihu_openads.js") with tag="[墨鱼去开屏2.0]ZhiHu", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.zhihu\.com\/commercial_api.*launch_v2/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/zhihu_openads.js") with tag="[墨鱼去开屏2.0]ZhiHu", requires_body=true
 
 [MitM]
 hostname = 101.226.30.36, 124.70.90.16, 123.249.33.119, 117.184.40.141, 140.207.67.231, ossx-link.ztehome.com.cn, yuudnn.lz-qs.com, marki.markiapp.com, misc.eol.cn, app.yuebuy.cn, rfs-fitness.rfsvr.net, api.ssp.xcultur.com, www.biguotk.com, api.szy.cn, advertise.zhiduodev.com, api-tx.dsocial.xyz, lens.leoao.com, appapi.lvcchong.com, api.qeeniao.com, apicloud.zol.com.cn, p0.pipi.cn, 203.107.1.97, choicegw2.eastmoney.com, m.mynj.cn, vod.pipi.cn, gw.xiaocantech.com, mobile.iqihang.com, api.bevol.com, mystore-gw.watsonsvip.com.cn, mobile-consumer.jetour.com.cn, app.mval.qq.com, galaxy-app.geely.com, hoapp.juneyaoair.com, ap.dongdianqiu.com, t.wind.com.cn, acs.m.goofish.com, g-acs.m.goofish.com, beijing-gateway-customer.app-prod.bjev.com.cn, api2.yaduo.com, api.ireaderm.net, marketing-aibox.v.mitvos.com, ad.seeyouyima.com, data.hgold.cn, *ziben.com, *.zhijianmedia.cn, prod.zh.igpsport.com, apptec.leapmotor.cn, admin-app.edifier.com, ac1.dcloud.net.cn, *.weathercn.com, *.tianmu.mobi, *.ranfenghd.com, tiebac.baidu.com, adx.zuoyebang.com, www.hpoi.net.cn, www.ctm.net, yyfapi.huatu.com, pjlapi.paojd.cn, api.dnurse.com, sdk.tianmu.mobi, newsuperapp.ftms.com.cn, gw-app-gateway.gwmapp-w.com, *.zongheng.com, oneapp-api.faw-vw.com, creditcardapp.bankcomm.com, api.369cx.cn, api.xiaoheihe.cn, api.zcool.com.cn, api.livelab.com.cn, pinggai*.caixin.com, *.5eplay.com, app.duxiaoman.com, *.flyert.*, lop-proxy.jd.com, 101.227.139.118, i.zhaojinapp.com, patientgate.91160.com, iyes.youku.com, gateway.cotticoffee.com, app.jiantou8.com, www.123pan.com, api-access.pangolin-sdk-toutiao.*com, zjh5api.ott4china.com, napi.ithome.com, api.qd-metro.com, api.kurobbs.com, apiproxy.zuche.com, api.smart.jd.com, mobileapi.xiamenair.com, home.mi.com, apps.teamair.cn, cn-app.narwaltech.com, api2.picooc.com, file.mylyg.net, lens.leoao.com, www.ahzs10000.com, api.qbb6.com, *.zdmimg.com, cdns.chinastock.com.cn, api.futunn.com, api.ireader.mobi, www.xqpark.cn, api.jk.cn, api.moomoo.com, api.ys7.com, cq11344-app-https-api-1.ictun.com, hxqapi.hiyun.tv, m-adphone.wenhua.com.cn, *.fenbi.com, api.medlive.cn, smsrebuild1.mail.10086.cn, ad.mcloud.139.com, comapi.reader.qq.com, commontgw.reader.qq.com, fuwu.nhsa.gov.cn, compus.xiaofubao.com, *.ubixioe.com, bp-api.bestv.com.cn, app.ibuscloud.com, www.kujiale.com, mama.dxy.com, newapp2.szsmk.com, vidz.3hxq.cn, xapi.xinmanhua.net, jz.wacaijizhang.com, ads.closeli.cn, shop-api.retail.mi.com, gorgon.youdao.com, cdke.youdao.com, m.stock.pingan.com, *.1rtb.net, careapi.oclean.com, hc-ssp.sm.cn, apps.workair.cn, app-api.medsci.cn, ad.cj.sina.cn, api.merach.com, advertise.bczeducation.cn, notify.baicizhan.com, app.api.qjjfin.com, dynamicad.kfc.com.cn, ump.sz.creditcard.ecitic.com, *.didapinche.com, api.mcd.cn, comicapi.manhuashe.com, acs-m.freshippo.com, zjmbank.js96008.com, www.flyert.com, api.ys7.com, saad.ms.zhangyue.net, dj.palmestore.com, device-box.onethingpcs.com, *.anythinktech.com, api.xueqiu.com, 182.92.251.113, 101.201.175.228, switch.jumpvg.com, mobilepaas.abchina.com.cn, api-one-wscn.awtmt.com, restapi.iyunmai.com, maicai.api.ddxq.mobi, info.mina.mi.com, qadx.qinlinad.com, app-gateway.leisuapi.com, app.c.nf.migu.cn, app.flymodem.com.cn, hfapp-service.qweather.net, *.ahhhhfs.com, promotion.medlive.cn, mobads.baidu.com, entree-ws.igetget.com, axxd.xmseeyouyima.com, guide-acs.m.taobao.com, *.mting.info, ad.lofter.com, entry.ubixioe.com, adv.ccb.com, client-api-v2.oray.com, www.pansearch.me, td.cgmcare.cn, *.yuanfudao.com, ad.mcloud.139.com, wallpaper.soutushenqi.com, 140.179.224.63, ap.dongqiudi.com, apapia-sqk.manmanbuy.com, *.tipatipa.xyz, superapp.xgimi.com, mix-api.camera360.com, api1.34580.com, api.wmpvp.com, gateway.abite.com, rengine-platform.llsapp.com, 1jietu.com, bbs-api.miyoushe.com, tcmobileapi.17usoft.com, m.msyc.cc, mgw.mpaas.cn-hangzhou.aliyuncs.com, ytmsout.radio.cn, api.kmovie.gifshow.com, igetcool-gateway.igetcool.com, *.xbwpys.com, open-cms-api.quark.cn, ftapi.10jqka.com.cn, wxa.wxs.qq.com, evs.500.com, j1.pupuapi.com, dq.dxy.cn, m.you.163.com, open-cms-api.uc.cn, *.yuxueyuan.cn, pan-api.bitqiu.com, client.tujia.com, vip7.fzwdyy.cn, *.qyfxgd.cn, *.weilai555.com, *.ecoliving168.com, *cupid.iqiyi.com, gateway.36kr.com, shopapi.io.mi.com, tk.lanjiyin.com, gongdu.youshu.cc, api.21ec74.com, ztoread.ziroom.com, iphone.ac.qq.com, gd.10086.cn, api.00bang.cn, app.hbooker.com, api.sfacg.com, newclient.map.baidu.com, api3.cls.cn, gateway-api.dushu365.com, p0.pipi.cn, jdread-api.jd.com, ms.jr.jd.com, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com, router-app-api.jdcloud.com, app.homeinns.com, cdn-evone-ceph.echargenet.com, gg.caixin.com, app-gw.csdn.net, api.gameplus.qq.com, mrobot.pconline.com.cn, djcapp.game.qq.com, mxsa.mxbc.net, cn-acs.m.cainiao.com, zjdr666.com, api.caiyunapp.com, api.ahmobile.cn, gx.10086.cn, emdcad*.eastmoney.com, api-sams.walmartmobile.cn, creditcardapp.bankcomm.cn, lban.spdb.com.cn, adapi.izuiyou.com, i.ys7.com, apps.api.ke.com, api.yonghuivip.com, gateway.shouqiev.com, res.pizzahut.com.cn, api.caijingmobile.com, 3g.csair.com, client-api.oray.com, bgw.xinyue.qq.com, api-new.app.acfun.cn, m.client.10010.com, open.fitdays.cn, gha.ghac.cn, sh-gateway.shihuo.cn, wcprd.hilton.com, ad.12306.cn, 103.91.210.141, adx-cn.anythinktech.com, js-ad.ayximgs.com, api.dangdang.com, pzoap.moedot.com, pipi.4kya.com, vip7.fzwdyy.cn, sdk.alibaba.com.ailbaba.me, tft-app.cdtft.cn, bgw.xinyue.qq.com, pan.baidu.com, yunbusiness.ccb.com, client.app.coc.10086.cn, t1.market.xiaomi.com, api.m.mi.com, app.zhuanzhuan.com, api.cloud.189.cn, appwk.baidu.com, us.l.qq.com, open.e.kuaishou.com, mi.gdt.qq.com, adm.10jqka.com.cn, a.qiumibao.com, api.tipsoon.com, b.appsimg.com, ios.sspai.com, zconfig.alibabausercontent.com, api.touker.com, mpcs.suning.com, api.yangkeduo.com, easyreadfs.nosdn.127.net, sp.kaola.com, gw.kaola.com, mime.baidu.com, learn.chaoxing.com, mapi.dangdang.com, api.dangdang.com, open.e.kuaishou.com, client.qunar.com, mpos-pic.helipay.com, dili.bdatu.com, wap.ngchina.cn, ih2.ireader.com, adpai.thepaper.cn, api.haohaozhu.cn, list-app-m.i4.cn, api.xiachufang.com, peisongapi.meituan.com, *gaoqingdianshi.com, *.kakamobi.cn, api.jxedt.com, slapi.oray.net, r.inews.qq.com, app.yinxiang.com, mapi.appvipshop.com, syh.zybang.com, cdn.cmgadx.com, api.internetofcity.cn, img.meituan.net, lcen.xiaote.net, venus.yhd.com, api.shenyin.name, mage*.if.qidian.com, god.gameyw.netease.com, m.ibuscloud.com, e.dangdang.com, app2.autoimg.cn, adproxy.autohome.com.cn, *.umetrip.com, explorer.tratao.com, overseas.weico.cc, 118.178.214.118, 182.92.251.113, 120.241.*, dapis.mting.info, acs.m.taobao.com, open3.vistastory.com, ssp.dzh.com.cn, www.meituan.com, client.mail.163.com, api.izuiyou.com, appapi.huazhu.com, api.wfdata.club, interface*.music.163.com, api.psy-1.com, res.kfc.com.cn, security.wechat.com, weixin110.qq.com, api.coolapk.com, app3.qdaily.com, daoyu.sdo.com, img.jiemian.com, ccsp-egmas.sf-express.com, *.laichon.com, app.ap.d3yuiw4.com, www.i3zh.com, api.yikaobang.com.cn, api-ad-product.huxiu.com, mob.mddcloud.com.cn, appactive.1234567.com.cn, rtbapi.douyucdn.cn, service.busi.inke.cn, gab.122.gov.cn, dispatcher.camera360.com, app.api.versa-ai.com, open.taou.com, api.taou.com, track.mm.taou.com, app.dewu.com, data-collector.soulapp.cn, api.gamer.com.tw, beta-api.crunchyroll.com, api.vistopia.com.cn, pss.txffp.com, m.sd.10086.cn, helper.2bulu.com, 47.100.65.202, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, new.vip.weibo.cn, wap.js.10086.cn, tagit.hyhuo.com, top-widgets-api.xiaozujian.com, *mangaapi.manhuaren.*, apis.lifeweek.com.cn, support.you.163.com, yanxuan.nosdn.127.net, *.peopleapp.com, new-app-api.ylyk.com, gw.aihuishou.com, *.58cdn.com.cn, app.58.com, api.zhihu.com, creditcardapp.bankcomm.com, res.xiaojukeji.com, 116.85.2.15, 116.85.2.14, 212.129.159.79, lchttpapi.xczim.com, business.msstatic.com, api.kkmh.com, api.jr.mi.com, api.m.mi.com, guanyu.longfor.com, elemecdn.com, fuss10.elemecdn.com, www1.elecfans.com, m.tuniu.com, mapi.mafengwo.cn, api.xiaoyi.com, api.douban.com, otheve.beacon.qq.com, mapi.sfbest.com, api.mwee.cn, sso.ifanr.com, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, wmapi.meituan.com, appconf.mail.163.com, dl-cu-hz.lechange.cn, fbchina.flipchina.cn, zone.guiderank-app.com, homefront.qunar.com, afd.baidu.com, ma-adx.ctrip.com, mbd.baidu.com, img.rr.tv, api.rr.tv, *.hoopchina.com, goblin.hupu.com, spclient.wg.spotify.com, 180.96.8.44, 125.215.147.40

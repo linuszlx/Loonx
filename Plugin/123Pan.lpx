@@ -20,9 +20,9 @@
 request if ${url} ~= /^https:\/\/www\.123pan\.com\/api\/config\/get/i then reject_dict(200)
 
 [Script]
-response if ${url} ~= /^https?:\/\/www\.123pan\.com\/s\/[0-9a-zA-Z=_\/-]+\.html/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/123pan.js") with tag="[123云盘]移除广告", timeout=60, requires_body=true
+response if ${url} ~= /^https?:\/\/www\.123pan\.com\/s\/[0-9a-zA-Z=_\/-]+\.html/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/123pan.js") with tag="[123云盘]移除广告", timeout=60, requires_body=true
 
-request if ${url} ~= /^https?:\/\/www\.123pan\.com\/b\/api\/share\/download\/info/i then script("https://raw.githubusercontent.com/ddgksf2013/Scripts/master/123pan.js") with tag="[123云盘]解除下载限制", timeout=60
+request if ${url} ~= /^https?:\/\/www\.123pan\.com\/b\/api\/share\/download\/info/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ddgksf2013/Scripts/master/123pan.js") with tag="[123云盘]解除下载限制", timeout=60
 
 [MitM]
 hostname = www.123pan.com

@@ -28,10 +28,10 @@ DOMAIN-SUFFIX, v2ex.com, PROXY
 ^https?:\/\/.*v2ex\.com\/pro\/emitter reject-200
 
 [Script]
-request if ${url} ~= /^https?:\/\/www\.v2ex\.com\/(mission|member).*$/i then script("https://raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/v2ex/v2ex.js") with enable=${Cookie-V2EX}, tag="[V2EX]每日签到Cookie", timeout=10
-cron ${Cron-V2EX} then script("https://raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/v2ex/v2ex.js") with enable=${Task-V2EX}, tag="[V2EX]每日签到Task", timeout=60
+request if ${url} ~= /^https?:\/\/www\.v2ex\.com\/(mission|member).*$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/v2ex/v2ex.js") with enable=${Cookie-V2EX}, tag="[V2EX]每日签到Cookie", timeout=10
+cron ${Cron-V2EX} then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/curtinp118/Scripthub/main/scripts/v2ex/v2ex.js") with enable=${Task-V2EX}, tag="[V2EX]每日签到Task", timeout=60
 
-response if ${url} ~= /^https?:\/\/.*v2ex\.com\/(?!(.*(api|login|cdn-cgi|verify|auth|captch|(\.(js|css|jpg|jpeg|png|webp|gif|zip|woff|woff2|m3u8|mp4|mov|m4v|avi|mkv|flv|rmvb|wmv|rm|asf|asx|mp3|json|ico|otf|ttf)))))/i then script("https://ddgksf2013.top/scripts/v2ex.ads.js") with tag="[V2EX]移除广告", requires_body=true
+response if ${url} ~= /^https?:\/\/.*v2ex\.com\/(?!(.*(api|login|cdn-cgi|verify|auth|captch|(\.(js|css|jpg|jpeg|png|webp|gif|zip|woff|woff2|m3u8|mp4|mov|m4v|avi|mkv|flv|rmvb|wmv|rm|asf|asx|mp3|json|ico|otf|ttf)))))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/ddgksf2013.top/scripts/v2ex.ads.js") with tag="[V2EX]移除广告", requires_body=true
 
 [MitM]
 hostname = *.v2ex.com, pagead*.googlesyndication.com

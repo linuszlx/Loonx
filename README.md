@@ -4,7 +4,7 @@
 
 收录日期：2026-11-02。网站完整目录共 136 个插件。
 
-保留插件原始内容、作者署名及来源链接。远程脚本、规则和图标保留原链接，本备份不包含这些依赖。原作者权利及各自许可继续适用；上游仓库许可副本见 [LICENSE](LICENSE)。
+已备份可获取的脚本及静态代码依赖，并将插件与代码依赖链接改为本仓库 Raw 地址。保留作者署名及来源记录。在线 API、规则和图标继续使用原地址。原作者权利及各自许可继续适用；上游仓库许可副本见 [LICENSE](LICENSE)。
 
 `plugins.all.json` 为完整目录，`plugins.json` 为网站默认目录；`manifest.json` 记录来源、文件大小和 SHA-256 校验值。
 
@@ -148,3 +148,9 @@
 | iTunes | [iTunes_baby.lpx](Plugin/iTunes_baby.lpx) | [Raw](https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/iTunes_baby.lpx) |
 | 米游社 | [miHoYoBBS.lpx](Plugin/miHoYoBBS.lpx) | [Raw](https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/miHoYoBBS.lpx) |
 | 什么值得买 | [smzdm.lpx](Plugin/smzdm.lpx) | [Raw](https://raw.githubusercontent.com/linuszlx/Loonx/main/Plugin/smzdm.lpx) |
+
+## 脚本备份
+
+已保存 265 个脚本及代码依赖；修改 70 个插件，共替换 483 处脚本引用。来源、原始校验值、修改后校验值及代码依赖替换记录见 [script-manifest.json](script-manifest.json)。
+
+源站拦截的 19 个文件保留原地址，未替换为空文件或错误页面；详情见 [SCRIPT-MISSING.md](SCRIPT-MISSING.md)。备份面向 Loon，Node.js 专用通知模块和运行时生成的订阅/API 地址仍由上游提供。

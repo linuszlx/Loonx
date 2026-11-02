@@ -22,11 +22,11 @@ cors = input, "https://sub-store.vercel.app, http://substore.stash, https://subs
 DOMAIN, sub-store.vercel.app, PROXY
 
 [Script]
-request if ${url} ~= /^https?:\/\/sub\.store\/((download)|api\/(preview|sync|(utils\/node-info)))/i then script("https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js", {${cors}}) with tag="[Sub-Store] Core", timeout=900, requires_body=true
+request if ${url} ~= /^https?:\/\/sub\.store\/((download)|api\/(preview|sync|(utils\/node-info)))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js", {${cors}}) with tag="[Sub-Store] Core", timeout=900, requires_body=true
 
-request if ${url} ~= /^https?:\/\/sub\.store/i then script("https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js", {${cors}}) with tag="[Sub-Store] Simple", timeout=900, requires_body=true
+request if ${url} ~= /^https?:\/\/sub\.store/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js", {${cors}}) with tag="[Sub-Store] Simple", timeout=900, requires_body=true
 
-cron ${cron} then script("https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js", {${sync_success_notify}, ${cors}}) with tag="[Sub-Store] Sync", timeout=900
+cron ${cron} then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js", {${sync_success_notify}, ${cors}}) with tag="[Sub-Store] Sync", timeout=900
 
 [MitM]
 hostname = sub.store
