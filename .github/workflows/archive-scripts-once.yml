@@ -1,0 +1,25 @@
+name: Import archived Loon scripts once
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/archive-scripts-once.yml']
+permissions:
+  contents: write
+concurrency:
+  group: archive-scripts-once
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download verified script snapshots and update references
+        run: python3 .github/import-scripts-once.py --root . --data .github/import-data
+      - name: Commit script archive
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add Plugin Script README.md SCRIPT-MISSING.md script-manifest.json manifest.json plugins.json plugins.all.json
+          git commit -m 'Archive 265 scripts and dependencies; repoint 483 plugin references'
+          git push origin HEAD:main
