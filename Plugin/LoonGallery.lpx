@@ -17,7 +17,7 @@
 DOMAIN, loon-plugin.vercel.app, PROXY
 
 [Script]
-request if ${url} ~= /^https?:\/\/xn--ck8h\.com/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Loon0x00/Loon-Gallery/master/backend/gallery.js") with tag="Loon插件仓库", timeout=120, requires_body=true
+request if ${url} ~= /^https?:\/\/xn--ck8h\.com/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/LoonGallery/gallery.js") with tag="Loon插件仓库", timeout=120, requires_body=true
 
 [MitM]
 hostname = xn--ck8h.com

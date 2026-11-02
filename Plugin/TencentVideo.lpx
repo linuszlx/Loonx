@@ -51,15 +51,15 @@ DOMAIN, tacc.video.qq.com, REJECT
 # IP-CIDR, 111.6.166.107/32, no-resolve, REJECT
 
 [Script]
-request if ${url} ~= /^https?:\/\/i\.video\.qq\.com\/(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]请求体处理", timeout=10, requires_body=true, binary_body_mode=true
+request if ${url} ~= /^https?:\/\/i\.video\.qq\.com\/(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]请求体处理", timeout=10, requires_body=true, binary_body_mode=true
 
-response if ${url} ~= /^https?:\/\/i\.video\.qq\.com\/(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]响应体处理", timeout=10, requires_body=true, binary_body_mode=true
+response if ${url} ~= /^https?:\/\/i\.video\.qq\.com\/(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]响应体处理", timeout=10, requires_body=true, binary_body_mode=true
 
-response if ${url} ~= /^https?:\/\/iacc\.qq\.com\/(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]JCE处理", timeout=10, requires_body=true, binary_body_mode=true
+response if ${url} ~= /^https?:\/\/iacc\.qq\.com\/(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]JCE处理", timeout=10, requires_body=true, binary_body_mode=true
 
-response if ${url} ~= /^https?:\/\/config\.ab\.qq\.com\/tab\/GetTabRemoteConfig(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]配置处理", timeout=10, requires_body=true, binary_body_mode=true
+response if ${url} ~= /^https?:\/\/config\.ab\.qq\.com\/tab\/GetTabRemoteConfig(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]配置处理", timeout=10, requires_body=true, binary_body_mode=true
 
-response if ${url} ~= /^https:\/\/rdelivery\.qq\.com\/v1\/sdkconfig\/get(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]配置处理", timeout=10, requires_body=true
+response if ${url} ~= /^https:\/\/rdelivery\.qq\.com\/v1\/sdkconfig\/get(?:\?.*)?$/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/TencentVideo/TencentVideo.js") with tag="[腾讯视频]配置处理", timeout=10, requires_body=true
 
 [MitM]
 hostname = i.video.qq.com, iacc.qq.com, config.ab.qq.com, rdelivery.qq.com

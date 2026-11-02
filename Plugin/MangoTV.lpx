@@ -71,7 +71,7 @@ request if ${url} ~= /^https?:\/\/mobileso\.bz\.mgtv\.com\/mobile\/recommend\/v\
 
 [Script]
 # 会员解锁
-request if ${url} ~= /^https?:\/\/mobile-stream\.api\.mgtv\.com\/v1\/video\/source/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/ZenmoFeiShi/Qx/main/mgtv_vip.js") with tag="[芒果TV]会员Crack", requires_body=false
+request if ${url} ~= /^https?:\/\/mobile-stream\.api\.mgtv\.com\/v1\/video\/source/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/MangoTV/mgtv_vip.js") with tag="[芒果TV]会员Crack", requires_body=false
 
 # request if ${url} ~= /^https?:\/\/mobile-stream\.api\.mgtv\.com\/v1\/video\/source\?/i then script("https://raw.githubusercontent.com/WeiGiegie/666/main/mgtk.js") with tag="[芒果TV]会员Crack", requires_body=false
 

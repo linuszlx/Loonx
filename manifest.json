@@ -7,15 +7,15 @@
       "filename": "1.1.1.1.lpx",
       "url": "https://loon.103516.xyz/Plugin/1.1.1.1.lpx",
       "source_sha256": "a843698ed0bb841593eb651678db1e0523c5b9eee19eca93942fa5f08252f436",
-      "bytes": 2551,
-      "sha256": "e6e960f7e85b63b9fd51d2c132a50cdf3693bf37ee9309cbd6f0a4bcb207bb9f"
+      "bytes": 2306,
+      "sha256": "3498c78dee02620d6f8ccb0881edb658f50989f6beda090dd46f43b69a198378"
     },
     {
       "filename": "123Pan.lpx",
       "url": "https://loon.103516.xyz/Plugin/123Pan.lpx",
       "source_sha256": "b79e60385ec7170c6dd493388e53db910cea9deb5e1a68df8440a6a032c9f27a",
-      "bytes": 1522,
-      "sha256": "8ef4bd6b9053a6c9a99f9aa6f6eb5697b9f597c0d450a66b920704f157aeea98"
+      "bytes": 1432,
+      "sha256": "346d4fdabeefd88e0dcdb9bf5cc47865e3af3ee886b23e5bb81d3b6bd3745e2f"
     },
     {
       "filename": "AiHuiShou.lpx",
@@ -28,15 +28,15 @@
       "filename": "Alipan.lpx",
       "url": "https://loon.103516.xyz/Plugin/Alipan.lpx",
       "source_sha256": "fba6e9a1903eb5dcf40d74678ef04e08b69d1c718b45f32bfe41aad31962bb4a",
-      "bytes": 2273,
-      "sha256": "fd7a3848bb8e4b82ce8b3b00dbfc67c5e55fc576e59cbbeae46a55cf63d621f0"
+      "bytes": 2227,
+      "sha256": "f506ea4e92bef40fa8d02dcd6a0fd4cfa9a8f6763b838a126d3084e790b93e14"
     },
     {
       "filename": "Amap.lpx",
       "url": "https://loon.103516.xyz/Plugin/Amap.lpx",
       "source_sha256": "2b9a29519da2cf2420522b63107473607a6f1131b66fd86b1dbd8775a13fbe4d",
-      "bytes": 14914,
-      "sha256": "02e9b71b909a00b30bbc3d673494c387ce324ff917838814bcd60f7531bb646b"
+      "bytes": 14667,
+      "sha256": "516b700d8f5e4c9413f1237e3354e35366319eff15ceba3dc75cdb32e03756d0"
     },
     {
       "filename": "Anti-DNS-Leaks.lpx",
@@ -49,22 +49,22 @@
       "filename": "AppRaven.lpx",
       "url": "https://loon.103516.xyz/Plugin/AppRaven.lpx",
       "source_sha256": "283e507c13db48b7551802b888717da815426be8778fddbf53bfa7bf1820a0b1",
-      "bytes": 743,
-      "sha256": "5347a4989ff9ef225f51c415a6e3cc28eccf4c7eacf0700763b62272878f684a"
+      "bytes": 720,
+      "sha256": "6e1c49a03412e429e92b148cad3b9f35ab35a8be6c76c4c6cfa94f338b61ef90"
     },
     {
       "filename": "AppStoreMonitor.lpx",
       "url": "https://loon.103516.xyz/Plugin/AppStoreMonitor.lpx",
       "source_sha256": "ee7243c5211033a1e12deca48856771c6b8cb999c931a85366c0f58976b252cf",
-      "bytes": 1918,
-      "sha256": "04430fe739bd328b435d92fdd4d7ee2db90f25a6ababf2a6e00b7a364a23d305"
+      "bytes": 1902,
+      "sha256": "05de480e7e4598fc8c9c9f20ab148b31f997ec7c72239c773a916efa783bf63c"
     },
     {
       "filename": "AppleOSMonitor.lpx",
       "url": "https://loon.103516.xyz/Plugin/AppleOSMonitor.lpx",
       "source_sha256": "48c7427c4a20a6a2a5357a288bd2c5261782a6c6267c22b853cc9294e8b5e8cc",
-      "bytes": 2535,
-      "sha256": "7b4dcda7406637cd53c2259fe37ff45a235c78406cf8f77d0f1a4641639cc528"
+      "bytes": 2519,
+      "sha256": "dbc1824f6c57fa3339fbcc0a8c5ac1ff0e175535e9aacd33386f1f078a679bec"
     },
     {
       "filename": "ArchimedesFM.lpx",
@@ -84,8 +84,8 @@
       "filename": "BaiduNetDisk.lpx",
       "url": "https://loon.103516.xyz/Plugin/BaiduNetDisk.lpx",
       "source_sha256": "5a48a2c4014d65aaebff8622f0c6c607ab2e5b816113c3dc5782538623e06064",
-      "bytes": 4566,
-      "sha256": "36158f97d9757aba58604bc78593136883f87358fd87b7278fa9f5d10dc1b703"
+      "bytes": 4481,
+      "sha256": "90e1b98687b78ef20d92dd5329ddbdc90718dfb56e9120564c3dd8fc423e64ac"
     },
     {
       "filename": "BaiduTieba.lpx",
@@ -112,43 +112,43 @@
       "filename": "Bilibili.lpx",
       "url": "https://loon.103516.xyz/Plugin/Bilibili.lpx",
       "source_sha256": "8814e0f7f8fe52a4b62c849acaf8df2e225c622bd2ae68e6e88d154f222f84bf",
-      "bytes": 9435,
-      "sha256": "e1bd9fae9ee35d95caa24a6c2e8a3e9b0542f15611f2a6dc82fbcf8dbdf5d4c2"
+      "bytes": 9210,
+      "sha256": "94ef4029b8382b68b0732b7910b05b99619bff3b559b5835f3e12a537ea30b7a"
     },
     {
       "filename": "Bilibili_VIP.lpx",
       "url": "https://loon.103516.xyz/Plugin/Bilibili_VIP.lpx",
       "source_sha256": "1260b3df5eb4aeee32ae9c6d288afb981c9fc69b6196eebbfecfe13425b324ed",
-      "bytes": 1150,
-      "sha256": "a727dbdd10a71dc9ae4d7945edcbacb38611a5e87bc1acc39db4068df614187c"
+      "bytes": 1130,
+      "sha256": "e8bb6d46f650d78f01add89f87a48945781175240d7c9f19393d21e903a7526e"
     },
     {
       "filename": "BlockAds.lpx",
       "url": "https://loon.103516.xyz/Plugin/BlockAds.lpx",
       "source_sha256": "3f6b6da7928a608302a9c5cde3662d9d6898e060d2baccdbf3d9027ca41e4dca",
-      "bytes": 173927,
-      "sha256": "387a281fd90d04ae9ca82c15a53342c31cbb4dfa69adb766329aa3b7c0da0605"
+      "bytes": 170149,
+      "sha256": "6cf5d32d6225acf424eafc9eb5095952fa61f0fdf82dbc8d32291cdfd53bc62b"
     },
     {
       "filename": "BodianMusic.lpx",
       "url": "https://loon.103516.xyz/Plugin/BodianMusic.lpx",
       "source_sha256": "ce9efc2db2715570ed72c841ca4c2069ec35b207107bfd264eb8988d5c219036",
-      "bytes": 6647,
-      "sha256": "0d4be0e69171d8bdb6ab45700e47126ba2347737b1cede65ba6c20a474b28cdc"
+      "bytes": 6614,
+      "sha256": "e966252c3ff439f487e16a07e02602733dd66c29e03f60ffc52324eac16da5be"
     },
     {
       "filename": "BoxJs.lpx",
       "url": "https://loon.103516.xyz/Plugin/BoxJs.lpx",
       "source_sha256": "5709f3263c71f193c82664df54121be0a00d196be385e802dd59f145258bcac2",
-      "bytes": 925,
-      "sha256": "cbdafb847bd61ae05ec8ce3a48141d8bc72f9b220cc6be44a85344ebcc01fdd3"
+      "bytes": 875,
+      "sha256": "72ac62389f8843f2dcadff8ee9fbaa92aeb530a24cfafae53d21fff730474b95"
     },
     {
       "filename": "CMS_Adblock.lpx",
       "url": "https://loon.103516.xyz/Plugin/CMS_Adblock.lpx",
       "source_sha256": "6014d9068803d4eff143bf340f6535e735fb34451e3da10e12cb2124d680ff25",
-      "bytes": 6489,
-      "sha256": "e7bac250fca1a7b6994d79524b7c44ca1905e2d25de23e098914ea021ac9d764"
+      "bytes": 5689,
+      "sha256": "77780730b3950c4948c0fcd283a10f2a7fcccad7a41507cb3212c463c6f8a8fb"
     },
     {
       "filename": "CaiNiao.lpx",
@@ -189,8 +189,8 @@
       "filename": "ChinaMobile.lpx",
       "url": "https://loon.103516.xyz/Plugin/ChinaMobile.lpx",
       "source_sha256": "988f321b1b8cb08a078594c8aca1c1f1e9b5ee5758a7519ed4ee9eae96045494",
-      "bytes": 10294,
-      "sha256": "72f0fbc19ae2d1cc7d0d0f00a93b5a04673a097fdd9c4f4541e1f842adf5df83"
+      "bytes": 10041,
+      "sha256": "781e42411fa3d85fd01e30fd74603d6409f5cb4ea99df0de95ce3579dc86f76f"
     },
     {
       "filename": "ChinaUnicom.lpx",
@@ -203,22 +203,22 @@
       "filename": "ColorfulCloudsWeatherPro.lpx",
       "url": "https://loon.103516.xyz/Plugin/ColorfulCloudsWeatherPro.lpx",
       "source_sha256": "42fb812a1311807ef002d1ec2d23e6b7516caf642be1231c975d7f586d2f7c4b",
-      "bytes": 2346,
-      "sha256": "a119dfe7b2c54d482694acecb01c315b7f8c2aaa345736b636ec87d4f7b92442"
+      "bytes": 2254,
+      "sha256": "f35c80d2825c06ed34dc67623796c46facee3c6cc11da480db4b207b5acca6d8"
     },
     {
       "filename": "CookieTask.lpx",
       "url": "https://loon.103516.xyz/Plugin/CookieTask.lpx",
       "source_sha256": "ef8a20409808d6a6f34a7fac26331019442e3d202dc51bab5fb997c06238659f",
-      "bytes": 6803,
-      "sha256": "cef94fb6a0d417b8c1d80699da94ffbc0d42d5d3558d98ae830287abf7856f69"
+      "bytes": 6351,
+      "sha256": "8aa25c4960c6a18ed45022793bef70b02c33edbe4498943124dd8f7f0692ddd7"
     },
     {
       "filename": "CoolApk.lpx",
       "url": "https://loon.103516.xyz/Plugin/CoolApk.lpx",
       "source_sha256": "db68e5cc2f1290fb3fada07f72d1c4c306069b11f37f2e77d98e5144357ec9e2",
-      "bytes": 3817,
-      "sha256": "5e490b592ac756cc7892cb3a9c07f85117ac94ad06d0410daa44ea519de1036a"
+      "bytes": 3759,
+      "sha256": "8595cc94f38d948fb136289502f45ef54bd9e066dcf476ef8f978da2e865d471"
     },
     {
       "filename": "CosmosFM.lpx",
@@ -252,8 +252,8 @@
       "filename": "DingDongMaiCai.lpx",
       "url": "https://loon.103516.xyz/Plugin/DingDongMaiCai.lpx",
       "source_sha256": "7c60b05968c8f90816ebaf8b698d142e076b7ecca7ed561018749f7629e1273d",
-      "bytes": 5042,
-      "sha256": "e1641708a402c8f0a3db84e7567d51857747d04e3ea1e502fb5f18a5df45a25e"
+      "bytes": 4938,
+      "sha256": "d4aba98133ee288a40bb4015e38c5d926d409e659f42de10ad7ee86439d7bc0e"
     },
     {
       "filename": "DouBan.lpx",
@@ -280,8 +280,8 @@
       "filename": "FanShu.lpx",
       "url": "https://loon.103516.xyz/Plugin/FanShu.lpx",
       "source_sha256": "ff629ab2cfc33e6dd5a44a3dbcc07546f94835c1ce41a3204e2507332ea038db",
-      "bytes": 4551,
-      "sha256": "b8abb973d2b01c2ef05be14c469be4651039d1dde88b5ffa1557c6609f15b238"
+      "bytes": 4083,
+      "sha256": "9c303b7e6e473ec75dfaebc8f66ce87ef129ba3fb7d6399ff3208f0b76616509"
     },
     {
       "filename": "FenBi.lpx",
@@ -308,22 +308,22 @@
       "filename": "GLaDOS.lpx",
       "url": "https://loon.103516.xyz/Plugin/GLaDOS.lpx",
       "source_sha256": "f3a705e24b3b6d532ceb79d7497f2dcb7fa573dbd4dd8cd3b46d790e27d7bbe9",
-      "bytes": 1754,
-      "sha256": "68fee3d754ac25b57e9b124b85a20a9f3d69b0ef9d7e858f3a6d21fbcce8dfe3"
+      "bytes": 1708,
+      "sha256": "2c234e90ef9cb2e84e26dba8a4bc769aaa105030f291c3a8484dd459dec9f13d"
     },
     {
       "filename": "GitHub.lpx",
       "url": "https://loon.103516.xyz/Plugin/GitHub.lpx",
       "source_sha256": "1e5f7f219e305735f67f3478283b70e6c56c9e45a95d66767c0ffefa8b0d9922",
-      "bytes": 1304,
-      "sha256": "7440edbc46b98be1fa60acdcb9cc12ebaf737bddbfc94be605ee105bd8677ed6"
+      "bytes": 1281,
+      "sha256": "89b5508cce45128f638096003ffc149fb110750486ced265de8c8726e58ffbee"
     },
     {
       "filename": "Goofish.lpx",
       "url": "https://loon.103516.xyz/Plugin/Goofish.lpx",
       "source_sha256": "25d617c6e4c9606e646ee17d1f9de18ec8c8a988ce7548f80b79c2c37e83650d",
-      "bytes": 10825,
-      "sha256": "a32115a54c896e15c48a332fae4719e10dba36ab397b6a619c3e51ee300654f2"
+      "bytes": 10531,
+      "sha256": "ad9425cfa33a86cf25ddcc70a6420a132125465a6c7ffdcefabd0d8cbb32e39f"
     },
     {
       "filename": "Google.lpx",
@@ -357,15 +357,15 @@
       "filename": "IPAManager.lpx",
       "url": "https://loon.103516.xyz/Plugin/IPAManager.lpx",
       "source_sha256": "dfc1cd00783cc7b5730db6ec029530b1a89b22393e78a7e7d5a16f38345e8465",
-      "bytes": 1096,
-      "sha256": "3c58b3c117fc30d78b0fd9bc990f14dd5928baaf521aed9b71d39ec539742fb3"
+      "bytes": 1050,
+      "sha256": "30a508d8618780397ef9cf2c66e4d26c8f5cdad8b4d9743c7b4544f9051e6135"
     },
     {
       "filename": "IPPure.lpx",
       "url": "https://loon.103516.xyz/Plugin/IPPure.lpx",
       "source_sha256": "f3ab07479bfefb6d8d3e98e4ba16926ad82fecad9aad2df3bd6fe2bcf0df5cd0",
-      "bytes": 564,
-      "sha256": "1afd6a136095ef8388f3e4be36c026e06b6e407be10c7d668693f3332aef550b"
+      "bytes": 541,
+      "sha256": "3e136d4e0cd01e8100cf12612d29a56ea559698238f597a413d71a9e811aa879"
     },
     {
       "filename": "IQIYI.lpx",
@@ -392,8 +392,8 @@
       "filename": "JingDong.lpx",
       "url": "https://loon.103516.xyz/Plugin/JingDong.lpx",
       "source_sha256": "b69257731b4a6c17d550b940b3c5297034ff51e7cc7dd60e2c7fac7ec2591988",
-      "bytes": 5795,
-      "sha256": "94bc9bfcc4f6f80c91e86d4eb2348b2e17a47a3b02d4e66490ff228d2282f1f1"
+      "bytes": 5576,
+      "sha256": "468e7e93509e557cb6f35c0259491e57f1d39eeb8e708beb76665ea1e937c943"
     },
     {
       "filename": "JingdongWaimai.lpx",
@@ -420,8 +420,8 @@
       "filename": "KuwoMusic.lpx",
       "url": "https://loon.103516.xyz/Plugin/KuwoMusic.lpx",
       "source_sha256": "fc17badee895b410c7e7a9619f75bce2539ecdeed533d748a27f72391fb554dc",
-      "bytes": 5656,
-      "sha256": "41e3b17b3cbb278290d4bc93e6128cc89a4a8e6b01d5159ff332fd5072f66e45"
+      "bytes": 5349,
+      "sha256": "d4c9851a238a541cd8962250bda8458d57dc550175d865d60041ddba2e0953b5"
     },
     {
       "filename": "Kwai.lpx",
@@ -441,15 +441,15 @@
       "filename": "Listenify.lpx",
       "url": "https://loon.103516.xyz/Plugin/Listenify.lpx",
       "source_sha256": "4bee112bfde73bcaffa66c8bd12888d0e727c3d06fc7ffc58f77855fb2330b01",
-      "bytes": 774,
-      "sha256": "8621e560cc94325fe5b8edf3771371ec8fc3edb26dc14d182f01307253f263c9"
+      "bytes": 732,
+      "sha256": "9b2ac69922a1e27da09029339f8f40e108a08e5cf06e3c766f8a4f49a09bc53f"
     },
     {
       "filename": "LoonGallery.lpx",
       "url": "https://loon.103516.xyz/Plugin/LoonGallery.lpx",
       "source_sha256": "e6b782cc2bbce96c04f0fd93c4bac84f132894f2fb5b8078588fb9f87464f49a",
-      "bytes": 890,
-      "sha256": "a31e972c69f350fad1d36451240dad4e3f3365092669a78409b70c60b65d2b1c"
+      "bytes": 839,
+      "sha256": "9c5423d63e7330317f22bfdc86433cf424804585403dc3c21caeadb78f39fc99"
     },
     {
       "filename": "Loopback.lpx",
@@ -483,8 +483,8 @@
       "filename": "MangoTV.lpx",
       "url": "https://loon.103516.xyz/Plugin/MangoTV.lpx",
       "source_sha256": "9465e55d64dcfa64983c598098dc2a7d48bdcb6296e455b30fe1c50371bb230a",
-      "bytes": 5826,
-      "sha256": "d0b2dcb55c17766b5e4f8ebb1def0c38aea25ccbb0b8e58f0aa9283f41b83b1e"
+      "bytes": 5788,
+      "sha256": "a438234fb9091676fac8758496e68f078a2767387112be44d8d248df9032c9d1"
     },
     {
       "filename": "MeetYou.lpx",
@@ -497,50 +497,50 @@
       "filename": "MeiTuan.lpx",
       "url": "https://loon.103516.xyz/Plugin/MeiTuan.lpx",
       "source_sha256": "2b0ccf9f990a95747d6a788c9e809f9ec5bb0967759e8138792562e5c0ffd38a",
-      "bytes": 5600,
-      "sha256": "0dc2d6dc9e4082e84d684b99555b8de011d6f2a8323f1344b1f337322f649dad"
+      "bytes": 5416,
+      "sha256": "9831c59f1aaed7797765ea29ee34daf1004ed07df7419f0263b5bcfb0de2662e"
     },
     {
       "filename": "MiguVideo.lpx",
       "url": "https://loon.103516.xyz/Plugin/MiguVideo.lpx",
       "source_sha256": "611ab4b1267c3d08b025fe5222ff54bcc640f0074c12ea527013e6227f94e248",
-      "bytes": 2384,
-      "sha256": "f8189ba14f778b551b6449ab782514ae395efbcf1abd0fc5dd5851b633907da5"
+      "bytes": 2286,
+      "sha256": "da3435d4cb2548ec9e3872118afcb36be5d83d49b022a1f36a4c21c4e7f609a8"
     },
     {
       "filename": "MyBlockAds.lpx",
       "url": "https://loon.103516.xyz/Plugin/MyBlockAds.lpx",
       "source_sha256": "7f23c4b56192dbd22f82c88d1b9fc7e9785a3a3c53431c238dc00662a2f29d23",
-      "bytes": 27299,
-      "sha256": "b46abe5aefe4ccf0aea4c181074b31c2945dcc028a91b00bbca3f30af4a5c856"
+      "bytes": 27091,
+      "sha256": "55023da290efff833b7a264803fb53d7d980ea8b13be2f11108552555b2f3381"
     },
     {
       "filename": "NeteaseMusic.lpx",
       "url": "https://loon.103516.xyz/Plugin/NeteaseMusic.lpx",
       "source_sha256": "3339cf75947fc730f42506f1c3132b0c4409e708b416fff2483c29b40df5bded",
-      "bytes": 10801,
-      "sha256": "1fc13fa881ff92353648f3d22519871d20ad058e4e0959d2d82b1d71c317ed1a"
+      "bytes": 10479,
+      "sha256": "6a4826e3356f70efd609aafbb2a845dc6248f9c73225d0676ba3878e16a87d99"
     },
     {
       "filename": "Netisp-x.lpx",
       "url": "https://loon.103516.xyz/Plugin/Netisp-x.lpx",
       "source_sha256": "8e763708af77a3f6e4539e32b87c0598cdca9e7271ebeea198f690bb7ac9d6d7",
-      "bytes": 1799,
-      "sha256": "32e701d60125ad59e8d634ed889747b3a0ce2c394c83403a7bba5434080b0ab4"
+      "bytes": 1610,
+      "sha256": "2f7ecc22ed613080ab93468c5dd9cf4240ba515f86a7c4a8bc6f441f52dc29ea"
     },
     {
       "filename": "NodeSeek.lpx",
       "url": "https://loon.103516.xyz/Plugin/NodeSeek.lpx",
       "source_sha256": "814d2ecbdc54776d42e619020e3e8545cf363c63d1ce1ec9098cb5c2d29e33c3",
-      "bytes": 2733,
-      "sha256": "c30c1ecea57df1aecf3e6a4832424bfd9eaf50028b6af49e6db929df4d5b91b4"
+      "bytes": 2641,
+      "sha256": "69e5b5f12fe43e1e19ef51741a6e40d506f594952197dfa8fb9e86b3e3d1b389"
     },
     {
       "filename": "NodeTools.lpx",
       "url": "https://loon.103516.xyz/Plugin/NodeTools.lpx",
       "source_sha256": "0fd3d532c899ff375c047d136a1d39443a27f8ed2bf532431a687487eac8ff67",
-      "bytes": 1868,
-      "sha256": "c5cf4195c6756a091e67f70053d80e5914253119404fe5561c00dc1133e414da"
+      "bytes": 1747,
+      "sha256": "5c2e9ce31a201be812f918e2139894e0bcd99dbc73408e549e3b0e5d70b0a9c9"
     },
     {
       "filename": "PandaTV.lpx",
@@ -553,8 +553,8 @@
       "filename": "PinDuoDuo.lpx",
       "url": "https://loon.103516.xyz/Plugin/PinDuoDuo.lpx",
       "source_sha256": "78e0d6e25e3c80769710496fa46aed44f8ec6225977ebf28159d215fb24bba17",
-      "bytes": 8496,
-      "sha256": "2bcfa08b5b7186f3c1e422dacb10f90eff4875538d2de11ba949e47cbe420839"
+      "bytes": 8468,
+      "sha256": "339d84e8ab982fc5777424ff6a571e33677a205252573c0473ee8992a7477d23"
     },
     {
       "filename": "QQ.lpx",
@@ -595,15 +595,15 @@
       "filename": "Railway12306.lpx",
       "url": "https://loon.103516.xyz/Plugin/Railway12306.lpx",
       "source_sha256": "ba0755159088859165aa1d7e49d5574801a771985ee0998aa58ca6145281c958",
-      "bytes": 1179,
-      "sha256": "29d95ee73f5b3b23ad7b8cd6a41ae1efe4c10ad6f1558eb18f89b38b6be60ba1"
+      "bytes": 1097,
+      "sha256": "fda05d01d4cc3aa21a04e59eb0925316da565340418277df453692b384a200dc"
     },
     {
       "filename": "RedNote.lpx",
       "url": "https://loon.103516.xyz/Plugin/RedNote.lpx",
       "source_sha256": "79651793439d89174f129c160dfc53b8f0fa99030c84d982cb21329c444f6803",
-      "bytes": 7968,
-      "sha256": "a8ae24cb87319d3f70456ae2375644f1786bc716183ee30a809e80d101e34b19"
+      "bytes": 7728,
+      "sha256": "0c6858da48869729fe5f22b19277400505cc75806b2a8a0a666251c295c82343"
     },
     {
       "filename": "Reddit.lpx",
@@ -623,15 +623,15 @@
       "filename": "RevenueCat.lpx",
       "url": "https://loon.103516.xyz/Plugin/RevenueCat.lpx",
       "source_sha256": "aa5c8c2988ed8263b8d1a7538ebf9009e97a5b51d7b75c2e96de0e412c2c0333",
-      "bytes": 3403,
-      "sha256": "c154bbb73116b2aec2808179ac2c4c60c34e13c933608b0c3d4d141cec37c275"
+      "bytes": 3204,
+      "sha256": "776bc07106f4a63243ff61da5303339bada8c43d648939f2eca3883673214c29"
     },
     {
       "filename": "RevenueCat_baby.lpx",
       "url": "https://loon.103516.xyz/Plugin/RevenueCat_baby.lpx",
       "source_sha256": "cc1578d240b3418dae2d86594c581685c5f8571858085a45a8028779a2a073d9",
-      "bytes": 1709,
-      "sha256": "21926227db69abe2cc76f7c7ada152a571435e1e1f0ba082c43134a53ba45450"
+      "bytes": 1691,
+      "sha256": "c79e68a89a6a72a03899ca8dcf50d8d9e7a331921bb19d2fa03d940644bb66d4"
     },
     {
       "filename": "SF-Express.lpx",
@@ -644,8 +644,8 @@
       "filename": "Script-Hub.lpx",
       "url": "https://loon.103516.xyz/Plugin/Script-Hub.lpx",
       "source_sha256": "1f6ca7704bc2e0a67a80dda39173b2283bdcf6f044d8c284a40acce12c6515f6",
-      "bytes": 2478,
-      "sha256": "d9de262f986430579fa69c7c0e7ee2bc4a6f855073ecb4d7d93a39f021076b52"
+      "bytes": 2294,
+      "sha256": "17da021c58e6c6b54500567e50c00103765f802f23c5b8901b2d3ff5a09c5eeb"
     },
     {
       "filename": "SkipProxy.lpx",
@@ -665,8 +665,8 @@
       "filename": "Soul.lpx",
       "url": "https://loon.103516.xyz/Plugin/Soul.lpx",
       "source_sha256": "d8dbb14d093962ff25c23f199c2f61981d2d82424d67fecce2a24081d1949971",
-      "bytes": 10937,
-      "sha256": "7b177adcb8f3587c9305d495caf22a3fa5c0bbc4c373585cbfd1a5396668a1f5"
+      "bytes": 10802,
+      "sha256": "13ffe304b4fff1298262679b45e4e964460925f41394eefc55dcb76d7f362ef2"
     },
     {
       "filename": "SourceCode.lpx",
@@ -679,36 +679,36 @@
       "filename": "Spotify.lpx",
       "url": "https://loon.103516.xyz/Plugin/Spotify.lpx",
       "source_sha256": "ff2893d6684aadd789e700f8ab8a08f11fd2ae826b558b6288c9eb664ab4ccdb",
-      "bytes": 1872,
-      "sha256": "ba89dec1b5c8079a662efb2e811c751c528f79e3591758cf7aecdbae57f2cb8b"
+      "bytes": 1826,
+      "sha256": "606b16f10818ce5d0980b8cdcd1c37d21957685cae078cacf05a0235f83e052d"
     },
     {
       "filename": "Spotify_CN.lpx",
       "url": "https://loon.103516.xyz/Plugin/Spotify_CN.lpx",
       "source_sha256": "da0813d693b97d84e6edd96a1966565f1c75f412f70793084a75e29c73d22d2e",
-      "bytes": 4563,
-      "sha256": "949de52aa2396bc5ac305bac530e77f80d18bd505adfda05c100a61c3769e564"
+      "bytes": 4101,
+      "sha256": "891d18d70086f0742baed9b778e9cd3e522fd07caf2b5973939736c3d502445c"
     },
     {
       "filename": "StartUpAds.lpx",
       "url": "https://loon.103516.xyz/Plugin/StartUpAds.lpx",
       "source_sha256": "305406a1523327f66b6e54fde33cdbf59d569cb0c46775c4fd254ebcb67bd9b1",
-      "bytes": 81262,
-      "sha256": "c774f84dfc4ee0bbb1838bc2fe0678c6ee901d35c3768210a29683d80245e216"
+      "bytes": 79358,
+      "sha256": "9fd0049470a4436de0f2a45a41df65d3aa5c3590a7d69b1b0bcdc92272fd2808"
     },
     {
       "filename": "StreamingMedia.lpx",
       "url": "https://loon.103516.xyz/Plugin/StreamingMedia.lpx",
       "source_sha256": "7ed1c00e0e7a92f0738e2769c9107f4fc57b49555dcd25ea4f0e6935850e3553",
-      "bytes": 8077,
-      "sha256": "148fa34f44b214b3c05ca1efc21a783f6ee99ed4bb9ff2a9da590f790d30492d"
+      "bytes": 6700,
+      "sha256": "d41b7926bf4f8c39128b106f72ca388acdf3eca36837ed6014bcf25a1a686c38"
     },
     {
       "filename": "Sub-Store.lpx",
       "url": "https://loon.103516.xyz/Plugin/Sub-Store.lpx",
       "source_sha256": "de0d9d37ca709bdd7167a1505c7470a8f80c417b5cf96de413e3afb875daaf48",
-      "bytes": 2114,
-      "sha256": "c7900ebebf467bc40e23e24b7e3cccbb0d94c125d3b5e93ddc408de2c58998f8"
+      "bytes": 1964,
+      "sha256": "bab9a01a104da1abbf79b3db755346c86f82497cccb4dfad13f02beb9bde441f"
     },
     {
       "filename": "TaoBao.lpx",
@@ -735,8 +735,8 @@
       "filename": "Telegram.lpx",
       "url": "https://loon.103516.xyz/Plugin/Telegram.lpx",
       "source_sha256": "572841ea06e16e23d28f2bcd3116445219d869ff0f13e79cb3c249c83d80f182",
-      "bytes": 2532,
-      "sha256": "02d7cd19cc8be0aa6a35a82d66afe0454278cad6132559a34f42b708ae7950fa"
+      "bytes": 2509,
+      "sha256": "b06b1c2f8d6c39271c76a2a64435699f95f030822707eb8b7b71ff7322935149"
     },
     {
       "filename": "TencentDocs.lpx",
@@ -749,8 +749,8 @@
       "filename": "TencentVideo.lpx",
       "url": "https://loon.103516.xyz/Plugin/TencentVideo.lpx",
       "source_sha256": "9fff1b376cadc46f7eee35639de1c4a0b3fb7b5d589d4181d43edc3b4b75b7ba",
-      "bytes": 3403,
-      "sha256": "2a049e039aabc90ebaf5037881984bc18a661789617c2d872772fdb881eea477"
+      "bytes": 3288,
+      "sha256": "372c3ec44c1fe1c415e12c70f6c30a7a42f2b49c8189a449a554e9d07fffdfda"
     },
     {
       "filename": "TestFlight.lpx",
@@ -763,71 +763,71 @@
       "filename": "TestFlightMonitor.lpx",
       "url": "https://loon.103516.xyz/Plugin/TestFlightMonitor.lpx",
       "source_sha256": "03d14ec3495079457ff7a4e38981d848d9eddac33bfdc62c95313dddb4d0c203",
-      "bytes": 2139,
-      "sha256": "ca245ccc6971580f7c9be2219eebe9ddb0cc7b96884c9d89a87589ed1fd1cd55"
+      "bytes": 2091,
+      "sha256": "6b3f7ff345e3401137ddfcba07e2ce7128f33ef4d24249316ab1dc4d0cce9d43"
     },
     {
       "filename": "ThunderCloudDisk.lpx",
       "url": "https://loon.103516.xyz/Plugin/ThunderCloudDisk.lpx",
       "source_sha256": "851a951e081c0926f465cdc630ba8b3cf16b3aeb1156cda12657c1e9767cbd78",
-      "bytes": 1743,
-      "sha256": "004ba9cdf1e9d35d712623e4e268567e4a8127e330441464b9c703c805748106"
+      "bytes": 1709,
+      "sha256": "6ab78c545cc448b44115e204d0a90be0b100fda734db62a8e2df8339041c007b"
     },
     {
       "filename": "UAPI_HotBoard.lpx",
       "url": "https://loon.103516.xyz/Plugin/UAPI_HotBoard.lpx",
       "source_sha256": "4c438625198924548a2f5d4d935a03affd0aa76ec0be4331cfb55ad79e264ac8",
-      "bytes": 2241,
-      "sha256": "b89d9831bc0894969337c5ee11fbe85921f7271db8cddc25be75f46e7b2baf40"
+      "bytes": 2227,
+      "sha256": "a04068d9d02ac004f8a552ca4285b2eef5d9c51cda51d2976d53e51a096ab88a"
     },
     {
       "filename": "Umetrip.lpx",
       "url": "https://loon.103516.xyz/Plugin/Umetrip.lpx",
       "source_sha256": "5540ea1b719521c248e8dd2623b73eb233dd5e89653c1615f79ab6160af69959",
-      "bytes": 1696,
-      "sha256": "39f57fa1e53cf6171d654d833e7457c5ab2a6646e08140a72eeceb2f4deea9c8"
+      "bytes": 1681,
+      "sha256": "1ce590c66da35fc32a8f85e783757600540d974cf3140c96421640d89cdf7487"
     },
     {
       "filename": "V2EX.lpx",
       "url": "https://loon.103516.xyz/Plugin/V2EX.lpx",
       "source_sha256": "0e78c6be79e9ee2979b03089438d8723aa689dba41d472413d4d309717f5506b",
-      "bytes": 2114,
-      "sha256": "c5be3d45c0988a68069a80f755bc3b60293bff596118b9cd326dd107b4ffed24"
+      "bytes": 1976,
+      "sha256": "96cb57e7304c077ce7f730444d0b380606ba107fcdebf972bef783b69d828122"
     },
     {
       "filename": "VVebo.lpx",
       "url": "https://loon.103516.xyz/Plugin/VVebo.lpx",
       "source_sha256": "cdcade42cdc7068f44cd6f2d7e11957e2e70425128e24f3324b4a5c2f49dd8f2",
-      "bytes": 1759,
-      "sha256": "89e7f15de576919671b80f3f133f44270c6183e9b0cdc6eb1895171acb0355aa"
+      "bytes": 1567,
+      "sha256": "62f2afd60a7f67d57f586ed05a123574015ea3da6185d47b6347e9e7a4fd70fa"
     },
     {
       "filename": "Vistopia.lpx",
       "url": "https://loon.103516.xyz/Plugin/Vistopia.lpx",
       "source_sha256": "368b7e850d096c1f70aa4f9f68a776da3ce47c09c8fb6aadc1c7d78e3af5719e",
-      "bytes": 3825,
-      "sha256": "a77b8b233022c96c379d26367a18a5239c006dd99ecdddbfa0396eafd9032658"
+      "bytes": 3443,
+      "sha256": "38dd290292b6439dbd6126a0784dd238a9dad06386149a69aaac9ec38a3f62e8"
     },
     {
       "filename": "WeChat.lpx",
       "url": "https://loon.103516.xyz/Plugin/WeChat.lpx",
       "source_sha256": "067711819f1932eea594bfa9bcbbc03f63a0072345e6f92580e69a066c829834",
-      "bytes": 38177,
-      "sha256": "d9032c5a7e32185271da822913d042cfeffca6a2ea642aa33b2da51ae3909771"
+      "bytes": 37651,
+      "sha256": "583eddd39ef0e9ffa7d3095c2b2a143d3d05257452f743d87991b6fdc1a034ca"
     },
     {
       "filename": "WebPage.lpx",
       "url": "https://loon.103516.xyz/Plugin/WebPage.lpx",
       "source_sha256": "5c55b9cb4e41ad177105949a98b3ced482b15059d375243e713c9a99821ae44b",
-      "bytes": 8052,
-      "sha256": "707e06939a8087bc3579e94b994ab0a21477fb230cf7621bf81a5b158edd2664"
+      "bytes": 7602,
+      "sha256": "4d63432d619a2c6c2c4880fc0d951f1527d8cda6f0b4d0c53e9c9e8d55802829"
     },
     {
       "filename": "WeiBo.lpx",
       "url": "https://loon.103516.xyz/Plugin/WeiBo.lpx",
       "source_sha256": "ae197c042583b46435ab69922374bf9c9ab660daaa6d9c6dcb79870deb5f946d",
-      "bytes": 11758,
-      "sha256": "a046e90fd0d435ce91c9deefb6560a07a0eebb2a62f700e16025e9ef635002e7"
+      "bytes": 11316,
+      "sha256": "3a640608395554995ecb1c66c00576e20ed9c38992e28a00959ec9bd8ceac0de"
     },
     {
       "filename": "WeiBo_Intl.lpx",
@@ -840,8 +840,8 @@
       "filename": "WeiBo_ddgksf2013.lpx",
       "url": "https://loon.103516.xyz/Plugin/WeiBo_ddgksf2013.lpx",
       "source_sha256": "791228a0fdce013459dec1ebc25d20fa8d1147d3e6fc0e273fde10b79c3b75c1",
-      "bytes": 2609,
-      "sha256": "29a5190c6ac72b1cb1293bf0139c1128bf0c8d3d85cc8f99bf864997cba82086"
+      "bytes": 2579,
+      "sha256": "f92f9ffa2b073052b16f60d1dab94a222cab55234fd7584e3e0f82e3029291d0"
     },
     {
       "filename": "WeiDian.lpx",
@@ -854,15 +854,15 @@
       "filename": "XPTV.lpx",
       "url": "https://loon.103516.xyz/Plugin/XPTV.lpx",
       "source_sha256": "f22b6283879965eed359c58740e66ffdabe2eb1f791fcdba19fc7192689cc59f",
-      "bytes": 4183,
-      "sha256": "4db565ed31a499daa0528e8328e5128161caa8984837927c15ef8de4b6ad7faf"
+      "bytes": 3679,
+      "sha256": "cf4df031c55378799e9fc042443ad88afebf0068792c0306144383567c9f1a29"
     },
     {
       "filename": "X_Web.lpx",
       "url": "https://loon.103516.xyz/Plugin/X_Web.lpx",
       "source_sha256": "ab1748f4779f7ee7460683a4a0d98c80a7d3e2a0e77267ccb5fcd476ca08e2e0",
-      "bytes": 2316,
-      "sha256": "7c3011c19143584ded696fb7b303a4ff8e3528b301a893d78907a1fc0a6b80ba"
+      "bytes": 2238,
+      "sha256": "64f534618865a62c218821648d9148a6898b3a6ac87b91334997ef9af52cba5c"
     },
     {
       "filename": "XiaoCan.lpx",
@@ -896,15 +896,15 @@
       "filename": "YouTube.lpx",
       "url": "https://loon.103516.xyz/Plugin/YouTube.lpx",
       "source_sha256": "831921245901a089d912ae4951f6372ee14d7d1ec9d52518ef9c463eab40c49b",
-      "bytes": 2969,
-      "sha256": "b356134b03b3e9f175c1bf9f219b3f7a9dac2fae46ddf1465246587a67d6a5af"
+      "bytes": 2801,
+      "sha256": "5cd49d8bc122dea3322b2d8d8524b64267d3da3c3b6f937d33c3b99bd45e8dee"
     },
     {
       "filename": "YouTube_CN.lpx",
       "url": "https://loon.103516.xyz/Plugin/YouTube_CN.lpx",
       "source_sha256": "fc51aa227d2767fedad4ac86d56f8534bccc00dc39f32077dbdaffe8be12c526",
-      "bytes": 11283,
-      "sha256": "2b3797487ad9dcc35295e97ee5895407b6d744cade1e63c057dbec9c3aed304d"
+      "bytes": 10436,
+      "sha256": "9f0c8f052e6a2a516b2c5d011a5bffccd218d67849b3b68fdcbb27550e9e5793"
     },
     {
       "filename": "YoukuVideo.lpx",
@@ -917,29 +917,29 @@
       "filename": "ZhiHu.lpx",
       "url": "https://loon.103516.xyz/Plugin/ZhiHu.lpx",
       "source_sha256": "10652bee0fbd516ee90227b6aac2edaadca9f61753369047e2bfa17465938670",
-      "bytes": 13060,
-      "sha256": "2f5c3768d01f5f28a9a621017b67398cb21e262be044f259689dbc8154f0b799"
+      "bytes": 12880,
+      "sha256": "02089a0bb314976b217c159e2296f9dfcd84b41bd8b725bd275898c7cee1a6d0"
     },
     {
       "filename": "iRingo_WeatherKit.lpx",
       "url": "https://loon.103516.xyz/Plugin/iRingo_WeatherKit.lpx",
       "source_sha256": "03787e03c242190c27b426bf87a51d77d14bbc2ed03264caf0af67ba4acc501c",
-      "bytes": 6339,
-      "sha256": "5e538f7779c08a24b7c8054b339ee833fe7f018f0ab80a4fe94fc34787421c6c"
+      "bytes": 6154,
+      "sha256": "7cb8a68967e7852acd39872acafd2b34102323ddf146bcb980e72a425802ba2a"
     },
     {
       "filename": "iTunes.lpx",
       "url": "https://loon.103516.xyz/Plugin/iTunes.lpx",
       "source_sha256": "ce423d370987a0854128c0733be6c3b0fad8a64d7a9c47b187a14cc1cbb5649c",
-      "bytes": 2092,
-      "sha256": "990a27c932347e13c4434850b1fd08fb163af0b48f62d3ceb1bd4556d44fafca"
+      "bytes": 1988,
+      "sha256": "ec4ba798f479ab7133fd485e1f2b4d076cebbf6b6201840c4f217b213b7dc33b"
     },
     {
       "filename": "iTunes_baby.lpx",
       "url": "https://loon.103516.xyz/Plugin/iTunes_baby.lpx",
       "source_sha256": "c5afa078f5bc88df4b29b88297cd40b4ecf17990ad5dd5ba4285aeee4437b62d",
-      "bytes": 1451,
-      "sha256": "aa07acdafc96fab59934b07bff258acdbe9bc6e29cc5c0885f503e97a6f9eb6f"
+      "bytes": 1429,
+      "sha256": "00c1e882d9bc049484ab7420f0d1ef3352bdb3e339c0a15439d89d30a60c90f0"
     },
     {
       "filename": "miHoYoBBS.lpx",

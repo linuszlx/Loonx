@@ -23,19 +23,19 @@ response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/home\/advert
 response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/other\/pop-up(\?|$)/i then response.body.mock("base64", "eyJzdGF0dXMiOiJlcnJvciIsImRhdGEiOm51bGx9", 404, true)
 
 [Script]
-response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/home\/header-new(\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/main/Script/klx_no_ads.js") with tag="[看理想]移除首页推广", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/home\/header-new(\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_no_ads.js") with tag="[看理想]移除首页推广", requires_body=true
 
-response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/other\/config(\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/main/Script/klx_no_ads.js") with tag="[看理想]移除广告配置", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/other\/config(\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_no_ads.js") with tag="[看理想]移除广告配置", requires_body=true
 
-response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/(reader\/(section-detail|detail)|user\/home|vip\/buy-list|services\/play-token(?!\?library_article_id=))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/8918cca082e16cf42f7b72cd52f20e036724e719/Script/klx_app_video_compat.js") with tag="[看理想]VIP解锁", timeout=15, requires_body=true
+response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/(reader\/(section-detail|detail)|user\/home|vip\/buy-list|services\/play-token(?!\?library_article_id=))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_app_video_compat.js") with tag="[看理想]VIP解锁", timeout=15, requires_body=true
 
-response if ${url} ~= /^https?:\/\/shop\.vistopia\.com\.cn\/vip_rights(?:\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/b29d585e7953968337272a9e0f74a83676602e56/Script/klx_vip_page_hide_purchase.js") with tag="[看理想]移除会员页购买区", requires_body=true
+response if ${url} ~= /^https?:\/\/shop\.vistopia\.com\.cn\/vip_rights(?:\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_vip_page_hide_purchase.js") with tag="[看理想]移除会员页购买区", requires_body=true
 
-response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/(services\/articles-play-token(\?|$)|content\/batch(\?|$))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/main/Script/klx_app_download_unlock-80a8d0f2.js") with tag="[看理想]下载链路修正", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/(services\/articles-play-token(\?|$)|content\/batch(\?|$))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_app_download_unlock.js") with tag="[看理想]下载链路修正", requires_body=true
 
-response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/content\/(content-show\/\d+|article_list(\?|$))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/main/Script/klx_app_catalog_unlock.js") with tag="[看理想]目录解锁", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/content\/(content-show\/\d+|article_list(\?|$))/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_app_catalog_unlock.js") with tag="[看理想]目录解锁", requires_body=true
 
-response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/user\/profile(\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Aioneas/Surge/main/Script/klx_profile_clean.js") with tag="[看理想]移除推广昵称", requires_body=true
+response if ${url} ~= /^https?:\/\/api\.vistopia\.com\.cn\/api\/v2\/user\/profile(\?|$)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/Vistopia/klx_profile_clean.js") with tag="[看理想]移除推广昵称", requires_body=true
 
 [MitM]
 hostname = api.vistopia.com.cn, shop.vistopia.com.cn

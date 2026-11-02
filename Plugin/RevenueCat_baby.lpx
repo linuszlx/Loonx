@@ -17,7 +17,7 @@ Bypass = input, "-", tag = 跳过指定App会员解锁, desc = 对修改响应�
 Strategy = select, "auto", "lifetime_sub", "year", "month", "all", tag = 解锁策略, desc = auto使用官方规范；lifetime_sub兼容旧版App，将永久订阅加入subscriptions并延长至2099年；year/month仅注入对应期限订阅，不处理永久订阅；all注入全部PID。永久订阅解锁失败时，优先尝试lifetime_sub。
 
 [Script]
-request if ${url} ~= /^https:\/\/(api\.revenuecat\.com|api\.rc-backup\.com|rc\.visionarytech\.ltd|revenue\.cuto\.app|proxy\.linearity\.io|subscriptions-api\.superwall\.com|api\.adapty\.io)\//i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/reven.jsforbaby.workers.dev/reven/loon-redirect.js", {${Bypass}, ${Strategy}}) with tag="[RevenueCat]Crack Relay", requires_body=true
+request if ${url} ~= /^https:\/\/(api\.revenuecat\.com|api\.rc-backup\.com|rc\.visionarytech\.ltd|revenue\.cuto\.app|proxy\.linearity\.io|subscriptions-api\.superwall\.com|api\.adapty\.io)\//i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/RevenueCat_baby/loon-redirect.js", {${Bypass}, ${Strategy}}) with tag="[RevenueCat]Crack Relay", requires_body=true
 
 [MitM]
 hostname = api.revenuecat.com, api.rc-backup.com, rc.visionarytech.ltd, revenue.cuto.app, proxy.linearity.io, subscriptions-api.superwall.com, api.adapty.io

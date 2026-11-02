@@ -89,9 +89,9 @@ response if ${url} ~= /^https:\/\/api\.pinduoduo\.com\/api\/aristotle\/order_lis
 [Script]
 # response if ${url} ~= /^https:\/\/api\.pinduoduo\.com\/api\/alexa\/homepage\/hub\?/i then script("https://rucu6.pages.dev/Scripts/pinduoduo.js") with tag="[拼多多]精简首页", timeout=10, requires_body=true
 
-response if ${url} ~= /^https:\/\/m\.pinduoduo\.net\/comment_result\.html\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/rucu6.pages.dev/Scripts/pinduoduo.js") with tag="[拼多多]精简评价页", requires_body=true
+response if ${url} ~= /^https:\/\/m\.pinduoduo\.net\/comment_result\.html\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/PinDuoDuo/pinduoduo.js") with tag="[拼多多]精简评价页", requires_body=true
 
-response if ${url} ~= /^https:\/\/m\.pinduoduo\.net\/mdkd\/package\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/rucu6.pages.dev/Scripts/pinduoduo.js") with tag="[拼多多]精简取件页", requires_body=true
+response if ${url} ~= /^https:\/\/m\.pinduoduo\.net\/mdkd\/package\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/PinDuoDuo/pinduoduo.js") with tag="[拼多多]精简取件页", requires_body=true
 
 [MitM]
 hostname = api.pinduoduo.com, api.yangkeduo.com, m.pinduoduo.net

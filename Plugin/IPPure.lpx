@@ -11,4 +11,4 @@
 #!date = 2026-10-02 12:00
 
 [Script]
-generic then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/loon.103516.xyz/Script/IPPure/IPPure.js") with tag="IPPure", img_url="leaf", timeout=10
+generic then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/IPPure/IPPure.js") with tag="IPPure", img_url="leaf", timeout=10

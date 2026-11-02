@@ -23,7 +23,7 @@ response if ${url} ~= /^https:\/\/api-shoulei-ssl\.xunlei\.com\/flowhub\/v1\/slo
 
 [Script]
 # 解锁迅雷会员
-response if ${url} ~= /^https:\/\/xluser-ssl\.xunlei\.com\/xluser\.core\.login\/v3\/getuserinfo/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Marol62926/MarScrpt/main/xunlei.js") with tag="[迅雷云盘]解锁会员", requires_body=true
+response if ${url} ~= /^https:\/\/xluser-ssl\.xunlei\.com\/xluser\.core\.login\/v3\/getuserinfo/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/ThunderCloudDisk/xunlei.js") with tag="[迅雷云盘]解锁会员", requires_body=true
 
 [MitM]
 hostname = conf-m-ssl.xunlei.com, api-shoulei-ssl.xunlei.com, xluser-ssl.xunlei.com

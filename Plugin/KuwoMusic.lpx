@@ -57,18 +57,18 @@ request if ${url} ~= /^https?:\/\/appi\.kuwo\.cn\/kuwopay\vip-tab\/setting/i the
 
 [Script]
 # 解锁会员
-response if ${url} ~= /^https?:\/\/(?:vip1\.kuwo\.cn\/(?:vip\/enc\/user\/vip|vip\/v2\/user\/vip|(?:commercia\/)?vip\/(?:v2\/theme\?op=gd|player\/getStyleListByModel|hanger\/wear)|commercia\/vip\/dressCenter\/getTabList|commercia\/vipTab\/myTab\/base)|.+\.kuwo\.cn\/mobi\.s\?f=(?:kuwo|kwxs)\&q=|music(?:pay)?\.kuwo\.cn\/music\.pay\?newver=3|wapi\.kuwo\.cn\/openapi\/v1\/user\/freeMode\/give\/time|tingshu\.kuwo\.cn\/(?:api\/v2\/pay\/app\/getConfigInfo|v2\/api\/pay\/payInfo\/kwplayer\/payMiniBar)|audiobookpay\.kuwo\.cn\/a\.p|homepages\.kuwo\.cn(?:\.eo\.dnse1\.com)?\/mgxh\.s)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/Yuheng0101/X/main/Scripts/Kuwo/kuwo.js") with enable=${KuwoMusic-Crack}, tag="[酷我音乐]会员Crack", timeout=60, requires_body=true
+response if ${url} ~= /^https?:\/\/(?:vip1\.kuwo\.cn\/(?:vip\/enc\/user\/vip|vip\/v2\/user\/vip|(?:commercia\/)?vip\/(?:v2\/theme\?op=gd|player\/getStyleListByModel|hanger\/wear)|commercia\/vip\/dressCenter\/getTabList|commercia\/vipTab\/myTab\/base)|.+\.kuwo\.cn\/mobi\.s\?f=(?:kuwo|kwxs)\&q=|music(?:pay)?\.kuwo\.cn\/music\.pay\?newver=3|wapi\.kuwo\.cn\/openapi\/v1\/user\/freeMode\/give\/time|tingshu\.kuwo\.cn\/(?:api\/v2\/pay\/app\/getConfigInfo|v2\/api\/pay\/payInfo\/kwplayer\/payMiniBar)|audiobookpay\.kuwo\.cn\/a\.p|homepages\.kuwo\.cn(?:\.eo\.dnse1\.com)?\/mgxh\.s)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/KuwoMusic/kuwo.js") with enable=${KuwoMusic-Crack}, tag="[酷我音乐]会员Crack", timeout=60, requires_body=true
 
 # 移除广告
-response if ${url} ~= /^https?:\/\/(mgxhtj|nmobi|searchrecterm)\.kuwo\.cn\/(mgxh|mobi|recterm)\.s/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js") with tag="[酷我音乐]移除广告", requires_body=true
+response if ${url} ~= /^https?:\/\/(mgxhtj|nmobi|searchrecterm)\.kuwo\.cn\/(mgxh|mobi|recterm)\.s/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/KuwoMusic/kuwo-2.js") with tag="[酷我音乐]移除广告", requires_body=true
 
-response if ${url} ~= /^https?:\/\/audiobookpay\.kuwo\.cn\/a\.p/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js") with tag="[酷我音乐]移除广告", requires_body=true
+response if ${url} ~= /^https?:\/\/audiobookpay\.kuwo\.cn\/a\.p/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/KuwoMusic/kuwo-2.js") with tag="[酷我音乐]移除广告", requires_body=true
 
-response if ${url} ~= /^https?:\/\/musicpay\.kuwo\.cn\/music\.pay/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js") with tag="[酷我音乐]移除广告", requires_body=true
+response if ${url} ~= /^https?:\/\/musicpay\.kuwo\.cn\/music\.pay/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/KuwoMusic/kuwo-2.js") with tag="[酷我音乐]移除广告", requires_body=true
 
-response if ${url} ~= /^https?:\/\/vip1\.kuwo\.cn\/vip\/(enc\/user\/vip\?op=ui|v\d\/theme\?op=gd)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js") with tag="[酷我音乐]移除广告", requires_body=true
+response if ${url} ~= /^https?:\/\/vip1\.kuwo\.cn\/vip\/(enc\/user\/vip\?op=ui|v\d\/theme\?op=gd)/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/KuwoMusic/kuwo-2.js") with tag="[酷我音乐]移除广告", requires_body=true
 
-response if ${url} ~= /^https?:\/\/vip1\.kuwo\.cn\/vip\/v\d\/user\/vip\?op=ui/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js") with tag="[酷我音乐]移除广告", requires_body=true
+response if ${url} ~= /^https?:\/\/vip1\.kuwo\.cn\/vip\/v\d\/user\/vip\?op=ui/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/KuwoMusic/kuwo-2.js") with tag="[酷我音乐]移除广告", requires_body=true
 
 # 移除听书页面广告
 # response if ${url} ~= /^http:\/\/wapi\.kuwo\.cn\/openapi\/v\d\/tingshu\/index\/radio/i then script("https://kelee.one/Resource/JavaScript/Kuwo/Kuwo_remove_ads.js") with tag="[酷我音乐]移除听书页面广告", requires_body=true

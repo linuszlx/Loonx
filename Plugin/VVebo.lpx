@@ -14,13 +14,13 @@
 # https://github.com/suiyuran/stash/blob/main/override/fix-vvebo.stoverride
 
 [Script]
-request if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/remind\/unread_count\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/suiyuran/stash/main/scripts/fix-vvebo-user-timeline.js") with tag="[VVebo]修复时间线"
+request if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/remind\/unread_count\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/VVebo/fix-vvebo-user-timeline.js") with tag="[VVebo]修复时间线"
 
-request if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/statuses\/user_timeline\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/suiyuran/stash/main/scripts/fix-vvebo-user-timeline.js") with tag="[VVebo]修复时间线"
+request if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/statuses\/user_timeline\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/VVebo/fix-vvebo-user-timeline.js") with tag="[VVebo]修复时间线"
 
-response if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/profile\/statuses\/tab\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/suiyuran/stash/main/scripts/fix-vvebo-user-timeline.js") with tag="[VVebo]修复时间线", requires_body=true
+response if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/profile\/statuses\/tab\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/VVebo/fix-vvebo-user-timeline.js") with tag="[VVebo]修复时间线", requires_body=true
 
-response if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/cardlist\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/raw.githubusercontent.com/suiyuran/stash/main/scripts/fix-vvebo-fans.js") with tag="[VVebo]修复我的页面", requires_body=true
+response if ${url} ~= /^https:\/\/api\.weibo\.cn\/2\/cardlist\?/i then script("https://raw.githubusercontent.com/linuszlx/Loonx/main/Script/VVebo/fix-vvebo-fans.js") with tag="[VVebo]修复我的页面", requires_body=true
 
 [MitM]
 hostname = api.weibo.cn
